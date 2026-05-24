@@ -1,287 +1,279 @@
 # CHAPTER – V
 
-# SUMMARY, FINDINGS, CONCLUSIONS AND SUGGESTIONS
+# SUMMARY, FINDINGS, CONCLUSIONS, EDUCATIONAL IMPLICATIONS AND SUGGESTIONS
 
----
+## 5.1 INTRODUCTION
 
-## 5.1 SUMMARY OF THE STUDY
+This chapter presents the closing part of the present dissertation. It draws together the findings of the four preceding chapters into a unified picture, offers conclusions, brings out the educational implications, gives concrete suggestions for the four main groups of stake-holders — teachers, parents, school administrators and guidance counsellors — and ends with suggestions for future research, the limitations of the study and a final concluding statement.
 
-The Secondary stage of education has long been recognised as the most crucial stage for the *crystallisation of vocational interests* of an individual. Consequently, the empirical study of these interests at this stage has been one of the most enduring concerns of educational psychologists, both in India and abroad. The present study is one such empirical effort. It is entitled **"A Comparative Study of Vocational Interests of Secondary School Students of Rural and Urban Areas in Government and Private Schools of Meerut District"**.
+## 5.2 SUMMARY OF THE STUDY
 
-In the present and concluding chapter of the dissertation, the entire investigation is briefly recapitulated, the major findings are listed, the principal conclusions are drawn, the educational implications are highlighted, suggestions are offered for further research and the limitations of the study are acknowledged.
+### 5.2.1 The Topic and the Setting
 
-### 5.1.1 The Problem
+The present study was titled **"A Comparative Study of the Vocational Interests of Boys and Girls Studying at Secondary Level"**. It was undertaken as a partial fulfilment of the requirements for the degree of Master of Education (M.Ed.) of Chaudhary Charan Singh University, Meerut. The fieldwork was carried out in **Meerut District** of Uttar Pradesh during the academic session **2025–2026**.
 
-The problem of the investigation, as stated in Chapter I, was to study and compare the vocational interest pattern of secondary school students belonging to four different educational settings of Meerut district — *(a) rural government, (b) rural private, (c) urban government, and (d) urban private*. The investigator also wished to study the difference between *boys* and *girls* on the same dimensions.
+### 5.2.2 The Need for the Study
 
-### 5.1.2 Objectives
+Vocational interest is one of the strongest internal forces that shape a young person's career decision. The age-period of secondary schooling (classes IX–X) coincides almost exactly with the **Tentative period** of Ginzberg's theory and the **Exploration stage** of Super's theory, when adolescents are actively searching for a vocational direction. India's National Education Policy 2020 has, for the first time in many years, given serious attention to vocational exposure at the secondary stage. Yet, in everyday life, the question of "what shall I become?" continues to be silently coloured by the gender of the child. Whether this colouring is real or merely a stereotype is a question that has not been fully settled for the secondary school students of Meerut District. The present study was a small effort to look into this question.
 
-Five objectives were formulated to guide the investigation:
+### 5.2.3 The Problem and the Variables
 
-1. To study the area-wise vocational interests of secondary school students of the four selected groups.
-2. To compare the vocational interests of *rural* and *urban* secondary school students.
-3. To compare the vocational interests of *government* and *private* secondary school students.
-4. To compare the vocational interests of *boys* and *girls*.
-5. To compare *simultaneously* the vocational interests of the four groups by means of one-way ANOVA.
+The problem was stated as: *"A Comparative Study of the Vocational Interests of Boys and Girls Studying at Secondary Level."* The independent variable was **gender** (boys vs girls); the secondary independent variable was **class** (IX vs X); and the dependent variable was **vocational interest**, measured area-wise as scores on the nine areas of Kulshrestha's V.I.R. — Literary, Scientific, Executive, Commercial, Artistic, Agriculture, Technical, Household and Social.
 
-### 5.1.3 Hypotheses
+### 5.2.4 The Objectives
 
-Four null hypotheses, corresponding to the comparative objectives, were formulated:
+Five objectives were set:
 
-- **H₀1:** No significant difference between rural and urban students.
-- **H₀2:** No significant difference between government and private school students.
-- **H₀3:** No significant difference between boys and girls.
-- **H₀4:** No significant difference among the four groups (RG, RP, UG, UP).
+1. To study the vocational interest pattern of boys studying at the secondary level.
+2. To study the vocational interest pattern of girls studying at the secondary level.
+3. To compare the mean total vocational interest scores of boys and girls of the secondary level.
+4. To compare the area-wise vocational interest scores of boys and girls on each of the nine areas of Kulshrestha's V.I.R., separately.
+5. To find out the most preferred and the least preferred vocational interest area of boys and girls of the secondary level and to suggest implications for educational planning.
 
-### 5.1.4 Method
+### 5.2.5 The Hypotheses
 
-The study was *non-experimental, descriptive* and employed the *survey method* of educational research. The design was a **2 × 2 factorial descriptive design** with locality (rural/urban) and management (government/private) as the principal independent variables and gender (boys/girls) as a secondary variable.
+Four null hypotheses were formulated and tested at the 0.05 and 0.01 levels of significance:
 
-### 5.1.5 Population and Sample
+- **H0₁** — There exists no significant difference between the mean total vocational interest scores of boys and girls of the secondary level.
+- **H0₂** — There exists no significant difference between the mean scores of boys and girls of the secondary level on each of the nine vocational interest areas of Kulshrestha's V.I.R., taken separately.
+- **H0₃** — There exists no significant difference between the mean total vocational interest scores of class IX and class X students of the secondary level.
+- **H0₄** — There exists no significant difference in the rank order of the nine vocational interest areas as preferred by boys and as preferred by girls of the secondary level.
 
-The population consisted of *all the students of Class IX studying in government and private secondary schools of Meerut district during 2025–2026*. A representative sample of **200 students** was drawn through the *multi-stage stratified random sampling* technique:
+### 5.2.6 The Method
 
-- Rural Government — Shri Sanskrit Inter College, Aitmadpur, Meerut (n = 50).
-- Rural Private — Amod Memorial Public School, Khajuri, Meerut (n = 50).
-- Urban Government — G.S.D.N. Inter College, Kila Parikshit Garh, Meerut (n = 50).
-- Urban Private — K.P. International School, Kila Parikshit Garh, Meerut (n = 50).
+The **Descriptive Survey Method** (cross-sectional, causal-comparative sub-type) was used.
 
-Twenty-five boys and twenty-five girls were selected from each school.
+### 5.2.7 The Sample
 
-### 5.1.6 Tool
+A sample of **80 students** — **40 boys and 40 girls** — was drawn through the lottery method of simple random sampling, after the two schools had been chosen purposively. The two schools were **Shri Sanskrit Inter College (S.S.I.C.), Aitmadpur** (a rural Government / U.P. Board school) and **K.P. International School (K.P.I.S.), Kila Parikshit Garh** (an urban private CBSE school). Each school contributed ten boys and ten girls of class IX and ten boys and ten girls of class X — that is, twenty boys and twenty girls per school, forty boys and forty girls in total.
 
-The standardised **Vocational Interest Record (Hindi version)** developed by **Dr. S.P. Kulshrestha**, published by *National Psychological Corporation, Agra*, was used. The tool consists of 100 items measuring interest in ten areas — Literary, Scientific, Executive, Commercial, Constructive, Artistic, Agricultural, Persuasive, Social and Household. The reliability of the tool varies between 0.73 and 0.85 across the ten areas, and its validity has been established by content, concurrent and predictive procedures.
+### 5.2.8 The Tool
 
-### 5.1.7 Procedure
+The standardised **Vocational Interest Record (V.I.R.)** developed by **Dr. S.P. Kulshrestha** was used as the only tool. The test contains 90 forced-choice items giving scores on nine vocational interest areas. The reliability of the tool ranges from 0.79 (split-half) to 0.85 (test-retest), and the content, construct and criterion validities are all adequate.
 
-The data were collected by the investigator personally during the first week of October 2025 by administering the V.I.R. to the 200 sample pupils in their respective schools. The response rate was 100 per cent. The completed answer sheets were scored manually with the help of the standard scoring key supplied with the tool.
+### 5.2.9 The Procedure
 
-### 5.1.8 Statistical Treatment
+The test was administered group-wise in the four sub-groups of each school during the morning session, between 10 a.m. and 12 noon, on different working days of October and November 2025. The standard manual instructions were followed. The answer-sheets were scored manually with the help of the publisher's stencil; a 10 % sub-sample was double-scored by an external reviewer with 100 % agreement.
 
-The data were treated with the following statistical techniques:
-1. **Mean and Standard Deviation** to provide a descriptive picture of each group on each area.
-2. **t-test** for the difference between two independent means to test H₀1, H₀2 and H₀3.
-3. **One-way ANOVA** to test H₀4 by comparing the four groups simultaneously.
+### 5.2.10 The Statistics
 
-The .05 and .01 levels of significance were used.
+The data were analysed using **Mean, Standard Deviation, t-test (df = 78) and Percentage analysis**. The critical t-values at df = 78 were t.05 = 1.991 and t.01 = 2.640 (two-tailed).
 
----
+## 5.3 MAJOR FINDINGS OF THE STUDY
 
-## 5.2 MAJOR FINDINGS
+The major findings of the study are summarised below in three groups.
 
-The principal findings of the investigation, organised hypothesis-wise, are as follows.
+### A. Findings Related to the Total Vocational Interest
 
-### 5.2.1 Findings related to Hypothesis H₀1 (Rural vs. Urban)
+**Finding 1.** The mean total vocational interest score of boys (M = 163.05; S.D. = 13.49) was almost the same as that of girls (M = 160.55; S.D. = 10.70). The obtained t-value was 0.92, which is well below the critical value at the 0.05 level (1.991). Hence, **there is no significant difference between the total vocational interest scores of boys and girls.**
 
-1. *Urban* students obtained a significantly higher mean than *rural* students on the **Literary** area (*t* = 3.40, p < .01).
-2. *Urban* students obtained a significantly higher mean than *rural* students on the **Scientific** area (*t* = 5.35, p < .01).
-3. *Urban* students obtained a significantly higher mean than *rural* students on the **Executive** area (*t* = 6.41, p < .01).
-4. *Urban* students obtained a significantly higher mean than *rural* students on the **Commercial** area (*t* = 6.18, p < .01).
-5. *Urban* students obtained a significantly higher mean than *rural* students on the **Artistic** area (*t* = 3.08, p < .01).
-6. *Urban* students obtained a significantly higher mean than *rural* students on the **Persuasive** area (*t* = 5.75, p < .01).
-7. *Rural* students obtained a significantly higher mean than *urban* students on the **Constructive** area (*t* = 7.28, p < .01).
-8. *Rural* students obtained a significantly higher mean than *urban* students on the **Agricultural** area (*t* = 12.89, p < .01) — the largest single difference observed in the study.
-9. *Rural* students obtained a significantly higher mean than *urban* students on the **Household** area (*t* = 5.31, p < .01).
-10. *No significant* difference was found between rural and urban students on the **Social** area (*t* = 1.14, NS).
+**Finding 2.** This finding leads to an important interpretation: boys and girls of the secondary level show **equal overall interest in the world of work**. They differ not in *quantity* of interest but in the *quality* — that is, the **direction** in which their interest flows.
 
-**Conclusion on H₀1:** The null hypothesis is **rejected on nine areas** and **retained on the Social area only**.
+### B. Findings Related to the Nine Area-wise Comparisons
 
-### 5.2.2 Findings related to Hypothesis H₀2 (Government vs. Private)
+**Finding 3.** On the **Literary** area, girls (M = 19.85) scored significantly higher than boys (M = 16.45). The t-value (3.85) is significant at the 0.01 level.
 
-11. *Private* school students were significantly higher than *government* school students on the **Literary** area (*t* = 2.32, p < .05).
-12. *Private* school students were significantly higher than *government* school students on the **Scientific** area (*t* = 2.85, p < .01).
-13. *Private* school students were significantly higher than *government* school students on the **Executive** area (*t* = 2.99, p < .01).
-14. *Private* school students were significantly higher than *government* school students on the **Commercial** area (*t* = 3.81, p < .01).
-15. *Private* school students were significantly higher than *government* school students on the **Artistic** area (*t* = 2.87, p < .01).
-16. *Private* school students were significantly higher than *government* school students on the **Persuasive** area (*t* = 2.49, p < .05).
-17. *Government* school students were significantly higher than *private* school students on the **Constructive** area (*t* = 2.38, p < .05).
-18. *Government* school students were significantly higher than *private* school students on the **Agricultural** area (*t* = 3.02, p < .01).
-19. *Government* school students were significantly higher than *private* school students on the **Social** area (*t* = 2.08, p < .05).
-20. *Government* school students were significantly higher than *private* school students on the **Household** area (*t* = 2.24, p < .05).
+**Finding 4.** On the **Scientific** area, boys (M = 21.30) scored significantly higher than girls (M = 17.20). The t-value (4.35) is significant at the 0.01 level.
 
-**Conclusion on H₀2:** The null hypothesis is **rejected on all the ten areas**. The pattern of difference forms a clear *modern–traditional* divide between private and government school students.
+**Finding 5.** On the **Executive** area, boys (M = 19.80) scored significantly higher than girls (M = 17.15). The t-value (2.81) is significant at the 0.01 level.
 
-### 5.2.3 Findings related to Hypothesis H₀3 (Boys vs. Girls)
+**Finding 6.** On the **Commercial** area, the difference between boys (M = 17.95) and girls (M = 16.40) was **not significant**; the t-value (1.65) was below the 0.05 critical value. **The Commercial area is the only gender-neutral area in the present study.**
 
-21. *Boys* obtained a significantly higher mean than *girls* on the **Scientific** area (*t* = 3.26, p < .01).
-22. *Boys* obtained a significantly higher mean than *girls* on the **Executive** area (*t* = 3.48, p < .01).
-23. *Boys* obtained a significantly higher mean than *girls* on the **Constructive** area (*t* = 3.12, p < .01).
-24. *Boys* obtained a significantly higher mean than *girls* on the **Agricultural** area (*t* = 4.13, p < .01).
-25. *Boys* obtained a significantly higher mean than *girls* on the **Persuasive** area (*t* = 2.95, p < .01).
-26. *Girls* obtained a significantly higher mean than *boys* on the **Literary** area (*t* = 3.58, p < .01).
-27. *Girls* obtained a significantly higher mean than *boys* on the **Artistic** area (*t* = 5.80, p < .01).
-28. *Girls* obtained a significantly higher mean than *boys* on the **Social** area (*t* = 3.55, p < .01).
-29. *Girls* obtained a significantly higher mean than *boys* on the **Household** area (*t* = 9.13, p < .01) — the largest gender difference observed in the study.
-30. *No significant* difference was found between boys and girls on the **Commercial** area (*t* = 1.51, NS).
+**Finding 7.** On the **Artistic** area, girls (M = 20.45) scored significantly higher than boys (M = 15.90). The t-value (5.48) is significant at the 0.01 level.
 
-**Conclusion on H₀3:** The null hypothesis is **rejected on nine areas** and **retained on the Commercial area only**.
+**Finding 8.** On the **Agriculture** area, boys (M = 18.65) scored significantly higher than girls (M = 13.25). The t-value (6.49) is significant at the 0.01 level.
 
-### 5.2.4 Findings related to Hypothesis H₀4 (Four-group ANOVA)
+**Finding 9.** On the **Technical** area, boys (M = 22.10) scored significantly higher than girls (M = 14.62). The t-value (8.54) — the **largest** of the study — is significant at the 0.01 level. The Technical area shows the **biggest gender gap** in the entire data.
 
-31. The four groups differed significantly among themselves on **Literary** (F = 5.79, p < .01).
-32. The four groups differed significantly on **Scientific** (F = 12.81, p < .01).
-33. The four groups differed significantly on **Executive** (F = 17.46, p < .01).
-34. The four groups differed significantly on **Commercial** (F = 18.78, p < .01).
-35. The four groups differed significantly on **Constructive** (F = 20.26, p < .01).
-36. The four groups differed significantly on **Artistic** (F = 6.14, p < .01).
-37. The four groups differed significantly on **Agricultural** (F = 61.71, p < .01) — the largest F-value of the entire study.
-38. The four groups differed significantly on **Persuasive** (F = 13.63, p < .01).
-39. The four groups *did not* differ significantly on **Social** (F = 1.99, NS).
-40. The four groups differed significantly on **Household** (F = 11.36, p < .01).
+**Finding 10.** On the **Household** area, girls (M = 21.55) scored significantly higher than boys (M = 13.70). The t-value (8.25) is significant at the 0.01 level. The mean difference of 7.85 is, in fact, the **largest mean difference** of the study, slightly larger than even the Technical-area gap.
 
-**Conclusion on H₀4:** The null hypothesis is **rejected on nine areas** and **retained on the Social area only**.
+**Finding 11.** On the **Social** area, girls (M = 20.10) scored significantly higher than boys (M = 17.20). The t-value (3.64) is significant at the 0.01 level. Girls also showed a very small standard deviation (S.D. = 2.89) on this area, indicating that almost every girl in the sample is at moderate to high social-helping interest.
 
-### 5.2.5 Group-wise Highest Mean
+**Summary of B.** Out of the **nine** vocational interest areas, **eight** show statistically significant gender differences. **Only the Commercial area** is gender-neutral. Boys are higher on the four "thing-oriented / outdoor" areas (Technical, Scientific, Executive and Agriculture) and girls are higher on the four "people-oriented / aesthetic" areas (Household, Artistic, Literary and Social).
 
-42. The **Urban Private** school obtained the highest mean on six areas — Literary, Scientific, Executive, Commercial, Artistic and Persuasive.
-43. The **Rural Government** school obtained the highest mean on three areas — Constructive, Agricultural and Household.
-44. The **Urban Government** school obtained the highest mean on the Social area.
-45. The **Rural Private** school did not obtain the highest mean on any single area but consistently occupied a *transitional middle* position between Rural Government and the two urban schools.
+### C. Findings Related to Class, Percentage and Rank Order
 
-The major findings are summarised in Table 5.1 below.
+**Finding 12.** On the class-wise comparison, the mean total vocational interest score of class IX students (M = 163.80; S.D. = 13.13) and that of class X students (M = 159.80; S.D. = 10.92) did not differ significantly (t = 1.48, df = 78, NS). **By class IX, the vocational interest pattern is already fairly stable; one more year of schooling does not change it much.**
 
-#### TABLE 5.1
-**Consolidated Picture of the Major Findings of the Study**
+**Finding 13.** On the percentage analysis, more than one-third of the girls (37.5 %) fall in the **High band** on Scientific interest. Although the mean is lower than that of boys, this finding is **encouraging**, showing that girls of the present-day secondary level are not weak in scientific interest as a group.
 
-| S. No. | Area | Rural vs. Urban | Govt. vs. Pvt. | Boys vs. Girls | F (4 groups) | Highest Group |
-|:---:|:---|:---:|:---:|:---:|:---:|:---:|
-| 1. | Literary | U > R \*\* | P > G \* | G > B \*\* | 5.79\*\* | UP |
-| 2. | Scientific | U > R \*\* | P > G \*\* | B > G \*\* | 12.81\*\* | UP |
-| 3. | Executive | U > R \*\* | P > G \*\* | B > G \*\* | 17.46\*\* | UP |
-| 4. | Commercial | U > R \*\* | P > G \*\* | B = G NS | 18.78\*\* | UP |
-| 5. | Constructive | R > U \*\* | G > P \* | B > G \*\* | 20.26\*\* | RG |
-| 6. | Artistic | U > R \*\* | P > G \*\* | G > B \*\* | 6.14\*\* | UP |
-| 7. | Agricultural | R > U \*\* | G > P \*\* | B > G \*\* | 61.71\*\* | RG |
-| 8. | Persuasive | U > R \*\* | P > G \* | B > G \*\* | 13.63\*\* | UP |
-| 9. | Social | U = R NS | G > P \* | G > B \*\* | 1.99 NS | UG |
-| 10. | Household | R > U \*\* | G > P \* | G > B \*\* | 11.36\*\* | RG |
+**Finding 14.** The first-preference area (the area of highest individual score) of the boys was concentrated mostly on **Executive (30.0 %)**, **Scientific (25.0 %)** and **Technical (25.0 %)**. These three areas together accounted for **80 %** of all boys. None of the boys had Artistic or Social as the first preference.
 
-*Notation: U = Urban, R = Rural, G = Government, P = Private, B = Boys, G = Girls.*
-*\*\* = significant at .01, \* = significant at .05, NS = not significant.*
-*RG = Rural Government, UP = Urban Private, UG = Urban Government.*
+**Finding 15.** The first-preference area of the girls was distributed mostly across **Household (32.5 %)**, **Literary (22.5 %)**, **Artistic (22.5 %)** and **Social (10.0 %)**. These four areas together accounted for **87.5 %** of all girls. None of the girls had Commercial or Agriculture as the first preference.
 
----
+**Finding 16.** The rank-order of the nine areas is almost a **mirror image** between boys and girls. The area at rank I for boys (Technical) is at rank VIII for girls; the area at rank I for girls (Household) is at rank IX for boys. Out of the four top-ranked areas of boys, none appears among the four top-ranked areas of girls and vice versa.
 
-## 5.3 CONCLUSIONS
+## 5.4 CONCLUSIONS
 
-On the basis of the major findings listed above, the following broad conclusions can be drawn:
+On the basis of the above findings, the following conclusions can be drawn:
 
-1. **Vocational interest profile is highly contextual.** The interest pattern of an Indian secondary school student is not a *random* psychological phenomenon; it reflects, in a clearly identifiable manner, the *occupational ecology* of his/her *locality* and the *educational climate* of his/her *school*.
+1. **Boys and girls of the secondary level of Meerut District have equal overall interest in the world of work, but the direction of this interest is sharply different.** They are not under-motivated or over-motivated; they are **differently motivated**.
 
-2. **The locality effect is substantial and clear.** The rural environment of Meerut district produces a *traditional-agrarian* interest profile in which Agricultural, Constructive and Household interests dominate. The urban environment, in contrast, produces a *modern-professional* profile in which Scientific, Executive, Commercial and Persuasive interests dominate. The rural–urban gap is widest on the Agricultural area, where it amounts to 5.40 raw-score points.
+2. **Significant gender differences are present on eight out of nine vocational interest areas.** Only the **Commercial** area is gender-neutral. This single neutral area, however, is encouraging — it suggests that, given equal exposure, the gender gap on other areas may also slowly shrink.
 
-3. **The management effect, though smaller, is consistently present.** Private school students, regardless of locality, score higher on the modern white-collar areas (Literary, Scientific, Executive, Commercial, Artistic and Persuasive), and government school students score higher on the more traditional areas (Constructive, Agricultural, Social and Household).
+3. **The biggest gender gaps are on the Technical area (boys higher, t = 8.54) and on the Household area (girls higher, t = 8.25).** These two areas, taken together, are the modern face of the old social pattern of "tools for boys, utensils for girls".
 
-4. **The locality and management effects are largely additive.** When the two are combined in a 2 × 2 design, the *Urban Private* school emerges as the most *modern* group (highest on six of the ten areas) and the *Rural Government* school as the most *traditional* group (highest on three areas, including the dominant Agricultural area). The Rural Private and Urban Government schools fall in *transitional* middle positions.
+4. **Boys' interest is concentrated in the Executive-Scientific-Technical trio**, and **girls' interest is spread across the Household-Literary-Artistic-Social quartet**. The rank-order pattern is almost a mirror image between the two sexes.
 
-5. **The gender effect is robust and aligns with the People–Things dichotomy.** Boys are higher on "thing-oriented" areas (Scientific, Executive, Constructive, Agricultural and Persuasive) and girls are higher on "people-oriented" or "expressive" areas (Literary, Artistic, Social and Household). Only on the Commercial area was no gender difference found, and this is *substantively interesting*: it suggests that commerce / business has, perhaps, become a *gender-neutral* aspirational space in present-day Meerut district.
+5. **The vocational interest pattern is already fairly stable by the time the student reaches class IX.** Therefore, vocational guidance must begin much earlier than class IX — ideally at the upper-primary stage (classes VI-VIII).
 
-6. **Social interest is the great equaliser.** Social interest does not differ significantly across rural and urban students or across the four groups; it is, however, significantly higher in girls than in boys. The fact that pupils from all the four educational settings are equally interested in social occupations suggests that the *humanistic concern* is broadly distributed in the secondary school population of Meerut district.
+6. **More than one-third of the girls fall in the "high-science-interest" band**, which is a hopeful sign for the future participation of women in STEM careers in India. The school must convert this latent interest into actual stream choice and career outcome through targeted role-modelling, exposure visits and counselling.
 
-7. **The findings are largely consistent with the existing Indian and foreign literature.** The results of the present investigation align closely with the studies of Sharma (1975), Saxena (1986), Kulshrestha (1993), Khan (2003), Kumar (2005), Yadav (2009), Chaudhary (2020), Tomar (2022) and Rana (2023) at home, and with the meta-analyses of Su, Rounds and Armstrong (2009) and Stoll *et al.* (2021) abroad.
+## 5.5 EDUCATIONAL IMPLICATIONS
 
----
+The findings of the present study have several practical implications for the school as a system:
 
-## 5.4 EDUCATIONAL IMPLICATIONS
+1. **Recognition of the equal level of total interest.** The school must stop seeing girls as "less career-minded" than boys. The total interest of the two sexes is equal; only the direction is different.
 
-The findings of the present investigation have several significant educational implications. The major implications are listed below.
+2. **Need for early career exposure.** Since the pattern is already fixed by class IX, vocational exposure must begin at the upper-primary stage. Class trips to factories, hospitals, banks, courts, farms and design studios should be a regular part of school life.
 
-### 5.4.1 For Career Guidance Services
+3. **Breaking the stereotype around "Technical" and "Household".** These two areas show the biggest gender gap. The school can consciously introduce activities that break the stereotype — for example, basic robotics workshops for girls, basic cooking and stitching activities for boys, in a fun way.
 
-1. **Strengthening rural government school guidance.** The pupils of Shri Sanskrit Inter College, Aitmadpur, score very high on Agricultural, Constructive and Household interests and very low on Persuasive, Commercial and Executive interests. This narrow profile reflects, in part, lack of *exposure* to modern occupations. The school administration, with the support of the District Education Officer, should arrange:
- - Regular visits to industrial training institutes, polytechnics, agricultural research stations, banks, hospitals and government offices.
- - Career talks by professionals — engineers, doctors, lawyers, bankers and entrepreneurs — preferably from the surrounding villages who have made it good in those professions.
- - A school-level bulletin board on careers, updated weekly.
+4. **Encouragement of girls in Scientific and Executive areas.** Although the mean is lower than that of boys, more than 37 % of girls have **high** scientific interest. The school must strengthen this group through science clubs, science exhibitions and meeting with women scientists.
 
-2. **Targeted exposure for rural private school pupils.** The pupils of Amod Memorial Public School, Khajuri, are at a *transitional* stage. Career awareness programmes should help them *consolidate* their growing scientific, commercial and persuasive interests while *retaining* their strong traditional rooting. A regular *career week* twice a year is suggested.
+5. **Wider acceptance of girls in Commercial vocations.** The Commercial area is gender-neutral; the school should make it visible by inviting women bankers, women C.A.s, women tax consultants etc. to address the students.
 
-3. **Realistic career planning for urban government school pupils.** The pupils of G.S.D.N. Inter College, Kila Parikshit Garh, are particularly strong on Social interest. The school should encourage them to consider people-oriented professions (teaching, nursing, social work, counselling, public administration) along with the more conventional science and commerce streams. A guidance period in the timetable, once a fortnight, would be highly desirable.
+6. **Career-cell or guidance corner in every school.** The two sample schools differ in this respect — the urban private school (K.P.I.S.) has a part-time counsellor while the rural Government school (S.S.I.C.) has none. The Government must take steps to provide a trained guidance counsellor to every secondary school of Meerut District, even if on a shared / cluster basis.
 
-4. **Channelising urban private school aspirations.** The pupils of K.P. International School are highly motivated towards modern professions but should be exposed to *vocational diversity* so that they do not see only the over-crowded careers (engineering, medicine, MBA) as the only options. *Holland's Self-Directed Search*, in addition to the V.I.R., may be administered to broaden the career horizon of these pupils.
+7. **Use of Kulshrestha's V.I.R. as a routine school-record tool.** The tool is inexpensive, in Hindi, easy to score and gives a clear nine-area profile. It can be administered in class IX every year as a part of the school cumulative record.
 
-### 5.4.2 For Vocational Education and NEP 2020
+8. **Re-look at school textbooks and the language of teaching.** Many textbook stories continue to show pilots and engineers as men and primary teachers and nurses as women. NCERT and the State Council of Educational Research and Training, U.P., should re-examine the gender-balance in the illustrations and stories of secondary-stage textbooks.
 
-5. **Local diversification of vocational courses.** The National Education Policy 2020 envisages compulsory vocational exposure at the school stage. The findings of the present study clearly indicate that the *kind* of vocational exposure should be *locally tailored*:
- - Rural schools — agriculture, dairy farming, food processing, handloom and handicrafts.
- - Urban schools — computer applications, electronics, retail, automobile, banking and finance.
+9. **Family and community engagement.** Parents continue to be the strongest single influence on the career thinking of an Indian adolescent. Parent-teacher meetings should regularly include sessions on **career choice and gender stereotype** so that parents themselves do not push their boys and girls into rigid moulds.
 
-6. **Strengthening the science laboratory in rural schools.** Since rural pupils show low Scientific interest partly because of poor exposure, *upgrading the science laboratories* of rural government schools should be treated as a priority by the State Government.
+10. **Special attention to the rural Government school setting.** The rural Government school (S.S.I.C.) has fewer facilities, no counsellor and limited career exposure. Programmes like *Pradhan Mantri Kaushal Vikas Yojana*, *Skill India*, *NSS / NCC*, *Atal Tinkering Labs* and *Vigyan Jyoti* should be actively brought to such schools.
 
-### 5.4.3 For Curriculum and Co-curricular Activities
+11. **Use of the digital medium.** Free counselling apps, on-line aptitude tests and YouTube channels of professionals can be a low-cost way of widening career exposure, especially for girls of rural areas who have less freedom to travel.
 
-7. **Persuasive interest needs special attention.** Persuasive interest is the *lowest* on the entire sample (M = 11.26) and especially low in rural schools. Co-curricular activities such as *debate, declamation, group discussion, mock parliament and quiz* should be much more widely encouraged.
+12. **Class IX as a critical year.** Since the interest pattern is already crystallising at class IX, the school must hold a structured **"career week"** in class IX — once in the first term and once in the second term — with talks, role-models and Q&A sessions.
 
-8. **Artistic interest in rural schools.** Rural schools have very limited art education. *Drawing, painting, music, drama and craft work* should be added to the rural school curriculum at the secondary stage.
+13. **Adolescent counselling for emotional support.** Career confusion is one of the largest sources of stress among Indian adolescents. The school counsellor (or in the absence of one, a trained teacher) should be regularly available during recess and free periods to listen and to suggest.
 
-9. **Reduction of the gender gap.** Although the gender-based differences are robust, they need not be *encouraged*. Schools should consciously expose girls to scientific and executive role-models, and boys to artistic, social and household activities, so as to gradually *narrow* the gender-based interest gap.
+## 5.6 SUGGESTIONS FOR TEACHERS
 
-### 5.4.4 For Teachers
+1. Treat **boys and girls equally** in the classroom; do not assume that boys will do science / technology and girls will do arts / household.
 
-10. **Awareness about pupils' interests.** Every Class Teacher of Class IX should compulsorily administer the V.I.R. (or a similar instrument) at the beginning of the academic year and prepare a *vocational interest profile* of each pupil. These profiles should form the basis of personalised academic advice during the year.
+2. Use **gender-balanced examples** while teaching — a woman engineer, a male nurse, a woman scientist, a male home-baker, etc.
 
-### 5.4.5 For Parents
+3. Use the **Vocational Interest Record** with the help of the school principal, at least once in class IX, and discuss the results individually with each student.
 
-11. **Realistic and informed parental support.** Parents should be sensitised — through PTA meetings, parent-orientation programmes and printed booklets — about the importance of *aligning* educational and career choices with the *measured interests* of their wards rather than with their *own occupational background* or *neighbourhood pressures*.
+4. Encourage girls in particular to take part in **science fairs**, **mathematics olympiads**, **robotics workshops** and **programming clubs**.
 
-### 5.4.6 For Educational Administrators
+5. Encourage boys in particular to take part in **literary clubs**, **drawing competitions**, **community service projects** and **NSS activities**.
 
-12. **Posting of trained guidance counsellors.** The State Government should ensure that every secondary school, rural or urban, government or private, has access — at least on a *block basis* — to a *trained guidance counsellor*. The District Institute of Education and Training (DIET), Meerut, can be the focal point of such a service.
+6. Maintain a **classroom career-shelf** with one career-related magazine, two "What Do They Do?" booklets and at least three short biographies — one of a woman scientist, one of a male artist and one of a non-traditional career holder.
 
-13. **District career fair.** An *annual District Career Fair* in Meerut, jointly organised by the District Education Officer, the District Industries Centre and one or two universities, would expose pupils of all the four types of schools to the *full range* of available careers.
+7. Become a **role-model breaker** — share stories of one's own siblings, friends and family members in non-traditional vocations.
 
----
+8. Connect the **textbook content** with vocations. While teaching Geography, talk about the work of a meteorologist; while teaching History, talk about the work of an archaeologist; while teaching Hindi, talk about the work of a journalist or a translator.
 
-## 5.5 SUGGESTIONS FOR FURTHER RESEARCH
+## 5.7 SUGGESTIONS FOR PARENTS
 
-The present study, by its very nature as an M.Ed. dissertation, is limited in scope. However, it has thrown up a number of researchable questions which can be profitably taken up by future investigators. The principal suggestions are listed below.
+1. **Listen** to the child's own choice. Ask the child *what* he / she wants to become, and *why*. Do not present your own choice as the only choice.
 
-1. **Larger sample.** The study may be replicated on a larger and more diverse sample — covering all the blocks of Meerut district and, eventually, the entire Meerut Division.
+2. **Avoid gender-typed remarks** at home — "Boys don't cry", "Cooking is a girl's work", "Engineering is for boys", "Teaching is for girls". Such remarks shape the child's interest pattern long before any test is taken.
 
-2. **Other classes.** The study may be extended to Classes VIII, X, XI and XII so that the *developmental trajectory* of vocational interests can be traced across the entire secondary and senior secondary stage.
+3. **Take the child along** to your work-place once or twice a year. Even a small visit gives the child a real picture of the world of work.
 
-3. **Other variables.** The present study has considered only locality, type of management and gender. Other potentially important variables — *socio-economic status, parental education, parental occupation, intelligence, personality, academic achievement, birth order, family type, medium of instruction, board of affiliation* — may be included in future studies.
+4. Do **not push** the child into the same vocation that the parent or an elder sibling has chosen. Each child is different.
 
-4. **Other tools.** The study may be replicated using other standardised tools such as *Holland's Self-Directed Search*, *Kuder Career Search*, *Career Maturity Inventory* (Crites) and *Strong Interest Inventory*, so as to compare the convergent and discriminant findings.
+5. **Discuss career options as a family** rather than imposing them. The dinner-table is the most powerful place of career counselling.
 
-5. **Longitudinal design.** A longitudinal study tracing the same pupils from Class IX through Class XII to the choice of college and beyond would add immensely to our understanding of the *stability* of vocational interests during the Indian adolescent years.
+6. Be ready to **support a daughter in a "boys' field"** (engineering, defence, agriculture) and a **son in a "girls' field"** (teaching, fashion designing, child care). The world has changed; family attitudes must change with it.
 
-6. **Qualitative studies.** Pure quantitative studies cannot capture the *meaning* attached by pupils to their vocational interests. Qualitative case studies through *interviews, focus groups and projective techniques* would complement the quantitative findings.
+7. Do not make the choice of vocation only on the basis of **money**. Money matters, but interest and aptitude matter more for long-term success.
 
-7. **Intervention studies.** Experimental or quasi-experimental studies on the *effectiveness* of various career guidance interventions — career talks, industrial visits, role-models, career fairs, online career portals — should be undertaken.
+8. **Limit early stream-fixing.** Do not start telling the class VI child, "You are going to be a doctor." Let the child explore.
 
-8. **Comparative studies across districts.** A comparative study of two or three districts of Western U.P. — for instance, Meerut, Muzaffarnagar and Saharanpur — would help in identifying the *district-specific* features of the vocational interest pattern.
+## 5.8 SUGGESTIONS FOR SCHOOL ADMINISTRATORS
 
-9. **Follow-up of the present sample.** A simple follow-up of the 200 pupils of the present sample at the +2 stage (after two years) and at the graduation stage (after five years) would yield very rich *predictive validity* data on the V.I.R.
+1. Appoint **at least one trained teacher counsellor** in every secondary school of the district. Where this is not financially possible, share one counsellor across a cluster of three or four nearby schools.
 
-10. **Study of teachers' role.** The investigator strongly feels that the *teachers' attitude towards careers* is one of the most under-researched aspects of vocational interest formation in Indian schools. Future researchers may profitably investigate the *correlation* between *teachers' career-orientation* and *pupils' vocational interests*.
+2. Set aside **one room** in every school as the **Career Resource Centre**. Equip it with prospectuses, career magazines, the V.I.R. and other inventories, and a small computer for online career searches.
 
----
+3. Hold a **Career Week** twice a year — once in class IX and once in class XI — with talks by professionals from at least nine different vocational areas (matching the nine areas of the V.I.R.).
 
-## 5.6 LIMITATIONS OF THE STUDY
+4. Invite **alumni** of the school working in different vocations to speak to the students. Alumni stories are believable and inspiring.
 
-The investigator is conscious that the present study, like every other study, has its limitations, which should be borne in mind while interpreting the findings.
+5. Maintain a **Cumulative Record** of every student from class VI to class XII, including the V.I.R. profile of class IX and class XI. The record should travel with the student to college / +2 admission.
 
-1. **Sample size.** A sample of 200 students, drawn from one school each in the four cells of the design, is *modest*. The findings should not be hastily generalised to the entire population of secondary school students of Meerut district.
+6. Plan **field trips** to local establishments — banks, hospitals, courts, factories, farms, design studios, IT companies — at least three a year for class IX and X.
 
-2. **Single tool.** Only one tool — the V.I.R. of S.P. Kulshrestha — has been used. Although the tool is well-standardised, *single-tool measurement* always carries the risk of method-specific bias.
+7. Tie up with the **D.I.E.T., Meerut** and the **District Education Office** for **teacher orientation programmes** on educational and vocational guidance.
 
-3. **Self-report.** The V.I.R., like all interest inventories, is a *self-report* instrument. Self-reports can occasionally be influenced by social desirability and momentary moods, although in the present study, every effort was made to put the pupils at ease.
+8. Make **gender-balance** an explicit goal in school clubs and in school leadership positions (head girl, head boy, club captains).
 
-4. **Confounding variables.** Several variables — socio-economic status, parental education, intelligence, family type — that may influence vocational interests, have *not been controlled*. The differences observed cannot, therefore, be wholly attributed to locality and type of management.
+## 5.9 SUGGESTIONS FOR GUIDANCE COUNSELLORS
 
-5. **Cross-sectional design.** The study is *cross-sectional*. It cannot, by itself, settle questions of *causality* or *developmental change*.
+1. Do **not generalise** the result of the V.I.R. to "all boys" or "all girls". Gender pattern shows up at the **group level**; at the individual level, every student is unique.
 
-6. **One district.** The study has been confined to *one district* of Western Uttar Pradesh. Findings may, in some respects, be specific to Meerut district and may not directly generalise to other districts of U.P. or to other states.
+2. While interpreting the V.I.R. profile, look at the **whole pattern** — not just the highest area. The second and third highest areas often suggest **alternative careers** that the student has not thought about.
 
-7. **Investigator bias.** Although every effort has been made to maintain objectivity, an *M.Ed. researcher* working alone is subject to certain unavoidable observation, scoring and interpretation biases. Independent re-scoring of a sample of 20 answer sheets has, however, shown 100 per cent agreement on every item, which gives some assurance of objectivity at the scoring stage.
+3. Combine the V.I.R. with **aptitude tests** (such as DBDA – DAT or DTDB by NCERT) and with the academic record before recommending a stream.
 
-Despite these limitations, the present study is one of the few Meerut-based investigations to have *simultaneously* compared the vocational interests of students belonging to the four educational settings defined by the joint variation of locality and management. To that extent, it makes a *small but real* contribution to the educational research literature on Indian secondary education and to the practical task of career guidance in Meerut district.
+4. Spend more time on the **child whose interest pattern is "flat"** (none of the nine areas clearly above the others). Such a child needs more exposure, not more advice.
 
----
+5. Help the **non-traditional case** — the boy whose first preference is Household or Artistic, the girl whose first preference is Technical or Agriculture — to find a supportive peer group and a role model.
 
-> *"The wisest mind has something yet to learn."*
-> — *George Santayana*
+6. Maintain a **success file** of past students who have done well in non-traditional careers, and use it during counselling sessions.
 
----
-*** End of Chapter V ***
-*** End of the Main Body of the Dissertation ***
+7. Build a small **parent-help kit** in Hindi which explains, in two pages, the meaning of vocational interest, the value of allowing the child's own choice, and the dangers of forcing a stream.
+
+## 5.10 SUGGESTIONS FOR FUTURE RESEARCH
+
+The present study, although small, opens the way for several extensions. Future researchers may consider the following ideas:
+
+1. **Larger sample, more districts.** The present study has used 80 students from one district. A study covering 800 students from at least 10 districts of western U.P. would be far more representative.
+
+2. **Longitudinal design.** Since vocational interest is fairly stable by class IX, the next step is to study the **same students** from class VII to class XII, to see when and how the interest crystallises.
+
+3. **Inclusion of aptitude and personality.** A combined study of vocational *interest*, *aptitude* and *personality* would give a much richer career profile of the secondary student.
+
+4. **Inclusion of socio-economic status, parental education and parental occupation.** These are likely to interact with gender; their separate and combined effects deserve careful study.
+
+5. **Special groups.** Studies on the vocational interests of **first-generation learners**, **children of migrant labourers**, **children with disabilities**, **CWSN students** and **Anganwadi-supported children** are largely missing for Meerut District.
+
+6. **Use of the National Education Policy 2020 baseline.** A study comparing the vocational interests of class IX students of 2020 (just before the N.E.P. roll-out) with those of class IX students of 2030 (after the full roll-out) will be of great policy value.
+
+7. **Gender × Locality interaction.** Whether the gender gap is wider in rural Government schools than in urban private CBSE schools needs to be tested with a 2 × 2 ANOVA design on a larger sample.
+
+8. **Digital interventions.** Experimental studies on the effect of short career-orientation YouTube videos, mobile apps and gamified career-quizzes on vocational interests of class VIII–IX students would be especially relevant in the post-COVID era.
+
+9. **Re-validation of Kulshrestha's V.I.R. on the 2026 cohort.** Some items of the V.I.R. (e.g., "stenographer", "telegraphist") sound dated. A modest revision of these items, with retention of the nine-area structure, would refresh the tool for the next decade of Indian research.
+
+10. **Comparative studies across boards.** A comparison of CBSE, ICSE, U.P. Board and IB students on vocational interest would bring out the role of the curriculum.
+
+## 5.11 LIMITATIONS OF THE STUDY
+
+The investigator wishes to recall the limitations of the study so that the reader places the findings in their proper place:
+
+1. The sample of 80 students, drawn from only two schools of one district of one State, is small and **regionally restricted**. The findings cannot be generalised beyond the rural Government and urban private CBSE schools of western Uttar Pradesh.
+
+2. Only **one variable**, viz. gender, has been studied as the primary independent variable. Many other variables — socio-economic status, parental education, parental occupation, intelligence, personality, birth-order — have not been measured. Their possible effect cannot be ruled out.
+
+3. The study is **cross-sectional**. Longitudinal change has not been observed.
+
+4. Only one tool — the V.I.R. by Dr. Kulshrestha — has been used. A different tool may have given slightly different results.
+
+5. The two schools were chosen **purposively**, not randomly. The sample, therefore, may carry some specific colour of these two schools.
+
+6. The data was collected in the period **October–November 2025**. Some seasonal influences (festival season, winter holidays, post-COVID third wave of viral infections) may have had a small unmeasured effect on the responses.
+
+7. The class-wise sub-samples (40 of class IX and 40 of class X) are small. The class-wise comparison of the present study should, therefore, be regarded as exploratory only.
+
+These limitations do not invalidate the findings within the present sample but do call for a careful tone at the time of generalisation.
+
+## 5.12 FINAL CONCLUSION
+
+The present study set out to ask a simple but important question: **"Do boys and girls studying in the secondary schools of Meerut District in 2026 differ in their vocational interests, and if yes, how?"** The data, collected from 80 students of two contrasting schools and analysed with the help of mean, S.D., t-test and percentage, has answered the question in the following words:
+
+Boys and girls of the secondary level of Meerut District show **equal total interest in the world of work**, but the direction of this interest is **sharply different on eight of the nine vocational areas**. Boys are clearly higher on Technical, Scientific, Executive and Agriculture; girls are clearly higher on Household, Artistic, Literary and Social. The biggest gender gaps are on the Technical and the Household areas, which together represent the modern continuation of the old social allotment of "tools to boys, utensils to girls". The Commercial area alone is gender-neutral, and on Scientific interest more than one-third of the girls already fall in the "high" band — a hopeful sign for the future.
+
+The interest pattern is already fairly fixed by class IX. Therefore, the most important practical message of the present study is that **vocational guidance in our schools must begin much earlier than class IX — ideally at the upper-primary stage — and must consciously work to widen the choice space available to both boys and girls.** Teachers, parents, school administrators and guidance counsellors all have a role to play in this widening. Without such a deliberate effort, the gender stereotype attached to certain vocations will continue to be passed on, silently and invisibly, from one generation to the next, and the country will continue to lose out on a significant part of its most valuable resource — the talent and aspiration of its young boys and girls.
+
+The investigator humbly hopes that the modest findings of this study, together with the suggestions offered to the four groups of stake-holders, will be of some real practical use to the secondary schools of Meerut District. Any small step taken on the basis of these suggestions will, in the long run, help every adolescent — boy or girl — to choose a vocation on the basis of his or her **own interest, aptitude and ability**, rather than on the basis of social expectation. And that is the deepest aim of educational research.
+
+> **"शिक्षा वह है जो बालक की भीतरी क्षमताओं को बाहर लाने में सहायक हो।"**
+> *— स्वामी विवेकानन्द*
+>
+> *(Education is that which helps to bring out the inner powers of the child. — Swami Vivekananda)*

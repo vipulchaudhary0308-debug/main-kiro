@@ -2,288 +2,310 @@
 
 # INTRODUCTION
 
----
-
 ## 1.1 INTRODUCTION
 
-Education is a continuous process which prepares the individual for life. One of its most important functions is to assist the learner in choosing a vocation that suits his/her abilities, interests, aptitudes and personality. The choice of a vocation is one of the most crucial decisions of human life, for it determines, to a very large extent, the way an individual will live, the kind of people he/she will live with, the type of contribution he/she will make to the society and, ultimately, the quality of life he/she will enjoy. The Secretary's Commission on Achieving Necessary Skills (SCANS), the Mudaliar Commission (1952–53), the Kothari Commission (1964–66), the National Policy on Education (1986, revised 1992) and most recently the **National Education Policy, 2020**, have all unequivocally underlined the importance of vocational guidance and the early identification of vocational interests of learners.
+Education is the most powerful instrument for the all-round development of a child. It does not only fill the head of the child with information; it also prepares the child to face the practical problems of life. One of the most important practical problems of life is the choice of a suitable career. The choice of a career is, in many ways, the choice of a way of life. A person spends almost one-third of his daily time and nearly forty years of his adult life in his chosen vocation. The kind of work a person does decides not only his earning, his social status and his daily routine, but also his sense of personal happiness and life satisfaction. A person who is in a job that he truly enjoys feels alive and creative; a person who is in a job which does not match his interest soon feels tired, bored and frustrated, even if the job pays him well.
 
-It is widely recognised by educational psychologists that an individual works hardest, learns fastest and feels most satisfied when he/she is engaged in an occupation which is in harmony with his/her own interest pattern. Conversely, when one is forced to work in a field which is alien to one's interests, he/she experiences boredom, frustration, low achievement and, in many cases, severe occupational maladjustment. Modern educational thought, therefore, lays heavy emphasis on the *systematic study* of vocational interests of children at the secondary stage of schooling, when these interests are in the process of crystallisation.
+In the Indian setting, the importance of choosing the right vocation is even greater. India is a country of more than 1.4 billion people, of which nearly half are below the age of twenty-five. The youth of India is the largest and most energetic resource of the nation. If our young boys and girls are guided into vocations that match their interests and abilities, the country will move forward at a great speed. On the other hand, if a large number of our youth land in vocations that do not match their interest, the result will be unhappiness at the personal level and waste of human resources at the national level. The seriousness of this problem can be felt by anyone who reads the daily newspapers — every year lakhs of educated youth appear for a small number of jobs, and a large proportion of them say openly that they are looking for "any job" rather than "the right job". This shows that something is missing in the way our school system is helping the young learner to discover himself.
 
-The present investigation has been undertaken with this very objective in mind. The investigator has tried to study the pattern of vocational interests of secondary school students of Meerut district, with a special reference to the differences arising from the **locality** (rural and urban) and the **type of management** (government and private) of the school attended by the student. Four schools, two each from rural and urban areas of Meerut, and one each from government and private sectors within those localities, have been selected as the source of the sample. The well-known *Vocational Interest Record (Hindi version)* developed by Dr. S.P. Kulshrestha, which measures interest of an individual in ten distinct areas, has been used as the principal tool of measurement.
+The discovery of one's own self — what one likes, what one dislikes, what one is good at, what one is not good at, what kind of work makes one happy — is a slow process. This process picks up speed during the period of **adolescence**, which begins around the age of twelve and continues till about the age of eighteen. The period of adolescence almost exactly matches the period of secondary and senior secondary schooling. It is during these six years that a child has to take some of the most important career-related decisions of his life — choice of subjects after class X, choice of stream (arts/science/commerce/vocational), choice of college, choice of competitive examination, and so on. If these decisions are taken without knowing one's own vocational interest, the chances of mismatch and later regret are very high.
 
-This chapter introduces the broad theoretical framework of the study, defines the principal terms used, lists the objectives, formulates the null hypotheses and lays down the limits within which the conclusions are to be interpreted.
+This is the reason why educationists have always given a special place to **vocational interest** in the curriculum of secondary education. The Secondary Education Commission (Mudaliar Commission, 1952–53), the Education Commission (Kothari Commission, 1964–66), the National Policy on Education 1986, the National Curriculum Framework 2005 and, most recently, the **National Education Policy 2020** have all stated, in clear terms, that every child at the secondary stage must be given a fair chance to know about different vocations and to discover his own interest in them. The N.E.P. 2020 has gone one step further and has recommended that every child should pass through some form of vocational exposure from class VI onwards.
 
----
+In this background, the present study has been planned to compare the vocational interests of boys and girls studying at the secondary level. There is a popular feeling in our society that boys naturally take interest in technical, scientific and outdoor work, while girls naturally take interest in artistic, household and social work. Whether this popular feeling is supported by actual school data, or whether it is only a social stereotype, is a question that has not been settled finally for the secondary school students of Meerut District. The present study is a small effort to look for an answer to this question through the **Vocational Interest Record** developed by Dr. S.P. Kulshrestha, on a sample of 80 students of two schools of Meerut district.
 
-## 1.2 CONCEPT OF INTEREST
+## 1.2 MEANING AND CONCEPT OF INTEREST
 
-The English word *interest* has been derived from the Latin *interesse* which means "to be in between" or "to make a difference". In common parlance, when we say that a person is *interested* in something, we mean that he/she is psychologically inclined towards that activity, attends to it, derives pleasure from it and willingly devotes time and energy to it.
+Before we discuss vocational interest, it is useful to understand what is meant by the word **"interest"** in psychology. In daily life we often say, "I am interested in cricket" or "I am not interested in mathematics". What we really mean is that one activity attracts our attention and gives us pleasure, while the other activity neither attracts us nor gives us pleasure. In psychology, this attraction is studied scientifically.
 
-Psychologists have defined interest in many ways. Some of the well-known definitions are:
+According to **Crow and Crow (1973)**, "Interest is the motivating force which compels us to give attention to a person, a thing or an activity." Interest is, therefore, a kind of internal force which pulls a person towards an object or activity. The activity may be reading a book, playing chess, singing, repairing a machine or helping a sick person — whatever the activity, it is the inner liking and the inner pull which is called interest.
 
-> *"Interest is a latent attention and attention is interest in action."* — **W. McDougall**
+**Drever (1952)**, in his Dictionary of Psychology, defines interest as "an attitude characterised by a need or motive which tends to direct an individual towards seeking out a particular object or activity." Here interest is described as a stable attitude — that is, a tendency which lasts for a long time. A person who is interested in painting today is most likely to remain interested in painting after one or two years also.
 
-> *"An interest is a tendency to become absorbed in an experience and to continue it."* — **G.W. Allport**
+The chief features of interest, drawn from the writings of educational psychologists, may be listed as follows:
 
-> *"Interest is the urge that drives an individual to choose one activity over another and persist in it."* — **J.B. Bingham**
+(a) Interest is **felt internally**; it cannot be forced from outside.
 
-> *"Interest is a persistent tendency to pay attention to and enjoy some activity or content."* — **D. Hilgard**
+(b) Interest leads the person to **pay extra attention** to the activity of his liking.
 
-> *"Interest may be defined as a function of activity which is engaged in for its own sake."* — **J. Dewey**
+(c) Interest produces a feeling of **pleasure** when the activity is going on.
 
-> *"Interest is the awareness of an object, idea, person, or situation seen as desirable, attractive, or as an object to which one's attention is drawn."* — **J.M. Sawrey and C.W. Telford**
+(d) Interest is **selective**; the same person is interested in some things but not in others.
 
-A close examination of these definitions brings out the following important characteristics of *interest*:
+(e) Interest is **fairly stable** and does not change suddenly. However, it is also not fixed for ever; it changes slowly with maturity, experience and education.
 
-1. **Interest is a learned tendency.** It is acquired through experience and is, therefore, modifiable.
-2. **Interest involves attention.** It pulls our consciousness towards the object of interest.
-3. **Interest is a motivating force.** It energises behaviour and gives it direction.
-4. **Interest is associated with feelings of pleasure and satisfaction.** Activities pursued out of interest are felt as enjoyable and never as a burden.
-5. **Interest is dynamic.** It grows or fades depending on success, failure, encouragement and opportunities.
-6. **Interest is selective.** Out of the multitude of stimuli in the environment, the individual responds preferentially to those connected with his/her interests.
-7. **Interest manifests itself in choice.** The choices that an individual makes about books, friends, hobbies and ultimately occupations are reliable indices of his/her interests.
+(f) Interest acts as a **motivating force**; the person works for long hours on the activity of his interest without feeling tired.
 
-Thus, *interest* may be regarded as a *psychological force* that compels the individual to attend selectively to particular objects, persons or activities, and that ultimately influences his/her vocational and life choices.
+(g) Interest is the basis of **learning**; without interest, real learning cannot take place even with the best of teachers.
 
-### 1.2.1 Classification of Interests
+When the activity towards which the inner pull is felt is a **vocation** or an **occupation**, the interest is called a **vocational interest**. We turn to this concept in the next section.
 
-Various classifications of interests have been suggested. Three of these are particularly important from the educational point of view:
+## 1.3 MEANING OF VOCATIONAL INTEREST
 
-**(a) On the basis of expression.** Super (1957) classified interests into four categories:
-- *Expressed interests* — those revealed through verbal expression by the individual.
-- *Manifest interests* — those revealed through actual participation in an activity.
-- *Tested interests* — those measured through performance in special objective tests.
-- *Inventoried interests* — those measured through standardised interest inventories.
+A **vocation** is a job, an occupation or a way of earning one's living. A vocation may be a paid government service, a private sector job, a self-owned business, a profession like teaching, medicine or engineering, or even a household duty. The word "vocation" is wider than the word "job" because it includes the idea of life-work — what a person does as his life-long activity. **Vocational interest**, therefore, means the liking, attraction or pull which a person feels towards a particular vocation or group of vocations.
 
-**(b) On the basis of duration.** Interests may be *temporary* or *permanent*. The frequent change of toys, friends and games during childhood reflects temporary interests, whereas the lifelong devotion of a scientist to his/her research reflects a permanent interest.
+For example, when a class IX boy looks at a mechanic at work and says, "I would also love to work like this when I grow up," he is showing vocational interest in the technical area. When a class X girl reads a story and decides that she will become a writer, she is showing vocational interest in the literary area. The same girl, on a different day, may notice a doctor at work and say, "I want to help sick people like this lady doctor" — that response shows vocational interest in the social/medical area. Vocational interest is, in this sense, a **felt liking towards a kind of work**.
 
-**(c) On the basis of content.** Strong (1943), Kuder (1939) and Holland (1973) proposed several content-based classifications, of which Holland's six-fold typology — *Realistic, Investigative, Artistic, Social, Enterprising and Conventional (RIASEC)* — is the most widely used today.
+It is important to remember that vocational interest is **not the same as vocational ability**. A boy may be deeply interested in becoming a doctor but may not have the academic ability to qualify in medical entrance examinations. A girl may have a very high mathematical ability but may not be interested in mathematics-based careers at all. The educational task at the secondary level is to find out **both** the interest **and** the ability of the student and then to bring them together as far as possible. Where interest and ability match, the chances of success in the vocation are very high. Where interest and ability do not match, the help of a guidance counsellor becomes very important.
 
-The Vocational Interest Record of Dr. S.P. Kulshrestha used in the present study is based on a **ten-area classification** which is particularly suited to the Indian educational and occupational structure.
+## 1.4 DEFINITIONS OF VOCATIONAL INTEREST
 
----
+Different psychologists and educationists have defined vocational interest in slightly different words but with almost the same meaning. Some of the well-known definitions are given below.
 
-## 1.3 CONCEPT OF VOCATIONAL INTEREST
+**Donald E. Super (1957):** "Vocational interest is the product of the interaction between the inherited neural and endocrine factors of the individual on one side and his social environment, opportunities, and experiences on the other." Super emphasised that vocational interest is **not** something which is only inborn; it grows out of the meeting between what we are born with and what we experience while growing up. According to him, vocational interest develops in five stages — **Growth (0–14 years), Exploration (15–24 years), Establishment (25–44 years), Maintenance (45–64 years) and Decline (65 years onwards).** Adolescents of class IX and X are in the **Exploration** stage, when they are actively searching, trying out and forming preferences.
 
-A *vocation* is an occupation or a calling to which a person devotes the major part of his/her productive life. *Vocational interest*, therefore, refers to the particular pattern of likes and dislikes which an individual feels with reference to different vocational fields. It is the *positive emotional disposition* an individual has towards a particular type of work and the activities associated with it.
+**E.K. Strong (1943):** "Vocational interest is a tendency to like or to dislike particular activities, situations and objects which are related to a vocation." Strong is the father of modern interest measurement. He gave the world's first widely-used vocational interest test — the **Strong Vocational Interest Blank (S.V.I.B.)**. According to Strong, when the likes and dislikes of a person match the likes and dislikes of people who are already happy and successful in a particular vocation, the person is said to have an interest in that vocation.
 
-> *"Vocational interest is the readiness of the mind to attend to a particular occupation, the love or liking of which is being shown by the individual."* — **E.K. Strong (1943)**
+**John L. Holland (1959, 1973):** "Vocational interest is the expression of personality in work, in school subjects, in hobbies, in recreational activities and in preferences." Holland is famous for his **Hexagonal Theory of Career Choice (RIASEC)**. According to him, both people and work environments can be classified into six broad types — **Realistic, Investigative, Artistic, Social, Enterprising and Conventional**. A person feels happy and successful when his personality type matches his work environment type.
 
-> *"Vocational interest is more or less specific liking for a particular vocational activity which is independent of external pressures."* — **F. Kuder (1939)**
+**S.P. Kulshrestha (1976):** "Vocational interest refers to the relative liking or disliking of an individual towards different vocational activities; it is a feeling of attraction towards or aversion from a vocation." Dr. Kulshrestha developed the **Vocational Interest Record (V.I.R.)**, which is one of the most widely used Hindi-language tools in the field of vocational guidance in India. The tool of the present study is the V.I.R. by Dr. Kulshrestha and his definition guides the present research most directly.
 
-> *"Vocational interest is the result of interaction between an individual's hereditary endowments, his learning, his self-concept and the cultural patterns of the society in which he lives."* — **D.E. Super (1957)**
+Some other definitions which are useful for an Indian M.Ed. dissertation are:
 
-Vocational interest, thus, is a complex psychological construct that develops through the *progressive interaction* of the individual with his/her physical, social and cultural environment. The home, the school, the peer group, the mass media and the community at large all play a role in shaping the vocational interests of the growing child.
+- **Crow and Crow (1973):** "Vocational interest implies a tendency to be attracted by certain types of vocations or activities."
+- **Carter V. Good (1973):** "Vocational interest is a more or less permanent and persistent disposition or set of the individual towards certain occupational fields."
+- **Walter Dill Scott (1928):** "Vocational interest is a tendency to choose voluntarily and freely those vocational situations to which one finds oneself adjusted."
+- **Guilford (1959):** "Interest in a vocational area is a generalised behaviour tendency to be drawn towards a class of activities related to that vocation."
 
-### 1.3.1 Characteristics of Vocational Interest
+From all these definitions, three common ideas come out very clearly:
 
-The following are the principal characteristics of vocational interest:
+1. Vocational interest is a **tendency** (not a one-time feeling) which is fairly stable.
+2. Vocational interest is **directed** towards some kind of work, activity or occupational field.
+3. Vocational interest grows out of an **interaction** between the inner make-up of the person and the outer experiences of life.
 
-1. **It is largely acquired** through learning and experience, although heredity also has a role.
-2. **It begins to crystallise during adolescence**, especially between the ages of 13 and 17 years (Ginzberg, 1951).
-3. **It tends to remain relatively stable** after the age of 25 years (Strong, 1943).
-4. **It is multi-dimensional** — every individual possesses several interests in varying degrees of intensity.
-5. **It is positively related** to occupational satisfaction and achievement.
-6. **It is influenced by sex, intelligence, socio-economic status, locality, schooling and family background.**
-7. **It is measurable** through suitable interest inventories such as those of Strong, Kuder, Holland, Thurstone, Chatterji, Pruthi and Kulshrestha.
+## 1.5 CONCEPT OF VOCATIONAL GUIDANCE
 
-### 1.3.2 Difference between Interest, Aptitude and Ability
+Vocational guidance is the **organised effort of the school** to help the student choose a vocation that matches his interest, aptitude, ability and personality. The pioneer of vocational guidance is **Frank Parsons (1909)**, an American social reformer who set up the first vocational guidance bureau in Boston in 1908. In his famous book *Choosing a Vocation*, Parsons gave the **three-step model** of vocational guidance:
 
-Interest is often confused with *aptitude* and *ability*. They are related but distinct concepts.
+(i) **Self-study** — a clear understanding of one's own aptitudes, abilities, interests, ambitions, resources, limitations and their causes.
 
-| Aspect | Interest | Aptitude | Ability |
-|:---|:---|:---|:---|
-| Meaning | Liking for an activity | Potential to learn an activity | Present capacity to perform |
-| Time orientation | Present and future inclination | Future possibility | Present performance |
-| Measured by | Interest inventories | Aptitude tests | Achievement tests |
-| Modifiability | Modifiable by experience | Relatively stable | Modifiable by training |
+(ii) **Job-study** — a clear knowledge of the requirements, conditions of success, advantages and disadvantages, compensation, opportunities and prospects of different lines of work.
 
-For successful occupational adjustment all three — interest, aptitude and ability — should match the requirements of the chosen vocation.
+(iii) **True reasoning** — putting (i) and (ii) together with the help of a counsellor and arriving at a wise choice.
 
----
+Parsons' three-step model is still the basic structure of every modern vocational guidance programme. The first step (self-study) is impossible without measuring vocational interest. This is exactly why interest tests like the V.I.R. are so important.
 
-## 1.4 THEORIES OF VOCATIONAL INTEREST
+In India, **vocational guidance** is officially the responsibility of the school under the recommendations of every Education Commission since the Secondary Education Commission (1952–53). The Commission recommended the appointment of a guidance officer in every secondary school. NCERT set up the **Department of Educational and Vocational Guidance (DEVG)** in 1961, which was later expanded into the **Department of Educational Psychology and Foundations of Education**. In Uttar Pradesh, the State Bureau of Educational Guidance under the Directorate of Secondary Education was started for the same purpose. However, even today, in most schools of Meerut District (especially the rural Government schools), there is no full-time guidance counsellor. The class teacher and the principal are the only persons available for guidance, and they are usually busy with teaching and administrative work. This is one practical problem which the present study has tried to keep in mind.
 
-Several theories have been proposed to explain the development of vocational interest. The five most prominent theories are described below.
+## 1.6 SECONDARY EDUCATION IN INDIA
 
-### 1.4.1 Trait–Factor Theory of Frank Parsons (1909)
+The school education system of India is divided, after the National Education Policy 2020, into the **5+3+3+4 stages**:
 
-Frank Parsons, the *father of vocational guidance*, propounded that successful vocational choice depends on a *true reasoning* between three sets of factors: (a) clear knowledge of one's interests, abilities and aptitudes, (b) clear knowledge of various occupations and their requirements and (c) reasoning about the relationship between (a) and (b). Although highly logical, the theory is criticised for its over-mechanical view of human choice.
+1. **Foundational stage** — 5 years (3 years of pre-school + classes I & II), age group 3–8.
+2. **Preparatory stage** — 3 years (classes III, IV, V), age group 8–11.
+3. **Middle stage** — 3 years (classes VI, VII, VIII), age group 11–14.
+4. **Secondary stage** — 4 years (classes IX, X, XI, XII), age group 14–18.
 
-### 1.4.2 Self-Concept Theory of Donald E. Super (1953, 1957)
+The **secondary stage** is, therefore, the last stage of school education. It is at this stage that the student starts taking serious decisions about his future. After class X he has to decide his stream (Arts, Science, Commerce, Vocational, Agriculture, Home Science, etc.). After class XII he has to decide whether to enter a college, an engineering institute, a medical college, a polytechnic, an I.T.I., a teacher-training institute, or any of the hundreds of competitive examinations. Each one of these decisions is a vocational decision in disguise.
 
-Super viewed vocational development as a *life-long process* of implementing a self-concept. He divided the working life into five stages — *Growth (0–14)*, *Exploration (15–24)*, *Establishment (25–44)*, *Maintenance (45–64)* and *Decline (65+)*. The Secondary School stage falls in the *Exploration stage*, during which the adolescent tries to test, refine and finally translate his/her self-concept into vocational reality. The present study, therefore, focuses on this very stage.
+The classes IX and X — which form the sample of the present study — are the **first two years** of the secondary stage. They are even more important than classes XI and XII because the student has not yet been "fixed" into a stream. There is still time to discover the real interest, to give exposure to many vocations and to bring him close to the work of his liking. If we wait till class XI, the choice of stream has already been made and a great deal of vocational future has been silently decided. This is why educationists call classes IX and X the **make-or-break** classes of school education.
 
-### 1.4.3 Theory of Vocational Choice by Eli Ginzberg (1951)
+## 1.7 ADOLESCENT CAREER DEVELOPMENT
 
-Ginzberg and his associates proposed that occupational choice is a *developmental process* involving three periods:
-1. **Fantasy period (up to 11 years)** – choices guided by imagination and play.
-2. **Tentative period (11–17 years)** – choices guided by interests, capacities and values.
-3. **Realistic period (17 years and onwards)** – choices made on the basis of a realistic synthesis of all factors.
+Career development is a **life-long** process. It does not begin on the day the boy or girl receives the appointment letter of his first job; it begins much earlier, in fact in childhood, and reaches a critical stage during adolescence. Several psychologists have studied this development. The most well-known among them is the **Career Development Theory** of Donald E. Super, briefly described in section 1.4. Two more theories which are useful for an Indian M.Ed. dissertation are explained below.
 
-The pupils studied in the present investigation, being of Class IX (14–15 years), fall in the *Tentative period* and their interests are, therefore, of paramount importance.
+### 1.7.1 Ginzberg's Theory of Occupational Choice (1951)
 
-### 1.4.4 Personality Theory of John L. Holland (1973, 1985)
+Eli Ginzberg and his team divided the process of occupational choice into three periods:
 
-Holland is of the view that the choice of vocation is an *expression of personality*. He proposed six personality types — Realistic, Investigative, Artistic, Social, Enterprising and Conventional (the *RIASEC* hexagon) — and a corresponding classification of work environments. According to him, individuals seek work environments that allow them to express their dominant personality type.
+(i) **Fantasy period (up to 11 years).** In this period, the child wants to become anything and everything — pilot, doctor, soldier, teacher, film star — without thinking about his ability or about reality. Choices are made on the basis of imagination and play.
 
-### 1.4.5 Need Theory of Anne Roe (1956)
+(ii) **Tentative period (11 – 17 years).** This is the period of adolescence and exactly the period of secondary schooling. Ginzberg sub-divided it into four stages:
+- *Interest stage (11–12)* — choices are made on the basis of likes and dislikes.
+- *Capacity stage (13–14)* — the adolescent begins to consider his own capacity.
+- *Value stage (15–16)* — value judgements (status, money, social service) enter the choice.
+- *Transition stage (17–18)* — the adolescent moves from tentative to realistic choice.
 
-Roe, drawing heavily on Maslow's hierarchy of needs and on early childhood experience, suggested that the kind of parental treatment received in early childhood — *acceptance, rejection, emotional concentration* — determines the orientation of the child either towards *people* or away from people, and thus shapes vocational choices.
+(iii) **Realistic period (17 years and above).** Choices are now made keeping in mind the real opportunities available, the family's economic position, the chance of getting admission and so on. The realistic period itself has three sub-stages — Exploration, Crystallisation and Specification.
 
-These five theories form the conceptual backdrop against which the present investigation has been planned.
+The students of the present sample, being of class IX and X (age 14 – 16 years), are in the **Capacity** and **Value** sub-stages of the **Tentative period**. This is exactly the right time to measure their vocational interest.
 
----
+### 1.7.2 Anne Roe's Theory of Career Choice (1956)
 
-## 1.5 IMPORTANCE OF VOCATIONAL INTEREST AT THE SECONDARY STAGE
+Anne Roe believed that the warmth or coldness of the home environment in childhood plays a major role in deciding whether the adult prefers a "person-oriented" or a "non-person-oriented" career. Her theory is less popular today but is still useful in the Indian setting because it brings the family into the picture. Indian families are very tightly involved in career decisions of their children. The data of the present study comes from rural and urban homes whose family backgrounds are quite different, and Roe's theory becomes useful at the time of interpretation.
 
-The Secondary stage of education in India covers the age group of 14–16 years, that is, Classes IX and X. This stage has a special significance in the educational career of a child because it is at the end of this stage that the pupil is required to make the **first major academic choice** — selection of subject stream (Science, Commerce, Humanities or Vocational) at the +2 stage. This choice, in turn, very largely determines the higher educational and occupational pathway of the individual.
+## 1.8 IMPORTANCE OF VOCATIONAL INTEREST AT SECONDARY LEVEL
 
-The various commissions and committees on Indian education have, time and again, emphasised the importance of providing systematic guidance and counselling at this stage. The **Secondary Education Commission (Mudaliar Commission, 1952–53)** clearly recommended:
+The vocational interest of a secondary school student is important for at least seven reasons:
 
-> "Students at the secondary stage should be given guidance and helped to make a wise vocational choice on the basis of their interests, capacities and the social needs of the country."
+1. **Better choice of stream after class X.** When a student knows his real interest area, he is in a much better position to choose the right stream. A boy whose Technical area score is the highest will be happier in a Polytechnic / I.T.I. / Engineering stream than in a pure Science stream of class XI–XII.
 
-The **Education Commission (Kothari Commission, 1964–66)** made a strong plea for "diversified courses at the secondary stage" so that pupils may choose courses according to their interests, aptitudes and the man-power needs of the nation.
+2. **Better academic performance.** Students who study a subject because they are interested in it learn faster and remember longer than students who study it under pressure. Many cases of poor performance and even drop-out at higher secondary level can be traced back to the wrong stream having been chosen at the end of class X.
 
-The **National Policy on Education (1986)** and its **Programme of Action (1992)** advocated *vocationalisation of secondary education*. The **National Curriculum Framework, 2005** and the **N.C.F. for School Education, 2023**, both, recommended the integration of *career awareness* and *vocational exploration* in the secondary curriculum.
+3. **Better mental health.** The adolescent who has some idea about "what he wants to become" feels confident and secure. The adolescent who has no idea at all suffers from career confusion, anxiety and even depression. The growing problem of student suicide in India is partly a problem of career confusion.
 
-Most recently, the **National Education Policy, 2020** has stated, in para 4.26, that:
+4. **Better use of human resources.** From the country's point of view, a child who is in the right vocation contributes much more than a child who is in the wrong vocation. Vocational interest assessment is a small but powerful tool for matching the child to the right opportunity.
 
-> "Vocational education will be integrated into all schools in a phased manner over the next decade. ... Every student will take a fun course, during Grades 6–8, that gives a survey and hands-on experience of important vocational crafts."
+5. **Reduction of unemployment of educated youth.** A large part of "educated unemployment" in India is, in fact, **wrongly-educated unemployment** — boys and girls have qualifications which the labour market does not need, while industries are looking for skilled workers in trades that no one has been trained for. Better vocational interest assessment at the secondary level can slowly reduce this gap.
 
-The Policy further proposes a 10-day *bagless period* at the upper primary stage during which children will be exposed to vocational crafts, internships and apprenticeships.
+6. **Encouragement to non-traditional vocations.** When boys and girls take an interest test, they often find that their highest interest is in a vocation about which their family and society have never spoken to them. A girl may discover that her highest interest is in the Technical area; a boy may discover that his highest interest is in the Artistic area. Such findings can challenge the gender stereotype which is still strong in Indian society.
 
-In view of this strong policy support, it is clearly important that vocational interests of secondary school students be studied empirically, school-wise and locality-wise, so that the guidance services can be planned in a *contextually appropriate manner*.
+7. **Foundation for further guidance.** Vocational interest data forms the **first step** in the guidance file (cumulative record) of the student. Without it, the entire structure of school guidance becomes weak.
 
----
+## 1.9 GENDER DIFFERENCES IN CAREER CHOICES
 
-## 1.6 RURAL–URBAN DIFFERENCES IN INDIAN EDUCATION
+Gender is one of the strongest factors that influence vocational choice in India. In our society, certain vocations are traditionally seen as "men's vocations" — engineering, mechanic work, defence, agriculture, transport, mining, etc. — while certain other vocations are seen as "women's vocations" — teaching at primary level, nursing, child-care, tailoring, beauty-care, household management, etc. These are called **gender-typed vocations**.
 
-India is a country of villages. According to the 2011 Census, 68.8 per cent of the Indian population lives in rural areas; in Uttar Pradesh, this proportion is even higher, around 77.7 per cent. Meerut district itself, the area covered in the present study, has a substantial rural population engaged primarily in agriculture, dairy farming and small-scale rural industry. The urban part of the district, on the other hand, is fast emerging as one of the most important industrial, commercial and educational hubs of western Uttar Pradesh.
+This typing happens for several reasons. First, **family role models** are different for boys and girls. A boy mostly sees his father, uncles and elder brothers in their vocational roles, while a girl mostly sees her mother, aunts and elder sisters. Second, the **textbooks and stories** of the school subtly carry the same picture — pilots, scientists and engineers in textbooks are usually shown as men, while nurses, primary teachers and home-makers are usually shown as women. Third, **toys** given to children in early childhood are different — a boy is given cars, guns, building blocks and tools; a girl is given dolls, kitchen sets and cradles. Fourth, the **opportunities** for outdoor experience, internet exposure and travel are usually wider for boys than for girls, particularly in rural India.
 
-It is well documented that rural and urban environments differ in a number of educationally important characteristics:
+The combined effect of all these factors is that, by the time a child reaches class IX, his vocational interest is already partly coloured by his gender. The present study tries to find out **how strong this gender effect is** in two schools of Meerut District in 2026, when the National Education Policy 2020 has been at work for some years and the country has, at least at the policy level, talked about gender-equality in education.
 
-1. **Economic structure** — agriculture and allied trades dominate in villages, while services, industry and commerce dominate in cities.
-2. **Family structure** — rural families are typically larger and more often joint, urban families tend to be smaller and nuclear.
-3. **Educational facilities** — urban schools generally enjoy better infrastructure, more qualified teachers, modern teaching aids and easier access to libraries, computers and Internet.
-4. **Career exposure** — urban children are exposed to a wider variety of occupations through neighbourhood, mass media and social interaction, whereas rural children's career horizon is largely confined to the occupations available in the village.
-5. **Aspirational climate** — urban families generally entertain higher educational and occupational aspirations for their children, especially in respect of *modern* white-collar occupations.
-6. **Cultural pattern** — rural life is traditionally more *collectivistic*, urban life relatively more *individualistic*.
+## 1.10 VOCATIONAL INTEREST AREAS OF KULSHRESTHA'S V.I.R.
 
-Given these differences, it is reasonable to expect that the *vocational interest pattern* of rural and urban adolescents will also differ in identifiable ways. The verification of this expectation forms one of the principal objectives of the present study.
+The Vocational Interest Record (V.I.R.) by Dr. S.P. Kulshrestha measures interest in the following **nine areas**. A short and simple description of each area is given below.
 
----
+### 1.10.1 Literary Area
 
-## 1.7 GOVERNMENT vs. PRIVATE SCHOOL EDUCATION
+The literary area covers vocations which involve reading, writing, language, journalism, library work, translation, teaching of language, literary research and editorial work. Examples are: writer, poet, journalist, librarian, lecturer of Hindi/English, court reporter, editor of a magazine, screen-script writer, etc. A student high in the literary area enjoys reading novels, writing diaries, debating, taking part in essay competitions and so on.
 
-A second contextual factor of great practical importance in present-day Indian education is the *type of management* of the school — government or private. The unaided private school sector has grown enormously in the last three decades and now caters to nearly half of the school-going population in urban areas of Uttar Pradesh. Government and private schools differ from one another in several important respects:
+### 1.10.2 Scientific Area
 
-1. **Medium of instruction** — many private schools use English as the medium of instruction, while government schools generally use Hindi.
-2. **Infrastructure** — private schools, especially the higher-fee ones, generally have better-equipped laboratories, libraries, smart classrooms and computer labs.
-3. **Teacher–pupil ratio** — frequently more favourable in private schools.
-4. **Co-curricular activities** — generally more diversified in private schools.
-5. **Socio-economic background of pupils** — private schools largely cater to middle and upper-middle income families, government schools to lower income groups.
-6. **Career orientation** — career awareness activities are generally more prevalent in private schools.
+The scientific area covers vocations which involve curiosity, experimentation, laboratory work, observation, analysis and discovery of natural laws. Examples are: scientist, doctor, biologist, chemist, physicist, biotechnologist, environmental scientist, science teacher, research assistant, etc. A student high in the scientific area enjoys solving puzzles, doing science projects, watching documentaries on space and nature, and asking "why" and "how" questions.
 
-These differences are likely to leave their imprint on the vocational interest pattern of pupils. The present study, therefore, also seeks to compare the vocational interests of government and private school students.
+### 1.10.3 Executive Area
 
----
+The executive area covers vocations which involve leadership, planning, organising, decision-making and supervising the work of others. Examples are: civil services officer (I.A.S./I.P.S./P.C.S.), army officer, police officer, manager, principal, magistrate, public relations officer, event manager, etc. A student high in the executive area enjoys class monitor responsibilities, planning school functions, leading a team in a debate competition or in a sports event.
 
-## 1.8 NEED AND SIGNIFICANCE OF THE STUDY
+### 1.10.4 Commercial Area
 
-The need and significance of the present study may be looked at from several angles:
+The commercial area covers vocations which involve money, accounts, banking, business, trade, marketing, insurance and finance. Examples are: chartered accountant, banker, businessman, shop-owner, sales executive, stock-broker, insurance agent, tax consultant, etc. A student high in the commercial area enjoys keeping accounts, helping in a family shop, selling things in a school fair and reading the business page of the newspaper.
 
-1. **Theoretical significance.** Although a fairly large number of studies have been conducted on the vocational interests of secondary school students in India, very few of them have *simultaneously* compared four groups defined by the joint variation of locality and type of management. The present study, therefore, makes a distinct theoretical contribution by examining the vocational interest pattern in this *2 × 2 framework*.
+### 1.10.5 Artistic Area
 
-2. **Empirical significance.** The investigator has herself/himself collected data from four representative schools of Meerut district, employing a standardised tool. The data so collected has direct empirical value for the schools concerned.
+The artistic area covers vocations which involve beauty, creativity, imagination, drawing, painting, dancing, singing, music, fashion designing, photography, interior decoration, animation and the fine arts. Examples are: artist, painter, musician, dancer, fashion designer, interior decorator, animation artist, photographer, etc. A student high in the artistic area enjoys sketching, painting, decorating his room, taking photographs and watching dance and music programmes.
 
-3. **Significance for the pupils.** The most important beneficiaries of the study are the pupils themselves. The study will help them understand their vocational interest profile in comparison with that of their peers and will indirectly encourage them to think about their vocational future.
+### 1.10.6 Agriculture Area
 
-4. **Significance for the teachers.** The class teachers, especially the Class Teacher of Class IX, will be in a better position to understand the *area-specific* interests of their pupils and will be able to mould their teaching accordingly.
+The agriculture area covers vocations which involve plants, animals, farming, gardening, dairy, poultry, fisheries, forestry and horticulture. Examples are: farmer, agricultural scientist, veterinary doctor, dairy manager, horticulturist, forest officer, agriculture extension officer, fisheries officer, etc. A student high in the agriculture area enjoys gardening, taking care of pet animals, visiting agricultural fairs and watching programmes on farming techniques on Doordarshan Krishi.
 
-5. **Significance for the school administration.** The Principals and Managers of the schools concerned will obtain an *aggregate profile* of the vocational interests of their pupils, which is likely to influence subject-wise sectional planning, vocational courses and co-curricular activities.
+### 1.10.7 Technical Area
 
-6. **Significance for the parents.** The findings will indirectly help parents to take an informed view of the career aspirations of their children.
+The technical area (also called the constructive area in some manuals) covers vocations which involve machines, tools, electrical and mechanical work, repair, building, construction, civil work, automobile, electronics and information technology hardware. Examples are: engineer, mechanic, electrician, mason, carpenter, plumber, motor-mechanic, draftsman, computer-hardware technician, mobile-repair worker, etc. A student high in the technical area enjoys opening and repairing toys, helping in repair of cycles or motor-cycles, watching how new buildings are made and using simple tools at home.
 
-7. **Significance for the educational planners.** The study will provide empirical evidence on the differential interest patterns of rural and urban, government and private school students, which can feed into district level career awareness and vocationalisation planning.
+### 1.10.8 Household Area
 
-8. **Significance for policy.** In the present context of the National Education Policy 2020, which makes vocational exposure compulsory at the school stage, locality-wise and management-wise empirical evidence on vocational interests becomes especially relevant.
+The household area covers vocations which involve the running of a home or an institution that takes care of people — cooking, sewing, child-care, nursing, dietetics, hotel-management, hostel-warden duty, beauty-care and personal grooming. Examples are: home-maker, dietitian, nutritionist, nurse, beautician, tailor, cook in a hotel, hostel warden, child-care worker, etc. A student high in the household area enjoys cooking simple food, helping in housework, keeping the rooms clean and decorated, and taking care of younger children of the family.
 
----
+### 1.10.9 Social Area
 
-## 1.9 STATEMENT OF THE PROBLEM
+The social area covers vocations which involve helping, teaching, healing, caring and serving fellow human beings, especially in groups. Examples are: school teacher, doctor, social worker, counsellor, NGO worker, ANM/ASHA worker, community health officer, religious worker, lawyer working for the poor, etc. A student high in the social area enjoys helping a sick friend, taking part in N.S.S./Scouts and Guides activities, donating to charities and joining clean-the-school campaigns.
 
-In view of the above, the problem of the present investigation has been formulated as follows:
+The nine areas, taken together, give a fairly complete picture of the world of work as it exists in modern India. They are also wide enough to absorb the new vocations created by digital technology — for example, a YouTuber may be classified into Artistic + Literary, while a software engineer may be classified into Technical + Scientific.
 
-> **"A Comparative Study of Vocational Interests of Secondary School Students of Rural and Urban Areas in Government and Private Schools of Meerut District"**
+## 1.11 NEED AND SIGNIFICANCE OF THE STUDY
 
----
+The need and significance of the present study can be put forward under the following points.
 
-## 1.10 OPERATIONAL DEFINITIONS OF THE TERMS USED
+(a) The choice of an unsuitable career is one of the major causes of personal unhappiness and national wastage. A study which throws light on the vocational interest pattern of secondary school boys and girls is, therefore, important on practical grounds.
 
-In order to convey a precise meaning of the principal terms used in the title of the study, the following operational definitions have been adopted:
+(b) Although the V.I.R. by Dr. Kulshrestha is a widely used tool, very few studies have applied it on the secondary school students of **Meerut District** in recent years. The present study fills this small but important gap of local data.
 
-1. **Vocational Interest.** In the present study the term *vocational interest* refers to the *score obtained by the pupil on the Vocational Interest Record (Hindi version) developed by Dr. S.P. Kulshrestha* in each of its ten areas, viz. Literary, Scientific, Executive, Commercial, Constructive, Artistic, Agricultural, Persuasive, Social and Household.
+(c) Earlier studies done in the 1980s and 1990s often reported very large gender differences. After more than three decades of policy-level changes — the Right to Education Act 2009, the Beti Bachao Beti Padhao programme, the digital revolution, the entry of women into many male-dominated fields — it is necessary to **check** whether the gender differences are still as wide.
 
-2. **Secondary School Student.** A pupil studying in **Class IX** of a recognised secondary school in Meerut district during the academic session 2025–2026.
+(d) The findings of the study can be used by the **D.I.E.T., Meerut**, by the **District Education Officer (Secondary), Meerut**, and by the principals of the two sample schools for planning local interventions.
 
-3. **Rural School.** A school situated in a *village area* (i.e., outside the limits of the Meerut Municipal Corporation / urban local body) according to the Census of India, 2011.
+(e) The present study compares not only boys and girls but also class IX and class X students of two very different settings — a rural Government school and an urban private CBSE school. The comparison brings out clearly whether vocational interest is more influenced by gender or by school setting.
 
-4. **Urban School.** A school situated within the *municipal limits* of a notified town in Meerut district.
+(f) The findings will be useful for **parents** who often unknowingly push the child into a vocation of family preference rather than of personal interest.
 
-5. **Government School.** A school *fully funded and administered* by the Government of Uttar Pradesh / U.P. Board.
+(g) The study will, in a small way, support the goals of the **National Education Policy 2020**, which insists on early vocational exposure and freedom of subject choice at the secondary stage.
 
-6. **Private School.** A *privately managed* school, recognised by U.P. Board / C.B.S.E., not receiving any direct grant-in-aid from the State Government.
+## 1.12 STATEMENT OF THE PROBLEM
 
-7. **Comparison.** The term *comparison*, as used in the title, refers to the *statistical comparison* of mean vocational interest scores of the groups concerned, using *t-test* and *one-way analysis of variance*.
+Keeping the above background in view, the problem of the present investigation has been stated as under:
 
----
+> **"A Comparative Study of the Vocational Interests of Boys and Girls Studying at Secondary Level."**
 
-## 1.11 OBJECTIVES OF THE STUDY
+The study is restricted to the students of classes IX and X of two schools of Meerut District — Shri Sanskrit Inter College, Aitmadpur (rural Government) and K.P. International School, Kila Parikshit Garh (urban private, CBSE). The vocational interests have been measured by the Vocational Interest Record (V.I.R.) of Dr. S.P. Kulshrestha, which yields scores on **nine areas** — Literary, Scientific, Executive, Commercial, Artistic, Agriculture, Technical, Household and Social.
 
-The present study has been designed with the following five objectives:
+## 1.13 OBJECTIVES OF THE STUDY
 
-**O1.** To study the area-wise vocational interests of secondary school students of (a) rural government, (b) rural private, (c) urban government and (d) urban private schools of Meerut district.
+The following five objectives have been framed for the study:
 
-**O2.** To compare the vocational interests of *rural* and *urban* secondary school students on each of the ten areas of the Vocational Interest Record.
+**Objective 1.** To study the vocational interest pattern of boys studying at the secondary level.
 
-**O3.** To compare the vocational interests of *government* and *private* secondary school students on each of the ten areas of the Vocational Interest Record.
+**Objective 2.** To study the vocational interest pattern of girls studying at the secondary level.
 
-**O4.** To compare the vocational interests of *boys* and *girls* on each of the ten areas of the Vocational Interest Record.
+**Objective 3.** To compare the **mean total vocational interest scores** of boys and girls of the secondary level.
 
-**O5.** To compare *simultaneously* the vocational interests of all the four groups (rural government, rural private, urban government, urban private) on each of the ten areas of the Vocational Interest Record by means of one-way analysis of variance.
+**Objective 4.** To compare the **area-wise vocational interest** scores of boys and girls of the secondary level on each of the nine areas of Kulshrestha's V.I.R., separately.
 
----
+**Objective 5.** To find out the **most preferred** and the **least preferred** vocational interest area of boys and girls of the secondary level and to suggest implications for vocational guidance, educational planning and parental counselling.
 
-## 1.12 HYPOTHESES OF THE STUDY
+## 1.14 HYPOTHESES OF THE STUDY
 
-In keeping with the above objectives, the following null hypotheses have been formulated:
+The following four null hypotheses have been formulated and tested in the study at the 0.05 and 0.01 levels of significance:
 
-**H₀1.** There is no significant difference between the mean vocational interest scores of *rural* and *urban* secondary school students on any of the ten areas of the Vocational Interest Record.
+**H0₁** — There exists no significant difference between the mean total vocational interest scores of boys and girls of the secondary level.
 
-**H₀2.** There is no significant difference between the mean vocational interest scores of *government* and *private* secondary school students on any of the ten areas of the Vocational Interest Record.
+**H0₂** — There exists no significant difference between the mean scores of boys and girls of the secondary level on each of the nine vocational interest areas of Kulshrestha's V.I.R., taken separately.
 
-**H₀3.** There is no significant difference between the mean vocational interest scores of *boys* and *girls* on any of the ten areas of the Vocational Interest Record.
+**H0₃** — There exists no significant difference between the mean total vocational interest scores of class IX and class X students of the secondary level.
 
-**H₀4.** There is no significant difference among the mean vocational interest scores of the four groups, i.e. rural government, rural private, urban government and urban private school students, on any of the ten areas of the Vocational Interest Record.
+**H0₄** — There exists no significant difference in the rank order of the nine vocational interest areas as preferred by boys and as preferred by girls of the secondary level.
 
----
+## 1.15 OPERATIONAL DEFINITIONS OF THE TERMS USED
 
-## 1.13 DELIMITATIONS OF THE STUDY
+For the purpose of the present study, the following terms have been operationally defined:
 
-The study suffers from the usual constraints of a small-scale dissertation. Its findings should, therefore, be interpreted within the following delimitations:
+(i) **Vocational Interest.** Vocational interest, in this study, refers to the **score** obtained by the student on each of the nine areas of the Vocational Interest Record (V.I.R.) by Dr. S.P. Kulshrestha. Higher the score on a particular area, higher the interest of the student in that area.
 
-1. The study has been delimited to the **Meerut district** of Uttar Pradesh only.
-2. Only **four schools**, one each from rural government, rural private, urban government and urban private categories, have been included.
-3. The sample has been delimited to the **students of Class IX** only.
-4. The sample size has been delimited to **200 students** (50 from each school, 25 boys + 25 girls).
-5. The tool used has been delimited to the **Vocational Interest Record (Hindi version) of Dr. S.P. Kulshrestha** only.
-6. The data have been collected during the **academic session 2025–2026** only.
-7. The variables studied have been delimited to **locality (rural/urban), type of management (government/private) and gender (boys/girls)** only. Other variables such as socio-economic status, intelligence, parental education etc. have not been controlled.
-8. The statistical techniques used have been delimited to **mean, S.D., t-test and one-way ANOVA**.
+(ii) **Boys.** "Boys" refers to the **40 male students** of classes IX and X of the two sample schools who appeared on the V.I.R. on the day of administration. Twenty boys came from Shri Sanskrit Inter College, Aitmadpur (10 of class IX and 10 of class X); the other twenty came from K.P. International School, Kila Parikshit Garh (10 of class IX and 10 of class X).
 
-The next chapter is devoted to the *Review of Related Literature* that provided the empirical and conceptual basis for the present investigation.
+(iii) **Girls.** "Girls" refers to the **40 female students** of classes IX and X of the two sample schools, drawn in exactly the same manner as the boys (10 + 10 = 20 from each of the two schools).
 
----
-*** End of Chapter I ***
+(iv) **Secondary Level.** "Secondary level", in this study, refers to **classes IX and X** of the regular school system, in which the age range of the student is approximately 14 – 16 years.
+
+(v) **Comparative Study.** A "comparative study" refers to a study which finds out the **similarities and differences** between two or more groups (in this case, boys and girls) on a common variable (in this case, vocational interest), with the help of suitable statistical techniques (mean, S.D., t-test).
+
+(vi) **Vocational Interest Record (V.I.R.).** "V.I.R." refers to the standardised paper-and-pencil test developed by **Dr. S.P. Kulshrestha** at Agra in the year 1976 (revised periodically) which measures the vocational interest of the student in nine areas through 90 forced-choice items.
+
+## 1.16 DELIMITATIONS OF THE STUDY
+
+In the interest of feasibility, the present study has been delimited as follows:
+
+1. The study has been delimited to **Meerut district** of the State of Uttar Pradesh.
+
+2. The study has been delimited to **two schools** only — one rural Government school (Shri Sanskrit Inter College, Aitmadpur) and one urban private CBSE school (K.P. International School, Kila Parikshit Garh).
+
+3. The study has been delimited to **classes IX and X** only. Classes XI and XII (higher secondary) and classes VI to VIII (upper-primary) have not been covered.
+
+4. The total sample size has been delimited to **eighty (80) students** — 40 boys and 40 girls.
+
+5. The tool used for data collection has been delimited to the **Vocational Interest Record (V.I.R.)** of Dr. S.P. Kulshrestha. No other interest test has been used.
+
+6. The statistical analysis has been delimited to **Mean, Standard Deviation, t-test and Percentage analysis**. Higher techniques like ANOVA, factor analysis and regression have not been used.
+
+7. The variable studied has been delimited to **vocational interest** only. Vocational aptitude, personality, intelligence and socio-economic status have **not** been studied.
+
+8. The data collection has been delimited to the **academic session 2025–2026** of the two sample schools.
+
+## 1.17 ASSUMPTIONS OF THE STUDY
+
+The following assumptions form the basis of the present study:
+
+1. It is assumed that the eighty students of the sample have responded to the V.I.R. **honestly and to the best of their understanding**.
+
+2. It is assumed that the **V.I.R. is a reliable and valid tool** for measuring vocational interest of secondary school students of Hindi-speaking states like Uttar Pradesh, since the manual reports adequate reliability (test-retest = 0.85) and content validity.
+
+3. It is assumed that the **two sample schools are fairly representative** of the rural Government schools and the urban private CBSE schools of Meerut District respectively.
+
+4. It is assumed that the **boys and girls of the sample are matched** on age (14 – 16 years) and class (IX and X), so that any difference found in their vocational interest scores can reasonably be attributed to gender.
+
+5. It is assumed that, since the test was administered in classroom conditions with the help of the class teacher, the **physical and psychological conditions of administration** were uniform for all the eighty students.
+
+## 1.18 ORGANISATION OF THE STUDY
+
+The dissertation has been organised in the following manner:
+
+**Chapter I — Introduction.** This is the present chapter. It introduces the meaning of interest and vocational interest, presents the theoretical background and the various definitions, describes the nine vocational interest areas of Kulshrestha's V.I.R., explains the need and significance of the study, states the problem, lists the objectives and hypotheses, gives the operational definitions, and finally, fixes the delimitations and assumptions of the study.
+
+**Chapter II — Review of Related Literature.** This chapter presents a critical review of fifteen Indian and ten foreign studies related to the topic. Each study is briefly described under the heads — author, year, objectives, method, sample and findings. The chapter ends with a critical analysis, identification of the research gap and a chapter summary.
+
+**Chapter III — Research Methodology.** This chapter describes the research method (descriptive survey), the variables, the population, the sample and the sampling technique. It also describes the V.I.R. in detail with its reliability and validity, the procedure of administration and scoring, the data collection plan and the statistical techniques (Mean, S.D., t-test, percentage). The chapter ends with ethical considerations and methodological limitations.
+
+**Chapter IV — Analysis and Interpretation of Data.** In this chapter the raw scores of the eighty students are presented, the mean and S.D. of boys and girls are calculated separately for each of the nine areas, the t-test is applied area by area, and the percentage of students at high, average and low levels is computed. Twenty tables and four figures present the data, and detailed interpretation is given after every table.
+
+**Chapter V — Summary, Findings, Conclusions and Suggestions.** The last chapter summarises the entire study, lists the major findings, presents the conclusions, discusses the educational implications, gives concrete suggestions for teachers, parents, school administrators, guidance counsellors and future researchers, and ends with the limitations and the final conclusion.
+
+The dissertation is followed by the **Bibliography** (in APA 7th edition style) and **six Appendices** (Permission letter, Consent letter, Sample items of the V.I.R., Specimen answer-sheet, Specimen raw-data sheet and Sample manual calculations).
