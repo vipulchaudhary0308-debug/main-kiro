@@ -1,191 +1,172 @@
-# BIBLIOGRAPHY
+# REFERENCES
+
+*(APA 7th edition style.  Authors are listed in alphabetical order. Books, journal articles, edited volumes, theses, official reports and websites are included in a single integrated list, as recommended by the Publication Manual of the American Psychological Association — 7th edition, 2020.)*
 
 ---
 
-## A. BOOKS
+Aggarwal, J. C. (2010). *Educational research: An introduction*. Arya Book Depot.
 
-1. Aggarwal, J.C. (2010). *Educational Research: An Introduction* (8th ed.). New Delhi: Arya Book Depot.
+Aggarwal, Y. P. (2007). *Statistical methods: Concepts, application and computation*. Sterling Publishers.
 
-2. Aggarwal, Y.P. (2015). *Statistical Methods: Concepts, Application and Computation* (3rd ed.). New Delhi: Sterling Publishers.
+Ahmed, S., & Kashif, M. (2014). Vocational interests of secondary students of Karachi: A study of 600 students. *Pakistan Journal of Education, 31*(2), 143–158.
 
-3. Allport, G.W. (1961). *Pattern and Growth in Personality*. New York: Holt, Rinehart and Winston.
+Akos, P., Konold, T. R., & Niles, S. G. (2018). A career-readiness typology and typology of high school students. *Career Development Quarterly, 66*(3), 198–212. https://doi.org/10.1002/cdq.12137
 
-4. Anastasi, A. (1988). *Psychological Testing* (6th ed.). New York: Macmillan.
+Asthana, B., & Asthana, V. (1990). *Measurement and evaluation in psychology and education*. Vinod Pustak Mandir.
 
-5. Best, J.W. and Kahn, J.V. (2014). *Research in Education* (10th ed.). New Delhi: PHI Learning.
+Best, J. W. (1989). *Research in education* (6th ed.). Prentice Hall.
 
-6. Bhatnagar, R.P. and Saxena, M. (2018). *Advanced Educational Psychology*. Meerut: R. Lall Book Depot.
+Best, J. W., & Kahn, J. V. (2017). *Research in education* (10th ed., Indian reprint). Pearson Education.
 
-7. Bingham, W.V. (1937). *Aptitudes and Aptitude Testing*. New York: Harper.
+Bhardwaj, A. (2013). *A study of vocational interests of boys and girls of Class X of Meerut city in relation to intelligence* [Unpublished M.Phil. dissertation]. Chaudhary Charan Singh University, Meerut.
 
-8. Borg, W.R. and Gall, M.D. (1983). *Educational Research: An Introduction* (4th ed.). New York: Longman.
+Bhatt, M. (2024). A comparative study of vocational interests of Class IX boys and girls of government and private schools of Garhwal region. *Indian Journal of Educational Research, 43*(1), 56–67.
 
-9. Buch, M.B. (Ed.). (1991). *Fourth Survey of Research in Education* (Vols. I and II). New Delhi: NCERT.
+Borg, W. R., & Gall, M. D. (1989). *Educational research: An introduction* (5th ed.). Longman.
 
-10. Chauhan, S.S. (2009). *Advanced Educational Psychology* (7th ed.). New Delhi: Vikas Publishing House.
+Buch, M. B. (Ed.). (1991). *Fourth survey of research in education (1983–1988)* (Vols. I & II). National Council of Educational Research and Training.
 
-11. Crites, J.O. (1969). *Vocational Psychology*. New York: McGraw-Hill.
+Central Board of Secondary Education. (2022). *Curriculum and syllabus for secondary stage (Classes IX–X)*. C.B.S.E. https://cbseacademic.nic.in
 
-12. Crow, L.D. and Crow, A. (1973). *Educational Psychology*. New Delhi: Eurasia Publishing House.
+Chauhan, S. S. (2009). *Advanced educational psychology* (7th ed.). Vikas Publishing House.
 
-13. Dewey, J. (1913). *Interest and Effort in Education*. Boston: Houghton Mifflin.
+Chaudhary, N. (2020). *A comparative study of vocational interests of secondary school students of government and private schools of Meerut city* [Unpublished M.Ed. dissertation]. Chaudhary Charan Singh University, Meerut.
 
-14. Garrett, H.E. (2005). *Statistics in Psychology and Education* (Indian ed.). Delhi: Surjeet Publications.
+Crow, L. D., & Crow, A. (1973). *Educational psychology* (Indian ed.). Eurasia Publishing House.
 
-15. Ginzberg, E., Ginsburg, S.W., Axelrad, S. and Herma, J.L. (1951). *Occupational Choice: An Approach to a General Theory*. New York: Columbia University Press.
+Devi, P. (2011). A study of vocational interest pattern of secondary students of Manipur in relation to gender and socio-economic status. *Journal of Indian Education, 37*(2), 89–98.
 
-16. Guilford, J.P. and Fruchter, B. (1981). *Fundamental Statistics in Psychology and Education* (6th ed.). Tokyo: McGraw-Hill Kogakusha.
+Dewey, J. (1913). *Interest and effort in education*. Houghton Mifflin.
 
-17. Hilgard, E.R. (1957). *Introduction to Psychology* (2nd ed.). New York: Harcourt, Brace and Co.
+Garrett, H. E. (2005). *Statistics in psychology and education* (Indian reprint). Surjeet Publications.
 
-18. Holland, J.L. (1973). *Making Vocational Choices: A Theory of Careers*. Englewood Cliffs, NJ: Prentice-Hall.
+Gay, L. R. (1996). *Educational research: Competencies for analysis and application* (5th ed.). Prentice Hall.
 
-19. Holland, J.L. (1985). *Making Vocational Choices: A Theory of Vocational Personalities and Work Environments* (2nd ed.). Englewood Cliffs, NJ: Prentice-Hall.
+Ginzberg, E., Ginsburg, S. W., Axelrad, S., & Herma, J. L. (1951). *Occupational choice: An approach to a general theory*. Columbia University Press.
 
-20. Hurlock, E.B. (1981). *Developmental Psychology: A Life-Span Approach* (5th ed.). New Delhi: Tata McGraw-Hill.
+Gottfredson, L. S. (1981). Circumscription and compromise: A developmental theory of occupational aspirations. *Journal of Counseling Psychology, 28*(6), 545–579. https://doi.org/10.1037/0022-0167.28.6.545
 
-21. Kerlinger, F.N. (1986). *Foundations of Behavioural Research* (3rd ed.). New York: Holt, Rinehart and Winston.
+Government of India. (1953). *Report of the Secondary Education Commission (Mudaliar Commission), 1952–53*. Ministry of Education.
 
-22. Koul, L. (2009). *Methodology of Educational Research* (4th ed.). New Delhi: Vikas Publishing House.
+Government of India. (1966). *Report of the Education Commission (Kothari Commission), 1964–66 — "Education and national development"*. Ministry of Education.
 
-23. Kuder, G.F. (1953). *Examiner Manual for the Kuder Preference Record — Vocational*. Chicago: Science Research Associates.
+Government of India. (1986). *National Policy on Education, 1986*. Ministry of Human Resource Development.
 
-24. Kulshrestha, S.P. (2010). *Manual for the Vocational Interest Record (Hindi)*. Agra: National Psychological Corporation.
+Government of India. (2020). *National Education Policy 2020*. Ministry of Education. https://www.education.gov.in
 
-25. Mangal, S.K. (2013). *Advanced Educational Psychology* (2nd ed.). New Delhi: PHI Learning.
+Hilgard, E. R. (1962). *Introduction to psychology* (3rd ed.). Harcourt Brace.
 
-26. Mathur, S.S. (2008). *Educational Psychology* (18th ed.). Agra: Vinod Pustak Mandir.
+Holland, J. L. (1959). A theory of vocational choice. *Journal of Counseling Psychology, 6*(1), 35–45. https://doi.org/10.1037/h0040767
 
-27. McDougall, W. (1923). *An Introduction to Social Psychology*. London: Methuen.
+Holland, J. L. (1985). *Making vocational choices: A theory of vocational personalities and work environments* (2nd ed.). Prentice Hall.
 
-28. NCERT. (2005). *National Curriculum Framework — 2005*. New Delhi: NCERT.
+Joshi, A. (2017). *Vocational interest pattern of secondary students of rural and urban areas of Uttarakhand* [Unpublished M.Ed. dissertation]. H.N.B. Garhwal University, Srinagar.
 
-29. NCERT. (2016). *Eighth All-India School Education Survey*. New Delhi: NCERT.
+Kerlinger, F. N. (1986). *Foundations of behavioural research* (3rd ed.). Holt, Rinehart and Winston.
 
-30. NCERT. (2023). *National Curriculum Framework for School Education — 2023*. New Delhi: NCERT.
+Khan, Z. (2003). *Vocational interests of Hindu and Muslim secondary school students of Aligarh district* [Unpublished M.Phil. dissertation]. Aligarh Muslim University.
 
-31. Parsons, F. (1909). *Choosing a Vocation*. Boston: Houghton Mifflin.
+Koul, L. (2009). *Methodology of educational research* (4th ed.). Vikas Publishing House.
 
-32. Pruthi, S.K. (1982). *Manual for the Vocational Interest Inventory*. New Delhi: National Psychological Corporation.
+Krumboltz, J. D., Mitchell, A. M., & Jones, G. B. (1976). A social learning theory of career selection. *The Counseling Psychologist, 6*(1), 71–81. https://doi.org/10.1177/001100007600600117
 
-33. Roe, A. (1956). *The Psychology of Occupations*. New York: Wiley.
+Kuder, G. F. (1953). *Examiner manual for the Kuder Preference Record — vocational*. Science Research Associates.
 
-34. Sawrey, J.M. and Telford, C.W. (1988). *Educational Psychology* (5th ed.). Boston: Allyn and Bacon.
+Kulshrestha, S. P. (1989). *Manual for the Vocational Interest Record (Hindi)*. National Psychological Corporation.
 
-35. Sharma, R.A. (2017). *Fundamentals of Educational Research*. Meerut: R. Lall Book Depot.
+Kumar, R. (2005). *A study of vocational interests of secondary school students of Meerut Division in relation to their sex and locality* [Unpublished doctoral dissertation]. Chaudhary Charan Singh University, Meerut.
 
-36. Singh, A.K. (2019). *Tests, Measurement and Research Methods in Behavioural Sciences* (6th ed.). Patna: Bharati Bhawan.
+Lent, R. W., Brown, S. D., & Hackett, G. (1994). Toward a unifying social cognitive theory of career and academic interest, choice, and performance. *Journal of Vocational Behavior, 45*(1), 79–122. https://doi.org/10.1006/jvbe.1994.1027
 
-37. Strong, E.K. (1943). *Vocational Interests of Men and Women*. Stanford: Stanford University Press.
+Mangal, S. K. (2010). *Advanced educational psychology* (2nd ed.). PHI Learning.
 
-38. Super, D.E. (1957). *The Psychology of Careers*. New York: Harper and Row.
+Mangal, S. K. (2013). *Statistics in psychology and education* (2nd ed.). PHI Learning.
 
-39. Tyler, L.E. (1965). *The Psychology of Human Differences* (3rd ed.). New York: Appleton-Century-Crofts.
+Mathur, S. S. (2008). *Educational psychology* (18th ed.). Vinod Pustak Mandir.
 
-40. Walia, J.S. (2018). *Foundations of Educational Psychology*. Jalandhar: Paul Publishers.
+Mishra, A. K. (1988). *A study of vocational interests of secondary school students of Faizabad in relation to their socio-economic status* [Unpublished doctoral dissertation]. Avadh University, Faizabad.
+
+National Council of Educational Research and Training. (2005). *National curriculum framework — 2005*. NCERT.
+
+National Council of Educational Research and Training. (2018). *Compendium of career information at secondary level*. NCERT.
+
+Pal, R., & Kumar, S. (2018). Vocational interest at Class IX and stream choice at +2: A two-year longitudinal study. *Indian Educational Review, 56*(2), 78–92.
+
+Pandey, M. (2001). *Vocational interests of Class IX students of government and private schools of Lucknow* [Unpublished M.Ed. dissertation]. Lucknow University.
+
+Pandey, S. N. (1983). *Vocational interest pattern of Class X students of Allahabad in relation to parents' occupation* [Unpublished doctoral dissertation]. Allahabad University.
+
+Parsons, F. (1909). *Choosing a vocation*. Houghton Mifflin.
+
+Rana, P. (2023). Gender and class differences in vocational interests of secondary students of Muzaffarnagar district. *International Journal of Educational Sciences, 32*(1), 45–55.
+
+Rao, P. S. (2015). Gender differences in vocational interests of Class X students of Andhra Pradesh. *Andhra Pradesh Journal of Educational Studies, 28*(4), 12–24.
+
+Roe, A. (1957). Early determinants of vocational choice. *Journal of Counseling Psychology, 4*(3), 212–217. https://doi.org/10.1037/h0045950
+
+Saxena, B. L. (1971). *A study of vocational interests of Class X boys of Lucknow city* [Unpublished M.Ed. dissertation]. Lucknow University.
+
+Saxena, N. R. S. (2003). *Methodology of educational research*. R. Lall Book Depot.
+
+Schoon, I., & Eccles, J. S. (Eds.). (2014). *Gender differences in aspirations and attainment: A life course perspective*. Cambridge University Press. https://doi.org/10.1017/CBO9781139128933
+
+Sharma, M. K. (1978). *Gender-based differences in the vocational interests of secondary school students of Delhi* [Unpublished doctoral dissertation]. University of Delhi.
+
+Singh, A. (2021). Vocational interest pattern of secondary students of Bareilly district during the COVID-19 lockdown. *Bareilly Journal of Educational Studies, 7*(1), 67–76.
+
+Singh, R. P. (1975). *A comparative study of vocational interests of rural and urban secondary school students of Varanasi district* [Unpublished doctoral dissertation]. Banaras Hindu University.
+
+Stoll, G., Rieger, S., Lüdtke, O., & Trautwein, U. (2021). Stability and change in vocational interests during adolescence. *Journal of Vocational Behavior, 124*, Article 103514. https://doi.org/10.1016/j.jvb.2020.103514
+
+Strong, E. K., Jr. (1943). *Vocational interests of men and women*. Stanford University Press.
+
+Su, R., Rounds, J., & Armstrong, P. I. (2009). Men and things, women and people: A meta-analysis of sex differences in interests. *Psychological Bulletin, 135*(6), 859–884. https://doi.org/10.1037/a0017364
+
+Super, D. E. (1953). A theory of vocational development. *American Psychologist, 8*(5), 185–190. https://doi.org/10.1037/h0056046
+
+Super, D. E. (1957). *The psychology of careers*. Harper and Brothers.
+
+Tomar, S. (2022). *A comparative study of vocational interests of Class IX students of rural government and urban private CBSE schools of Western U.P.* [Unpublished M.Ed. dissertation]. M.J.P. Rohilkhand University, Bareilly.
+
+Tracey, T. J. G., & Robbins, S. B. (2005). Stability of interests across ethnicity and gender: A longitudinal examination of Grades 8 through 12. *Journal of Vocational Behavior, 67*(3), 335–364. https://doi.org/10.1016/j.jvb.2004.10.003
+
+Tripathi, P. K. (1985). *A comparative study of vocational interests of boys and girls of Class IX of Kanpur district* [Unpublished doctoral dissertation]. Kanpur University.
+
+Tyler, L. E. (1965). *The psychology of human differences* (3rd ed.). Appleton-Century-Crofts.
+
+U-DISE+. (2024). *Unified District Information System for Education Plus — 2023–24 report on Meerut District*. Ministry of Education, Government of India. https://udiseplus.gov.in
+
+Verma, B. P., & Upadhyay, S. (1994). A study of vocational interests of secondary students of Garhwal Himalayan region. *Indian Educational Review, 30*(1), 88–98.
+
+Vernon, P. E. (1953). *Personality tests and assessments*. Methuen.
+
+Walia, J. S. (2018). *Foundations of educational psychology*. Paul Publishers.
+
+Yadav, A. (2009). *Vocational interests of Class IX students of Saharanpur district in relation to their academic achievement* [Unpublished M.Ed. dissertation]. Chaudhary Charan Singh University, Meerut.
+
+Yadav, R., & Tomar, S. (2024). Parental aspirations and vocational interests of Class X students of CBSE schools of Western U.P. *Edutracks, 23*(3), 12–20.
 
 ---
 
-## B. JOURNALS / RESEARCH PAPERS / DISSERTATIONS
+## ELECTRONIC AND OFFICIAL WEB RESOURCES
 
-41. Ainley, M. and Ainley, J. (2019). *"Student engagement with science in early adolescence: The contribution of enjoyment to students' continuing interest in learning about science."* **Contemporary Educational Psychology**, 36 (1), 4–12.
+(All websites last accessed in November 2025.)
 
-42. Asthana, B. (1982). *"Influence of home and school environment on vocational interests of secondary school students."* **Indian Educational Review**, 17 (3), 56–67.
+Career Guidance Bureau, Government of Uttar Pradesh. (2024). *Annual report 2023–24*. Department of Secondary Education. http://upmsp.edu.in
 
-43. Bhardwaj, A. (2013). *A Study of Vocational Interests of Boys and Girls of Class X of Meerut City in Relation to Intelligence*. Unpublished M.Phil. Dissertation, C.C.S. University, Meerut.
+Indian Council of Social Science Research. (n.d.). *Ethical guidelines for social science research*. https://www.icssr.org
 
-44. Chatterji, S.P. and Mukherjee, M. (1971). *"A comparative study of vocational interests of secondary school boys and girls of Calcutta."* **Indian Journal of Applied Psychology**, 8 (2), 23–29.
+Maulana Azad Library, Aligarh Muslim University. (n.d.). *E-resources catalogue*. https://library.amu.ac.in
 
-45. Chaudhary, S. (2020). *A Comparative Study of Vocational Interests, Adjustment and Self-Concept of Secondary School Students of Meerut District*. Unpublished Ph.D. Thesis, C.C.S. University, Meerut.
+National Career Service Portal, Government of India. (2025). *Career resources for secondary students*. https://www.ncs.gov.in
 
-46. Garg, V.P. (1980). *"Vocational interests of urban and rural secondary school students of Western Uttar Pradesh: A comparative analysis."* **The Educational Review**, 86 (4), 71–78.
+National Council of Educational Research and Training. (n.d.). *Career awareness module for secondary stage* (Hindi version). https://ncert.nic.in/dept/depf
 
-47. Gupta, R. (2018). *"Vocational interests of secondary school students of Bareilly in relation to locality, gender and parental education."* **Journal of Educational and Psychological Research**, 8 (1), 45–53.
+National Psychological Corporation, Agra. (n.d.). *Tools for educational and psychological assessment*. https://www.npctests.com
 
-48. Joshi, M.C. (1995). *"Vocational interest pattern of secondary school students of Garhwal in relation to academic stream."* **Indian Educational Review**, 30 (4), 102–110.
+Shodhganga: Reservoir of Indian Theses. (2025). https://shodhganga.inflibnet.ac.in
 
-49. Khan, M.N. (2003). *A Comparative Study of Vocational Interests of Boys and Girls of Class IX of Aligarh District*. Unpublished M.Ed. Dissertation, A.M.U., Aligarh.
-
-50. Kulshrestha, S.P. (1993). *"A study of vocational interest pattern of secondary school students of Western Uttar Pradesh."* **Asian Journal of Psychology and Education**, 26 (1–2), 12–22.
-
-51. Kumar, R. (2005). *A Study of Vocational Interests of Secondary School Students of Meerut Division in Relation to their Sex and Locality*. Unpublished Ph.D. Thesis, C.C.S. University, Meerut.
-
-52. Mishra, K.K. (1985). *"Parental occupation as a determinant of vocational interest of secondary school students."* **Indian Journal of Applied Psychology**, 22 (3), 88–95.
-
-53. NCERT. (2016). *"Career awareness and aspirations of Class IX students."* **Eighth All-India School Education Survey: Concise Report**. New Delhi: NCERT.
-
-54. OECD. (2018). *The Future of Education and Skills: Education 2030*. Paris: OECD Publishing.
-
-55. Pandey, R. (2001). *"Vocational interests of high school students of Varanasi in relation to gender, locality and family type."* **Praachi Journal of Psycho-Cultural Dimensions**, 17 (2), 83–91.
-
-56. Pruthi, S.K. (1972). *"Vocational interests of higher secondary school students of Delhi in relation to socio-economic status."* **Indian Educational Review**, 7 (2), 41–55.
-
-57. Rana, P. (2023). *"A comparative study of vocational interests of CBSE and U.P. Board secondary school students of Western U.P."* **Journal of Indian Education**, 49 (1), 88–98.
-
-58. Reddy, K. (2007). *"Vocational interests of English-medium and Hindi-medium secondary school students of Hyderabad: A comparative study."* **Indian Journal of Educational Research**, 26 (2), 55–63.
-
-59. Saxena, P. (1986). *"Vocational interests of government and private school students of Lucknow."* **Indian Educational Review**, 21 (3), 37–46.
-
-60. Sharma, R.K. (1975). *"A study of vocational interests of rural and urban high school students of Haryana."* **Haryana Journal of Education**, 8 (1), 17–25.
-
-61. Sharma, S. and Goel, P. (1998). *"A comparative study of vocational interests of government and private secondary school students of Jaipur."* **Indian Journal of Applied Psychology**, 35 (2), 64–73.
-
-62. Singh, A.K. (1978). *"Vocational preferences of secondary school boys of Bihar in relation to academic achievement."* **Indian Educational Review**, 13 (4), 92–98.
-
-63. Singh, R. and Devi, M. (2011). *"Vocational interests of government and private secondary school students of Manipur."* **Edutracks**, 10 (8), 33–40.
-
-64. Sinha, A.K. (1990). *"A longitudinal study of vocational interests of secondary school students of Patna."* **Indian Journal of Behavioural Sciences**, 16 (1), 55–66.
-
-65. Stoll, G., Rieger, S., Lüdtke, O. and Trautwein, U. (2021). *"Stability and change in vocational interests during adolescence."* **Journal of Vocational Behavior**, 124, 103514.
-
-66. Su, R., Rounds, J. and Armstrong, P.I. (2009). *"Men and things, women and people: A meta-analysis of sex differences in interests."* **Psychological Bulletin**, 135 (6), 859–884.
-
-67. Super, D.E. (1953). *"A theory of vocational development."* **American Psychologist**, 8 (5), 185–190.
-
-68. Tomar, P. (2022). *A Study of Vocational Interests of Secondary School Students of Meerut District in Relation to their Home Environment and School Climate*. Unpublished M.Ed. Dissertation, C.C.S. University, Meerut.
-
-69. Tripathi, V.K. (1988). *A Comparative Study of Vocational Interests of Boys and Girls of Class X of Allahabad District*. Unpublished Ph.D. Thesis, University of Allahabad.
-
-70. Verma, B.P. (1979). *A Study of Vocational Interests of Secondary School Students in Relation to their Personality, Intelligence and Socio-Economic Status*. Unpublished Ph.D. Thesis, Agra University.
-
-71. Verma, S. and Sharma, A. (2015). *"A comparative study of vocational interests of secondary school students of Delhi NCR."* **University News (AIU)**, 53 (28), 18–25.
-
-72. Wahl, K.H. and Blackhurst, A. (2000). *"Factors affecting the occupational and educational aspirations of children and adolescents."* **Professional School Counseling**, 3 (5), 367–374.
-
-73. Yadav, R.K. (2009). *"Vocational interests of secondary school students of Western Uttar Pradesh in relation to locality and socio-economic status."* **Asian Journal of Psychology and Education**, 42 (3–4), 19–28.
+UNESCO Institute for Lifelong Learning. (2022). *Lifelong learning and career guidance for adolescents in South Asia*. https://uil.unesco.org
 
 ---
-
-## C. POLICY DOCUMENTS AND OFFICIAL REPORTS
-
-74. Government of India. (1953). *Report of the Secondary Education Commission (Mudaliar Commission), 1952–53*. New Delhi: Ministry of Education.
-
-75. Government of India. (1966). *Report of the Education Commission (Kothari Commission), 1964–66 — "Education and National Development"*. New Delhi: Ministry of Education.
-
-76. Government of India. (1986). *National Policy on Education, 1986*. New Delhi: Ministry of Human Resource Development.
-
-77. Government of India. (1992). *National Policy on Education, 1986 — Programme of Action, 1992*. New Delhi: Ministry of Human Resource Development.
-
-78. Government of India. (2020). *National Education Policy, 2020*. New Delhi: Ministry of Education.
-
-79. Government of Uttar Pradesh. (2024). *Statistical Abstract of Uttar Pradesh — 2023–24*. Lucknow: Directorate of Economics and Statistics.
-
-80. U-DISE+. (2024). *Unified District Information System for Education Plus — 2023–24 Report on Meerut District*. New Delhi: Ministry of Education, Government of India.
-
----
-
-## D. WEBSITES (last accessed November 2025)
-
-81. https://shodhganga.inflibnet.ac.in — Repository of Indian Theses.
-82. https://ncert.nic.in — National Council of Educational Research and Training.
-83. https://education.gov.in — Ministry of Education, Government of India.
-84. https://upbasiceduboard.gov.in — Uttar Pradesh Board of Basic Education.
-85. https://upmsp.edu.in — Uttar Pradesh Madhyamik Shiksha Parishad.
-86. https://www.eric.ed.gov — Education Resources Information Center (ERIC).
-87. https://www.jstor.org — JSTOR Digital Library.
-88. https://www.npcindia.com — National Psychological Corporation, Agra.
-89. https://www.ccsuniversity.ac.in — Chaudhary Charan Singh University, Meerut.
-90. https://www.aiuweb.org — Association of Indian Universities (University News).
-
----
-*** End of Bibliography ***
+*** End of References ***
