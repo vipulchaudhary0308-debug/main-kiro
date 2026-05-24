@@ -1,6 +1,6 @@
-# A Comparative Study of Vocational Interests of Secondary School Students of Rural Government and Urban Private Schools of Meerut District
+# A Comparative Study of the Vocational Interests of Boys and Girls Studying at Secondary Level
 
-**M.Ed. Dissertation — Chaudhary Charan Singh University, Meerut — Session 2025–2026**
+**M.Ed. Dissertation — Meerut College, Meerut (affiliated to Chaudhary Charan Singh University, Meerut) — Session 2025–2026**
 
 ---
 
@@ -8,49 +8,51 @@
 
 | File | Section | Approx. Pages |
 |:---|:---|:---:|
-| `00_front_matter.md` | Title page, Certificate, Declaration, Acknowledgement, Table of Contents, List of 39 Tables, List of 5 Figures, Abstract | i – xii (≈ 12) |
-| `01_chapter1_introduction.md` | **Chapter I — Introduction:** concept of interest, vocational interest, theories (Parsons, Super, Ginzberg, Holland, Roe), need, problem, objectives, **3 null hypotheses**, **8 delimitations**. | 1 – 17 (≈ 17) |
-| `02_chapter2_review_of_literature.md` | **Chapter II — Review of Related Literature:** 28 Indian studies (1971–2024) and 12 foreign studies, critical appraisal and identified research gap. | 18 – 40 (≈ 23) |
-| `03_chapter3_methodology.md` | **Chapter III — Methodology:** survey method, descriptive comparative design, stratified random sampling, description of the two sample schools, complete description of S.P. Kulshrestha's *Vocational Interest Record*, reliability & validity, scoring, statistical techniques (M, SD, t-test, percentages). | 41 – 55 (≈ 15) |
-| `04_chapter4_analysis_interpretation.md` | **Chapter IV — Analysis and Interpretation of Data:** 39 analysis tables — descriptive stats, percentage distributions, area-wise M & SD for each group, full t-tests for Boys vs Girls, Rural Govt vs Urban Pvt, Class IX vs X, with full interpretation. | 56 – 86 (≈ 31) |
-| `05_chapter5_summary_findings.md` | **Chapter V — Summary, Findings, Conclusions, Educational Implications, Suggestions, Limitations:** 33 numbered findings, consolidated picture table, 4 conclusions, 13 educational implications, 10 suggestions, 7 limitations. | 87 – 96 (≈ 10) |
-| `06_bibliography.md` | **Bibliography:** 94 entries — books (41), journals/dissertations (39), policy documents/websites (14). | 97 – 101 (≈ 5) |
-| `07_appendices.md` | **Appendices A – F:** Permission letter, sample VIR items in 10 areas, complete raw-score sheets of all 60 students, list of sample schools with addresses, school certificate format, V.I.R. interpretive norms. | 102 – 110 (≈ 9) |
-| **Total** | | **≈ 122 pages** |
+| `00_front_matter.md` | Title page, Certificate, Declaration, Acknowledgement, Preface, TOC, List of 25 Tables, List of 5 Figures, Abstract | i – xiii (≈ 13) |
+| `01_chapter1_introduction.md` | **Chapter I — Introduction** (17 sections): meaning, definitions of vocational interest by Strong, Super, Holland, Kulshrestha; 10 areas explained; theories; importance; gender differences; objectives; null hypothesis; assumptions; delimitations | 1 – 18 (≈ 18) |
+| `02_chapter2_review_of_literature.md` | **Chapter II — Review of Related Literature**: 16 Indian studies + 11 foreign studies (each with Author / Year / Objectives / Method / Sample / Findings); critical analysis; research gap; summary | 19 – 40 (≈ 22) |
+| `03_chapter3_methodology.md` | **Chapter III — Research Methodology**: descriptive survey method; variables; population; sample of 80 students; tool description; reliability and validity; statistical formulas (M, SD, t-test, %); ethical considerations | 41 – 53 (≈ 13) |
+| `04_chapter4_analysis_interpretation.md` | **Chapter IV — Data Analysis and Interpretation**: 21 tables — descriptive stats, full raw scores of 40 boys + 40 girls, area-wise M/SD comparison, 10 area-wise t-tests with sample calculation formulas, consolidated t-values, percentage distributions, sub-group analyses, rank order, discussion | 54 – 75 (≈ 22) |
+| `05_chapter5_summary_findings.md` | **Chapter V — Summary, Findings, Conclusions and Suggestions**: 20 findings, 4 conclusions, 7 educational implications, suggestions for teachers / parents / school administrators / guidance counsellors / future researchers, 8 limitations, final conclusion | 76 – 86 (≈ 11) |
+| `06_bibliography.md` | **References** (APA 7th edition): 70 + 8 = 78 entries — books, journal articles with DOIs, edited volumes, theses, government reports and websites | 87 – 92 (≈ 6) |
+| `07_appendices.md` | **Appendices A – H**: V.I.R. sample format with bio-data and 20 sample items; consent / permission letter; certificate format; sample filled student response sheet; raw data tables; step-by-step sample calculations; school addresses; norms; sample graphs | 93 – 98 (≈ 6) |
+| **Total** | | **≈ 109 pages** |
 
 ---
 
-## At-a-Glance — The Two Schools and the 60 Students
+## At-a-Glance — The Two Schools and the 80 Students
 
-| Cell | Locality | Management | School | Class IX (B+G) | Class X (B+G) | Total |
-|:---|:---:|:---:|:---|:---:|:---:|:---:|
-| 1 | Rural | Govt. | Shri Sanskrit Inter College, Aitmadpur, Meerut | 7 + 8 | 8 + 7 | 30 |
-| 2 | Urban | Pvt. (CBSE) | K.P. International School, Kila Parikshit Garh, Meerut | 7 + 8 | 8 + 7 | 30 |
-| | | | **Total** | **30** | **30** | **60** |
+| Cell | School (Type) | Class IX | Class X | Total |
+|:---:|:---|:---:|:---:|:---:|
+| 1 | Shri Sanskrit Inter College, Aitmadpur (Rural Govt., U.P. Board) | 10 B + 10 G = 20 | 10 B + 10 G = 20 | 40 |
+| 2 | K.P. International School, Kila Parikshit Garh (Urban Pvt., CBSE) | 10 B + 10 G = 20 | 10 B + 10 G = 20 | 40 |
+| | **Total** | **20 B + 20 G** | **20 B + 20 G** | **80** |
 
-The sample is *perfectly balanced* on the gender dimension (30 boys + 30 girls), on the school dimension (30 RG + 30 UP) and on the class dimension (30 IX + 30 X).
+The sample is *perfectly balanced* on gender (40 boys + 40 girls), on class (40 IX + 40 X) and on school (40 RG + 40 UP).
 
 ---
 
 ## Headline Findings
 
-- **Type of school** is the *most powerful* of the three independent variables — it produced significant differences on **8 of the 10** vocational interest areas.
-- **Urban Private** school is significantly higher on Scientific*, Executive**, Commercial**, Artistic** and Persuasive** areas.
-- **Rural Government** school is significantly higher on Constructive*, Agricultural** and Household** areas.
-- **Boys** are significantly higher on Scientific** and Constructive** areas.
-- **Girls** are significantly higher on Literary*, Social** and Household** areas.
-- The differences between **Class IX and Class X** are *not significant* on 8 of 10 areas, showing that the vocational interest pattern is *fairly stable* over the two years of the secondary stage.
-- All three null hypotheses are *partly rejected* and *partly retained*.
+- The null hypothesis is **rejected on 8 of 10 areas** and retained on 2 (Literary, Commercial).
+- **Boys significantly higher (p < .01):** Scientific (t = 5.15), Executive (t = 3.00), Constructive / Technical (t = 3.16), Agricultural (t = 3.14).
+- **Boys significantly higher (p < .05):** Persuasive (t = 1.99).
+- **Girls significantly higher (p < .01):** Artistic (t = 3.32), Social (t = 3.49), Household (t = 6.93).
+- **Not significant:** Literary (t = 0.91), Commercial (t = 0.33).
+- The pattern is consistent with the *People–Things* dimension of Su, Rounds and Armstrong (2009) — boys prefer working with *things*; girls prefer working with *people*.
+- The gender-effect is *robust* across class (IX vs X) and across school type (Rural Govt. vs Urban Pvt. CBSE).
 
 ---
 
-## How to compile to a single document
+## How to compile to a single Word document
 
-Each chapter is a standalone Markdown file. The complete document can be assembled by running the supplied `build_docx.py` script, which uses Pandoc and python-docx to produce `Dissertation_Final.docx` formatted in CCS University M.Ed. style — Times New Roman 12 pt, double-spaced body, 1.5″ left margin and 1″ on the other three sides, page numbers at the bottom-centre of every page.
+The five chapter files together with the front matter, references and appendices are assembled into a single Word document by running:
 
 ```
 python3 build_docx.py
 ```
 
+This produces `Dissertation_Final.docx` formatted in CCSU M.Ed. style — Times New Roman 12 pt, 1.5 line spacing, 1.5″ left margin and 1″ on the other three sides, page numbers at the bottom-centre of every page, chapter headings in CAPITAL LETTERS, all 46 tables formatted with grid borders.
+
 ---
-*Dissertation prepared in CCS University format — Session 2025–2026.*
+*Dissertation prepared in CCSU M.Ed. format — Session 2025–2026.*

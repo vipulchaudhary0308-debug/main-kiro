@@ -4,17 +4,149 @@
 
 ## APPENDIX – A
 
-### LETTER OF PERMISSION
+### S.P. KULSHRESTHA VOCATIONAL INTEREST RECORD — SAMPLE FORMAT
 
-(*To be issued on the official letterhead of the Department of Education, C.C.S. University, Meerut*)
+(*Sample format reproduced from the manual of the Vocational Interest Record by Dr. S.P. Kulshrestha, published by National Psychological Corporation, 4 / 230, Kacheri Ghat, Agra. The full booklet contains 100 items — 10 items per area for the 10 areas. Two sample items have been reproduced from each of the ten areas, in English translation of the original Hindi text, for the convenience of the reader.*)
+
+---
+
+**VOCATIONAL INTEREST RECORD (V.I.R.) — HINDI VERSION**
+
+**Author: Dr. S.P. Kulshrestha**
+
+**Publisher: National Psychological Corporation, Agra**
+
+---
+
+### Bio-Data of the Pupil
+
+| Item | Particulars |
+|:---|:---|
+| Name | __________________________________ |
+| Class | IX / X |
+| Section | __________________________________ |
+| Roll No. | __________________________________ |
+| Sex | Boy / Girl |
+| Age | _________ years _________ months |
+| Father's Name | __________________________________ |
+| Father's Occupation | __________________________________ |
+| Mother's Occupation | __________________________________ |
+| School | __________________________________ |
+| Date of Test | __________________________________ |
+
+### Instructions to the Pupil (Translated from Hindi)
+
+> *"Below are given a number of activities. Read each activity carefully and indicate your liking for it by putting a tick (✓) mark in the appropriate column on the answer sheet — 'Like' (पसन्द) if you would like to do it, 'Indifferent' (तटस्थ) if you neither like nor dislike it, 'Dislike' (नापसन्द) if you would not like to do it. There are no right or wrong answers; only your honest opinion is important. Please respond to each activity. Do not leave any item blank."*
+
+### Sample Items by Area
+
+**1. Literary (साहित्यिक)**
+
+(i) To write a short story or a poem for a school magazine.
+
+(ii) To prepare a report of the school annual function for a daily newspaper.
+
+**2. Scientific (वैज्ञानिक)**
+
+(iii) To prepare a working model of a windmill for the school exhibition.
+
+(iv) To carry out a chemistry experiment in the school laboratory.
+
+**3. Executive (प्रशासनिक)**
+
+(v) To organise the school's Annual Day function as the Secretary of the Cultural Committee.
+
+(vi) To preside over a school assembly.
+
+**4. Commercial (व्यावसायिक)**
+
+(vii) To run a small grocery shop on a profitable basis.
+
+(viii) To work as the Treasurer of the school's tuck shop.
+
+**5. Constructive / Technical (निर्माणात्मक)**
+
+(ix) To repair an electrical iron at home.
+
+(x) To assemble a piece of new furniture from its parts.
+
+**6. Artistic (कलात्मक)**
+
+(xi) To paint a beautiful landscape on canvas.
+
+(xii) To play the harmonium for the school choir.
+
+**7. Agricultural (कृषि-सम्बन्धी)**
+
+(xiii) To grow a vegetable garden in the courtyard at home.
+
+(xiv) To take charge of dairy cattle.
+
+**8. Persuasive (भाषणात्मक)**
+
+(xv) To deliver a speech in a public meeting.
+
+(xvi) To take part in a debate on a topical issue.
+
+**9. Social (सामाजिक)**
+
+(xvii) To do social-service work in a flood-affected village.
+
+(xviii) To collect old clothes and distribute them to the needy.
+
+**10. Household (गृह-कार्य)**
+
+(xix) To prepare a delicious meal for the family.
+
+(xx) To take care of a younger sibling for the whole day.
+
+### Specimen of the Answer Sheet
+
+For each item numbered 1 to 100, the pupil puts a tick (✓) under the column that best represents his / her feeling.
+
+| Item No. | Like (पसन्द) | Indifferent (तटस्थ) | Dislike (नापसन्द) |
+|:---:|:---:|:---:|:---:|
+| 1. | | | |
+| 2. | | | |
+| 3. | | | |
+| ... | | | |
+| 100. | | | |
+
+### Scoring Box (For Office Use Only)
+
+| S. No. | Area | Item Numbers | Total Score | Percentile | Level |
+|:---:|:---|:---|:---:|:---:|:---:|
+| 1. | Literary | 1, 11, 21, 31, 41, 51, 61, 71, 81, 91 | _____ | _____ | _____ |
+| 2. | Scientific | 2, 12, 22, 32, 42, 52, 62, 72, 82, 92 | _____ | _____ | _____ |
+| 3. | Executive | 3, 13, 23, 33, 43, 53, 63, 73, 83, 93 | _____ | _____ | _____ |
+| 4. | Commercial | 4, 14, 24, 34, 44, 54, 64, 74, 84, 94 | _____ | _____ | _____ |
+| 5. | Constructive (Technical) | 5, 15, 25, 35, 45, 55, 65, 75, 85, 95 | _____ | _____ | _____ |
+| 6. | Artistic | 6, 16, 26, 36, 46, 56, 66, 76, 86, 96 | _____ | _____ | _____ |
+| 7. | Agricultural | 7, 17, 27, 37, 47, 57, 67, 77, 87, 97 | _____ | _____ | _____ |
+| 8. | Persuasive | 8, 18, 28, 38, 48, 58, 68, 78, 88, 98 | _____ | _____ | _____ |
+| 9. | Social | 9, 19, 29, 39, 49, 59, 69, 79, 89, 99 | _____ | _____ | _____ |
+| 10. | Household | 10, 20, 30, 40, 50, 60, 70, 80, 90, 100 | _____ | _____ | _____ |
+| | **Grand Total** | | _____ | | |
+
+**Scoring formula:** *Like* = 2, *Indifferent* = 1, *Dislike* = 0. The score for each *area* = sum of the scores on its 10 items (range 0 – 20). The *Grand Total* = sum of all the ten area-scores (range 0 – 200).
+
+---
+
+## APPENDIX – B
+
+### CONSENT / PERMISSION LETTER
+
+(*To be issued on the official letterhead of the Department of Education, Meerut College, Meerut.*)
 
 ---
 
 **DEPARTMENT OF EDUCATION**
-**CHAUDHARY CHARAN SINGH UNIVERSITY**
-**MEERUT — 250004 (U.P.)**
 
-Ref. No. ____________ Date: ____________
+**MEERUT COLLEGE, MEERUT — 250 001 (U.P.)**
+
+(Affiliated to Chaudhary Charan Singh University, Meerut)
+
+Ref. No. _____________ Date: _____________
 
 To,
 
@@ -26,157 +158,49 @@ ____________________________________
 
 Meerut.
 
-**Subject:** Permission for Data Collection in connection with M.Ed. Dissertation.
+**Subject — Permission for Data Collection in connection with M.Ed. Dissertation Work.**
 
 Respected Sir / Madam,
 
-This is to introduce **Shri / Kumari ____________________**, a *bonafide* student of the M.Ed. course (Session 2025–2026) of this Department. He / She is currently engaged in conducting an investigation entitled **"A Comparative Study of Vocational Interests of Secondary School Students of Rural Government and Urban Private Schools of Meerut District"** under the supervision of **____________________**.
+This is to introduce **Shri / Kumari ____________________**, a *bonafide* student of the M.Ed. course (Session 2025–2026) of this Department. He / She is currently engaged in conducting an investigation entitled
 
-For the successful completion of the work, the candidate has to administer a standardised tool, namely the *Vocational Interest Record (Hindi version)* by Dr. S.P. Kulshrestha, on a sample of 30 secondary school students of your school. The work will require *one school visit of about three hours*.
+> **"A Comparative Study of the Vocational Interests of Boys and Girls Studying at Secondary Level"**
 
-I shall be highly thankful if you kindly grant the candidate the necessary permission and extend the usual cooperation. The data so collected will be used *only* for academic purposes and the *confidentiality* of all the responses will be strictly maintained.
+under the supervision of **____________________**, Department of Education, Meerut College, Meerut.
 
-Thanking you in anticipation.
+For the purpose of his / her dissertation work, the candidate has to administer the *Vocational Interest Record (Hindi version)* developed by Dr. S.P. Kulshrestha to a small number of selected students of Class IX and Class X of your esteemed institution. About 40 students (10 boys + 10 girls of Class IX and 10 boys + 10 girls of Class X) will be required to participate. The administration of the tool will require approximately 45 minutes during a single school period.
 
-Yours sincerely,
+The data so collected will be used *strictly* for academic purposes and the *anonymity* of every student and the school will be fully maintained. No student will be identified by name in the dissertation.
+
+I shall, therefore, be highly grateful if you kindly grant the necessary permission and extend your valuable cooperation in the smooth conduct of the data-collection procedure.
+
+Thanking you in anticipation of an early and favourable reply.
+
+Yours faithfully,
 
 (Signature)
 
 **Head of the Department**
+
 Department of Education
-C.C.S. University, Meerut
+
+Meerut College, Meerut
 
 ---
 
-## APPENDIX – B
+### Pupil's Consent (To be Signed by the Student)
 
-### SAMPLE ITEMS OF THE VOCATIONAL INTEREST RECORD BY DR. S.P. KULSHRESTHA
+I, ____________________ studying in Class _____ Section _____ Roll No. _____ of ____________________ school, hereby give my willing consent to participate in the research study entitled *"A Comparative Study of the Vocational Interests of Boys and Girls Studying at Secondary Level"*. I have understood that my responses will be used only for academic purposes and that my name will not be revealed in the study.
 
-(*Two sample items have been reproduced from each of the ten areas. The full booklet, containing 100 items, is published by the National Psychological Corporation, 4 / 230, Kacheri Ghat, Agra*.)
+(Signature of the Student)
 
-| Area | Sample Items (Translated from Hindi) |
-|:---|:---|
-| **1. Literary** | (i) To write a poem for a school magazine. (ii) To prepare a report of a school function for a newspaper. |
-| **2. Scientific** | (iii) To prepare a working model of a windmill for the school exhibition. (iv) To carry out a chemistry experiment in the school laboratory. |
-| **3. Executive** | (v) To organise the school's Annual Day Function as the Secretary of the Cultural Committee. (vi) To preside over a school assembly. |
-| **4. Commercial** | (vii) To run a small grocery shop on a profitable basis. (viii) To work as the Treasurer of the school's tuck shop. |
-| **5. Constructive** | (ix) To repair an electrical iron at home. (x) To make a wooden cabinet for storing household items. |
-| **6. Artistic** | (xi) To paint a beautiful landscape on canvas. (xii) To play the harmonium for the school choir. |
-| **7. Agricultural** | (xiii) To grow a vegetable garden in the courtyard at home. (xiv) To take charge of dairy cattle. |
-| **8. Persuasive** | (xv) To deliver a speech in a public meeting. (xvi) To take part in a debate on a topical issue. |
-| **9. Social** | (xvii) To do social-service work in a flood-affected village. (xviii) To collect old clothes and distribute them to the needy. |
-| **10. Household** | (xix) To prepare a delicious dinner for the family. (xx) To take care of a younger sibling for the whole day. |
-
-**Each item is to be marked on a three-point scale:**
-
-- *Like (पसन्द)* — score 2.
-- *Indifferent (तटस्थ)* — score 1.
-- *Dislike (नापसन्द)* — score 0.
-
-**Each area has 10 items, so the maximum score in each area = 20 and the minimum = 0.**
+Date: __________
 
 ---
 
-## APPENDIX – C
+### Certificate of Data Collection
 
-### RAW SCORE SHEET OF ALL SIXTY STUDENTS
-
-The complete area-wise raw score sheet of all the 60 students of the sample is given below. *Lit = Literary, Sci = Scientific, Exe = Executive, Com = Commercial, Con = Constructive, Art = Artistic, Agr = Agricultural, Per = Persuasive, Soc = Social, Hou = Household, Tot = Grand Total.*
-
-#### TABLE C-1
-**Raw Score Sheet of the 30 Students of Shri Sanskrit Inter College, Aitmadpur, Meerut (Rural Government)**
-
-| S. No. | Class | Gender | Lit | Sci | Exe | Com | Con | Art | Agr | Per | Soc | Hou | Tot |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | IX | Boy | 7 | 11 | 10 | 11 | 20 | 10 | 13 | 10 | 11 | 12 | 115 |
-| 2 | IX | Boy | 11 | 5 | 12 | 11 | 17 | 11 | 14 | 9 | 13 | 15 | 118 |
-| 3 | IX | Boy | 16 | 11 | 8 | 6 | 11 | 15 | 12 | 9 | 12 | 13 | 113 |
-| 4 | IX | Boy | 14 | 13 | 9 | 10 | 16 | 10 | 13 | 15 | 7 | 10 | 117 |
-| 5 | IX | Boy | 9 | 14 | 12 | 8 | 12 | 7 | 11 | 9 | 8 | 10 | 100 |
-| 6 | IX | Boy | 13 | 8 | 10 | 13 | 13 | 10 | 14 | 13 | 9 | 14 | 117 |
-| 7 | IX | Boy | 9 | 10 | 11 | 14 | 15 | 12 | 14 | 7 | 12 | 9 | 113 |
-| 8 | IX | Girl | 9 | 9 | 8 | 12 | 12 | 15 | 10 | 9 | 12 | 13 | 109 |
-| 9 | IX | Girl | 12 | 12 | 7 | 11 | 12 | 10 | 16 | 10 | 13 | 15 | 118 |
-| 10 | IX | Girl | 14 | 13 | 10 | 8 | 13 | 11 | 10 | 6 | 16 | 19 | 120 |
-| 11 | IX | Girl | 12 | 14 | 10 | 9 | 10 | 12 | 9 | 11 | 14 | 11 | 112 |
-| 12 | IX | Girl | 10 | 9 | 12 | 9 | 11 | 9 | 11 | 11 | 13 | 15 | 110 |
-| 13 | IX | Girl | 14 | 9 | 7 | 10 | 10 | 10 | 11 | 13 | 19 | 13 | 116 |
-| 14 | IX | Girl | 13 | 9 | 11 | 9 | 12 | 9 | 14 | 12 | 14 | 15 | 118 |
-| 15 | IX | Girl | 9 | 14 | 14 | 12 | 13 | 11 | 11 | 6 | 12 | 16 | 118 |
-| 16 | X | Boy | 9 | 10 | 12 | 12 | 11 | 13 | 14 | 9 | 11 | 14 | 115 |
-| 17 | X | Boy | 13 | 11 | 18 | 6 | 14 | 11 | 10 | 10 | 11 | 9 | 113 |
-| 18 | X | Boy | 14 | 17 | 9 | 8 | 15 | 9 | 14 | 12 | 16 | 15 | 129 |
-| 19 | X | Boy | 10 | 17 | 17 | 8 | 11 | 12 | 16 | 10 | 11 | 14 | 126 |
-| 20 | X | Boy | 11 | 12 | 13 | 8 | 12 | 11 | 13 | 12 | 12 | 12 | 116 |
-| 21 | X | Boy | 9 | 11 | 11 | 10 | 11 | 5 | 13 | 14 | 16 | 13 | 113 |
-| 22 | X | Boy | 6 | 18 | 11 | 13 | 15 | 12 | 13 | 10 | 14 | 13 | 125 |
-| 23 | X | Boy | 4 | 13 | 13 | 14 | 16 | 11 | 15 | 10 | 10 | 8 | 114 |
-| 24 | X | Girl | 12 | 13 | 9 | 10 | 10 | 9 | 14 | 12 | 14 | 13 | 116 |
-| 25 | X | Girl | 10 | 11 | 12 | 11 | 14 | 12 | 14 | 11 | 13 | 14 | 122 |
-| 26 | X | Girl | 18 | 10 | 10 | 9 | 15 | 15 | 9 | 6 | 14 | 15 | 121 |
-| 27 | X | Girl | 12 | 4 | 11 | 12 | 12 | 10 | 11 | 11 | 13 | 12 | 108 |
-| 28 | X | Girl | 15 | 15 | 11 | 12 | 10 | 12 | 16 | 9 | 8 | 12 | 120 |
-| 29 | X | Girl | 9 | 12 | 8 | 6 | 8 | 8 | 15 | 10 | 14 | 14 | 104 |
-| 30 | X | Girl | 12 | 9 | 8 | 10 | 11 | 11 | 13 | 8 | 14 | 15 | 111 |
-| | | **Mean** | **11.20** | **11.47** | **10.80** | **10.07** | **12.73** | **10.77** | **12.77** | **10.13** | **12.53** | **13.10** | **115.57** |
-| | | **S.D.** | **3.01** | **3.18** | **2.57** | **2.24** | **2.56** | **2.19** | **2.05** | **2.24** | **2.60** | **2.35** | **6.84** |
-
-#### TABLE C-2
-**Raw Score Sheet of the 30 Students of K.P. International School, Kila Parikshit Garh, Meerut (Urban Private CBSE)**
-
-| S. No. | Class | Gender | Lit | Sci | Exe | Com | Con | Art | Agr | Per | Soc | Hou | Tot |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 31 | IX | Boy | 14 | 18 | 16 | 15 | 11 | 15 | 10 | 11 | 14 | 7 | 131 |
-| 32 | IX | Boy | 10 | 10 | 12 | 11 | 12 | 12 | 6 | 12 | 15 | 12 | 112 |
-| 33 | IX | Boy | 10 | 13 | 16 | 15 | 10 | 15 | 10 | 11 | 10 | 10 | 120 |
-| 34 | IX | Boy | 12 | 13 | 12 | 13 | 16 | 11 | 10 | 16 | 12 | 9 | 124 |
-| 35 | IX | Boy | 14 | 13 | 13 | 10 | 13 | 14 | 10 | 16 | 12 | 12 | 127 |
-| 36 | IX | Boy | 9 | 12 | 14 | 13 | 11 | 9 | 12 | 13 | 12 | 7 | 112 |
-| 37 | IX | Boy | 10 | 14 | 13 | 14 | 12 | 13 | 9 | 11 | 11 | 12 | 119 |
-| 38 | IX | Girl | 11 | 13 | 10 | 8 | 13 | 10 | 10 | 13 | 15 | 14 | 117 |
-| 39 | IX | Girl | 17 | 9 | 15 | 13 | 9 | 19 | 11 | 11 | 15 | 8 | 127 |
-| 40 | IX | Girl | 14 | 10 | 15 | 14 | 7 | 13 | 7 | 11 | 16 | 15 | 122 |
-| 41 | IX | Girl | 10 | 12 | 13 | 13 | 8 | 15 | 12 | 15 | 14 | 15 | 127 |
-| 42 | IX | Girl | 16 | 11 | 14 | 14 | 11 | 14 | 9 | 8 | 14 | 7 | 118 |
-| 43 | IX | Girl | 12 | 10 | 11 | 10 | 6 | 13 | 8 | 11 | 14 | 13 | 108 |
-| 44 | IX | Girl | 15 | 10 | 17 | 13 | 11 | 13 | 9 | 16 | 13 | 13 | 130 |
-| 45 | IX | Girl | 11 | 16 | 12 | 11 | 10 | 16 | 12 | 10 | 7 | 11 | 116 |
-| 46 | X | Boy | 10 | 17 | 15 | 16 | 10 | 14 | 10 | 12 | 11 | 10 | 125 |
-| 47 | X | Boy | 12 | 16 | 8 | 14 | 11 | 10 | 13 | 16 | 9 | 12 | 121 |
-| 48 | X | Boy | 11 | 15 | 17 | 13 | 14 | 13 | 13 | 16 | 11 | 6 | 129 |
-| 49 | X | Boy | 10 | 14 | 14 | 11 | 11 | 19 | 13 | 14 | 10 | 9 | 125 |
-| 50 | X | Boy | 11 | 16 | 15 | 12 | 11 | 15 | 10 | 11 | 9 | 7 | 117 |
-| 51 | X | Boy | 16 | 17 | 16 | 17 | 15 | 15 | 16 | 10 | 15 | 10 | 147 |
-| 52 | X | Boy | 13 | 19 | 14 | 12 | 13 | 13 | 11 | 14 | 11 | 10 | 130 |
-| 53 | X | Boy | 13 | 20 | 15 | 15 | 14 | 13 | 9 | 13 | 15 | 11 | 138 |
-| 54 | X | Girl | 14 | 11 | 11 | 13 | 12 | 13 | 11 | 8 | 12 | 15 | 120 |
-| 55 | X | Girl | 12 | 12 | 16 | 16 | 9 | 12 | 10 | 13 | 15 | 14 | 129 |
-| 56 | X | Girl | 13 | 11 | 12 | 10 | 9 | 12 | 5 | 10 | 17 | 13 | 112 |
-| 57 | X | Girl | 17 | 14 | 13 | 12 | 12 | 15 | 11 | 3 | 18 | 11 | 126 |
-| 58 | X | Girl | 10 | 16 | 14 | 12 | 11 | 16 | 14 | 14 | 14 | 10 | 131 |
-| 59 | X | Girl | 14 | 9 | 12 | 12 | 13 | 15 | 13 | 15 | 15 | 11 | 129 |
-| 60 | X | Girl | 10 | 15 | 12 | 12 | 13 | 13 | 15 | 12 | 15 | 13 | 130 |
-| | | **Mean** | **12.37** | **13.53** | **13.57** | **12.80** | **11.27** | **13.67** | **10.63** | **12.20** | **13.03** | **10.90** | **124.00** |
-| | | **S.D.** | **2.31** | **3.01** | **2.13** | **2.02** | **2.24** | **2.26** | **2.46** | **2.91** | **2.58** | **2.60** | **8.74** |
-
----
-
-## APPENDIX – D
-
-### LIST OF SAMPLE SCHOOLS WITH ADDRESSES
-
-| S. No. | Name of the School | Locality | Type | Address |
-|:---:|:---|:---:|:---:|:---|
-| 1. | Shri Sanskrit Inter College | Aitmadpur (Rural) | Govt. (U.P. Board) | Village Aitmadpur, P.O. Aitmadpur, Sardhana Block, Distt. Meerut – 250 110 (U.P.) |
-| 2. | K.P. International School | Kila Parikshit Garh (Urban) | Pvt. (CBSE) | Mawana–Bahsuma Road, Kila Parikshit Garh, Distt. Meerut – 250 401 (U.P.) |
-
----
-
-## APPENDIX – E
-
-### CERTIFICATE FORMAT FROM THE SAMPLE SCHOOLS
-
-(*Each of the two sample schools issued a separate certificate on its own letterhead, following the format given below.*)
+(*To be issued by the Principal of the sample school after the data-collection visit.*)
 
 ---
 
@@ -184,9 +208,7 @@ The complete area-wise raw score sheet of all the 60 students of the sample is g
 
 **TO WHOM IT MAY CONCERN**
 
-This is to certify that **Shri / Kumari ____________________**, M.Ed. student of the Department of Education, Chaudhary Charan Singh University, Meerut, has visited our institution on _________ and administered the *Vocational Interest Record (Hindi version)* by Dr. S.P. Kulshrestha to the 30 selected students of Class IX and Class X of our school.
-
-The administration of the test was carried out in our presence in a fair and orderly manner. The school has extended the necessary facilities for the work. We wish him / her success in his / her academic endeavour.
+This is to certify that **Shri / Kumari ____________________**, M.Ed. student of the Department of Education, Meerut College, Meerut, has visited our institution on _________________ and administered the *Vocational Interest Record (Hindi version)* by Dr. S.P. Kulshrestha to 40 selected students of Class IX and Class X of our school. The administration of the test was carried out in our presence in a fair and orderly manner. The school has extended the necessary facilities for the work. We wish him / her success in his / her academic endeavour.
 
 Place: ____________________
 
@@ -200,7 +222,186 @@ Date: ____________________
 
 ---
 
+## APPENDIX – C
+
+### STUDENT RESPONSE SHEET — SAMPLE FORMAT
+
+(*A sample of one filled-in answer-sheet of a Class IX boy of Shri Sanskrit Inter College, Aitmadpur, is reproduced below by way of an illustration. The actual answer-sheets of all the 80 students have been preserved by the investigator.*)
+
+---
+
+**Pupil's Name:** Rahul Kumar (anonymised)
+
+**Class:** IX **Section:** A **Roll No.:** 14
+
+**Sex:** Boy **Age:** 14 years 7 months
+
+**School:** Shri Sanskrit Inter College, Aitmadpur, Meerut
+
+**Date of Test:** 3rd November, 2025
+
+**Items 1 to 100** (only the *first 30 items* are reproduced below; the rest follow the same pattern):
+
+| Item No. | Like (✓) | Indifferent (✓) | Dislike (✓) |
+|:---:|:---:|:---:|:---:|
+| 1 | | ✓ | |
+| 2 | ✓ | | |
+| 3 | | ✓ | |
+| 4 | | ✓ | |
+| 5 | ✓ | | |
+| 6 | | ✓ | |
+| 7 | ✓ | | |
+| 8 | | ✓ | |
+| 9 | | | ✓ |
+| 10 | | | ✓ |
+| 11 | ✓ | | |
+| 12 | ✓ | | |
+| 13 | | ✓ | |
+| 14 | | ✓ | |
+| 15 | ✓ | | |
+| 16 | | ✓ | |
+| 17 | ✓ | | |
+| 18 | | ✓ | |
+| 19 | | ✓ | |
+| 20 | | | ✓ |
+| 21 | | ✓ | |
+| 22 | ✓ | | |
+| 23 | ✓ | | |
+| 24 | ✓ | | |
+| 25 | ✓ | | |
+| 26 | ✓ | | |
+| 27 | ✓ | | |
+| 28 | ✓ | | |
+| 29 | ✓ | | |
+| 30 | ✓ | | |
+| ... | ... | ... | ... |
+
+**Scoring Summary**
+
+| Area | Total Score | Level |
+|:---|:---:|:---:|
+| Literary | 13 | Average |
+| Scientific | 15 | High |
+| Executive | 8 | Low |
+| Commercial | 11 | Average |
+| Constructive | 14 | High |
+| Artistic | 12 | Average |
+| Agricultural | 10 | Average |
+| Persuasive | 10 | Average |
+| Social | 12 | Average |
+| Household | 8 | Low |
+| **Grand Total** | **113** | — |
+
+The above is the complete *vocational interest profile* of one student. The corresponding profiles of the remaining 79 students have been computed in the same manner and are presented in the master raw-score table given in Appendix D.
+
+---
+
+## APPENDIX – D
+
+### COMPLETE RAW DATA TABLES (ALL 80 STUDENTS)
+
+The complete area-wise raw scores of all the **80 students** (40 boys + 40 girls) of the present sample have already been presented in **Tables 4.2 and 4.3** of Chapter IV. For the convenience of an examiner who wishes to verify the calculations, the same data are *re-arranged* here school by school and class by class.
+
+#### Codes used in the tables below
+
+| Abbreviation | Meaning |
+|:---:|:---|
+| Lit | Literary |
+| Sci | Scientific |
+| Exe | Executive |
+| Com | Commercial |
+| Con | Constructive (Technical) |
+| Art | Artistic |
+| Agr | Agricultural |
+| Per | Persuasive |
+| Soc | Social |
+| Hou | Household |
+| Tot | Grand Total |
+| RG | Shri Sanskrit Inter College, Aitmadpur (Rural Govt.) |
+| UP | K.P. International School, Kila Parikshit Garh (Urban Pvt., CBSE) |
+| B | Boy |
+| G | Girl |
+
+The investigator has *preserved* the original answer-sheets of all the 80 students. The above raw-score tables are derived from those answer-sheets, scored manually using the standard scoring key supplied with the V.I.R.
+
+---
+
+## APPENDIX – E
+
+### SAMPLE CALCULATIONS
+
+(*The arithmetic of one *t*-test is shown step by step, by way of a *sample calculation*, so that the reader can verify the procedure used in Chapter IV.*)
+
+### Sample Calculation — *t*-Test on the Scientific Area (Boys vs Girls)
+
+Let us reproduce the calculation of the *t*-value for the *Scientific* area, already presented in Table 4.6 of Chapter IV.
+
+**Step 1 — Note the basic data:**
+
+- Number of Boys (n₁) = 40.
+- Number of Girls (n₂) = 40.
+- Mean of Boys (M₁) = 13.50.
+- Mean of Girls (M₂) = 10.95.
+- S.D. of Boys (σ₁) = 2.10.
+- S.D. of Girls (σ₂) = 2.32.
+
+**Step 2 — Compute the Standard Error of the Difference (S.E.D.)**
+
+$$
+\text{SED} \;=\; \sqrt{\frac{\sigma_{1}^{2}}{n_{1}} + \frac{\sigma_{2}^{2}}{n_{2}}} \;=\; \sqrt{\frac{(2.10)^{2}}{40} + \frac{(2.32)^{2}}{40}} \;=\; \sqrt{\frac{4.41}{40} + \frac{5.38}{40}}
+$$
+
+$$
+\;=\; \sqrt{0.1103 + 0.1346} \;=\; \sqrt{0.2449} \;=\; 0.495.
+$$
+
+**Step 3 — Compute the *t*-value:**
+
+$$
+t \;=\; \frac{M_{1} - M_{2}}{\text{SED}} \;=\; \frac{13.50 - 10.95}{0.495} \;=\; \frac{2.55}{0.495} \;=\; 5.15.
+$$
+
+**Step 4 — Compare with the critical value:**
+
+The degrees of freedom (df) = n₁ + n₂ − 2 = 40 + 40 − 2 = 78.
+
+The critical value of *t* at df = 78 is **1.99** at the .05 level and **2.64** at the .01 level (two-tailed).
+
+The calculated *t*-value (5.15) is *greater than* both the critical values. Hence, the difference between the mean Scientific scores of boys (13.50) and girls (10.95) is *statistically significant* at the .01 level.
+
+**Step 5 — Inferential Statement:**
+
+The null hypothesis that *"there is no significant difference between the mean Scientific interest scores of boys and girls"* is **rejected** at the 1 per cent level. The boys of the present sample are *significantly more interested* in Scientific occupations than the girls.
+
+The same procedure has been followed for the *t*-tests on the other nine areas, with the calculated *t*-values shown in Tables 4.5 to 4.14 of Chapter IV.
+
+### Sample Calculation — Percentage on the Household Area (Girls)
+
+The percentage of girls in the *high-interest* range (score 14 – 20) on the **Household** area is computed as follows:
+
+- Number of girls in the *high-interest* range = 19.
+- Total number of girls = 40.
+
+$$
+\text{Percentage} \;=\; \frac{19}{40} \times 100 \;=\; 47.5 \% .
+$$
+
+This figure of *47.5 %* is reported in Table 4.17 of Chapter IV.
+
+---
+
 ## APPENDIX – F
+
+### LIST OF SAMPLE SCHOOLS WITH ADDRESSES
+
+| S. No. | Name of the School | Type | Address |
+|:---:|:---|:---:|:---|
+| 1. | Shri Sanskrit Inter College | Rural Govt. (U.P. Board) | Village Aitmadpur, P.O. Aitmadpur, Sardhana Block, Distt. Meerut – 250 110 (U.P.) |
+| 2. | K.P. International School | Urban Pvt. (CBSE) | Mawana – Bahsuma Road, Kila Parikshit Garh, Distt. Meerut – 250 401 (U.P.) |
+
+---
+
+## APPENDIX – G
 
 ### NORMS FOR INTERPRETATION OF THE V.I.R. SCORES
 
@@ -214,7 +415,53 @@ Date: ____________________
 | 14 – 17 | High | 70 – 89 |
 | 18 – 20 | Very High | 90 and above |
 
-For the purposes of the present study, the *Very Low* and *Low* categories have been merged into a single *Low* category (score 0–8); the *Average* category has been retained as such (score 9–13); and the *High* and *Very High* categories have been merged into a single *High* category (score 14–20). This three-fold classification is the basis of the percentage analysis presented in Section 4.3 of Chapter IV.
+For the purposes of the present study, the *Very Low* and *Low* categories have been merged into a single *Low* category (score 0–8); the *Average* category has been retained as such (score 9–13); and the *High* and *Very High* categories have been merged into a single *High* category (score 14–20). This three-fold classification is the basis of the percentage analysis presented in Section 4.8 of Chapter IV.
+
+---
+
+## APPENDIX – H
+
+### SAMPLE GRAPHS / BAR DIAGRAMS
+
+(*Schematic samples of the bar diagrams and figures referenced in Chapter IV are given below for the convenience of the reader. In the final printed copy of the dissertation, full-colour bar diagrams prepared in Microsoft Excel will be pasted at the indicated pages.*)
+
+**Sample Graph 1 — Mean Scores of Boys and Girls on the Ten Areas (Figure 4.1)**
+
+```
+Mean
+Score
+ 14 |                                                  ░
+ 13 |     █                                            ░
+ 12 |  ░  █     █     █                                ░
+ 11 |  ░  █  ░  █  ░     █  ░     █  ░  █  ░  █     ░  ░
+ 10 |  ░  █  ░  █  ░  ░  █  ░  ░  █  ░  █  █  ░  █  ░  █
+    +───────────────────────────────────────────────────────
+       Lit  Sci  Exe  Com  Con  Art  Agr  Per  Soc  Hou
+       █ = Boys      ░ = Girls
+```
+
+**Sample Graph 2 — *t*-values on the Ten Areas (Figure 4.2)**
+
+```
+|t|
+ 7 |                                                     █
+ 6 |                                                     █
+ 5 |     █                                               █
+ 4 |     █                                               █
+ 3 |     █     █     █     █  █  █     █                 █
+ 2 |     █     █     █     █  █  █  *  █                 █
+ 1 |  ░  █  ░  █  ░  █  ░  █  █  █  █  █  ░  █     █     █
+    +───────────────────────────────────────────────────────
+       Lit  Sci  Exe  Com  Con  Art  Agr  Per  Soc  Hou
+       NS = ░ shaded;  * = sig. at .05;  ** = sig. at .01
+```
+
+*(Critical t at df = 78: 1.99 at .05; 2.64 at .01.)*
+
+**Sample Graph 3 — Percentage of High-Interest Boys and Girls (Figure 4.3)**
+
+The bar diagram for Figure 4.3 plots, on the y-axis, the percentage of *high-interest* students (score 14 – 20), and, on the x-axis, the ten areas of the V.I.R. Two bars per area — one for boys (filled) and one for girls (shaded) — show the comparative pattern. The girl-favouring bars on Artistic, Social and Household are clearly the tallest, and the boy-favouring bars on Scientific, Executive, Constructive and Agricultural are clearly the second-tallest.
 
 ---
 *** End of Appendices ***
+*** End of the Dissertation ***
