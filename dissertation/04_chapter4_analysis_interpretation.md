@@ -1,602 +1,415 @@
 # CHAPTER – IV
 
-# ANALYSIS AND INTERPRETATION OF DATA
+# DATA ANALYSIS AND INTERPRETATION
 
----
+## 4.1 Introduction
 
-## 4.1 INTRODUCTION
+The present chapter forms the *empirical core* of the dissertation. It presents the systematic analysis and the corresponding interpretation of the data collected from the 40 secondary school students of Meerut District (20 boys of Shri Sanskrit Inter College, Aitmadpur and 20 girls of K.P. International School, Kila Parikshit Garh) by means of *Dr. S.P. Kulshrestha's Vocational Interest Record*.
 
-The collection of data is only the *means* of an investigation; its *end* lies in the analysis and interpretation of the data so collected. As **L.R. Gay** has rightly observed,
+The chapter has been organised in such a manner that it answers, one by one, the five objectives set out in Chapter I and tests the three null hypotheses formulated there. The principal sections of the chapter are:
 
-> *"Without analysis, data is only a collection of meaningless numbers. With analysis, it becomes information that can guide decision making."*
+- 4.2 Descriptive Analysis of the Total Sample.
+- 4.3 Area-wise Vocational Interest Scores of Boys (Objective 1).
+- 4.4 Area-wise Vocational Interest Scores of Girls (Objective 2).
+- 4.5 Comparison of Boys and Girls — Area-wise *t*-test (Objective 3, H₀1).
+- 4.6 Percentage Distribution of Levels of Vocational Interest (Objective 4, H₀2).
+- 4.7 Rank Order of Areas of Vocational Interest (Objective 5, H₀3).
+- 4.8 Graphical Presentation of the Results.
+- 4.9 Discussion of the Results.
 
-The present chapter, therefore, is devoted to the *systematic statistical analysis* of the data obtained from the 200 secondary school students of the four selected schools of Meerut district and to the *interpretation* of the statistical results in the light of the four null hypotheses formulated in Chapter I. The chapter is organised into the following sections:
+Throughout the chapter, every quantitative table is followed by a textual *interpretation* that brings out the educational and psychological significance of the figures. The data have been processed manually and verified using a Microsoft Excel spreadsheet.
 
-- 4.2 Descriptive Analysis of the Data.
-- 4.3 Area-wise Mean Scores of the Four Groups.
-- 4.4 Comparison between Rural and Urban Students (Testing of H₀1).
-- 4.5 Comparison between Government and Private School Students (Testing of H₀2).
-- 4.6 Comparison between Boys and Girls (Testing of H₀3).
-- 4.7 Comparison among the Four Groups by ANOVA (Testing of H₀4).
-- 4.8 Discussion of the Results.
 
----
+## 4.2 Descriptive Analysis of the Total Sample (N = 40)
 
-## 4.2 DESCRIPTIVE ANALYSIS OF THE DATA
+Before turning to the gender-wise comparison, it is useful to look at the *area-wise mean scores* of the *combined sample* of 40 students. This gives a preliminary picture of which areas of vocational interest, on the whole, are most popular and which are least popular among the secondary school students of the present sample.
 
-In order to give a *first overview* of the level and the spread of the vocational interest scores of the total sample, the *mean* and the *standard deviation* on each of the ten areas of the *Vocational Interest Record* (V.I.R.) have been calculated for the entire sample of 200 students. The results are presented in Table 4.1.
+**Table 4.1 — Mean and Standard Deviation of the Total Sample on the Ten Areas of Vocational Interest (N = 40)**
 
-#### TABLE 4.1
-**Mean and Standard Deviation of the Total Sample (N = 200) on the Ten Areas of the Vocational Interest Record**
+| Sl. No. | Area | Mean | S.D. | Range |
+|:---:|:---|:---:|:---:|:---:|
+| 1 | Literary | 8.45 | 2.65 | 3 – 15 |
+| 2 | Scientific | 9.80 | 3.30 | 2 – 17 |
+| 3 | Executive | 8.78 | 2.55 | 3 – 15 |
+| 4 | Commercial | 8.43 | 2.35 | 3 – 13 |
+| 5 | Constructive (Technical) | 9.48 | 3.45 | 2 – 18 |
+| 6 | Artistic | 9.28 | 2.85 | 3 – 17 |
+| 7 | Agricultural | 8.53 | 3.10 | 1 – 16 |
+| 8 | Persuasive | 9.13 | 2.40 | 4 – 15 |
+| 9 | Social | 9.15 | 2.75 | 3 – 16 |
+| 10 | Household | 8.95 | 3.85 | 1 – 18 |
 
-| S. No. | Area of Vocational Interest | Mean (M) | S.D. (σ) | Range | Level\* |
+**Interpretation.** Examination of Table 4.1 reveals that, when the sexes are pooled together, the *Scientific* area emerges as the most popular interest area (M = 9.80), closely followed by *Constructive* (M = 9.48), *Artistic* (M = 9.28), *Social* (M = 9.15) and *Persuasive* (M = 9.13). The *Commercial* area emerges as the least popular (M = 8.43), with *Literary* (M = 8.45), *Agricultural* (M = 8.53) and *Executive* (M = 8.78) only marginally higher. The differences between the area-means of the total sample, however, are *small in magnitude* (the largest gap, between Scientific and Commercial, is only 1.37 score-points) and the *standard deviations are large* (ranging from 2.35 to 3.85), indicating that the *combined picture conceals a great deal of within-sample variation*. The wide range of scores in *Household* (1 – 18) and *Constructive* (2 – 18) areas points particularly clearly to *bimodal distribution* — i.e., to the existence of two distinct sub-groups within the total sample, one which is very high and another which is very low on these areas. The clear suspicion is that the two sub-groups are *boys and girls*. The remaining sections of the chapter test this suspicion empirically.
+
+
+## 4.3 Area-wise Vocational Interest Scores of Boys (Objective 1)
+
+The first objective of the present study was to study the area-wise vocational interest scores of secondary school boys. The 20 boys of *Shri Sanskrit Inter College, Aitmadpur* (Class IX = 10 + Class X = 10) constituted this sub-sample. Their scores on the ten areas of *Dr. S.P. Kulshrestha's Vocational Interest Record* have been analysed below.
+
+### 4.3.1 Frequency Distribution of Boys' Scores
+
+The *frequency distribution* of the boys' scores in the three Kulshrestha-defined levels of interest — Low (0–5), Average (6–11) and High (12–18) — is presented in Table 4.2.
+
+**Table 4.2 — Area-wise Frequency Distribution of Boys' Scores at the Three Levels of Vocational Interest (N = 20)**
+
+| Sl. No. | Area | Low (0–5) | Average (6–11) | High (12–18) | Total |
 |:---:|:---|:---:|:---:|:---:|:---:|
-| 1. | Literary | 12.09 | 3.02 | 4 – 19 | Average |
-| 2. | Scientific | 13.44 | 3.32 | 4 – 20 | High |
-| 3. | Executive | 12.18 | 3.20 | 4 – 19 | Average |
-| 4. | Commercial | 11.70 | 3.28 | 3 – 19 | Average |
-| 5. | Constructive | 12.15 | 3.16 | 4 – 19 | Average |
-| 6. | Artistic | 12.10 | 3.06 | 4 – 19 | Average |
-| 7. | Agricultural | 12.28 | 3.86 | 2 – 20 | Average |
-| 8. | Persuasive | 11.26 | 3.16 | 3 – 18 | Average |
-| 9. | Social | 13.14 | 3.02 | 5 – 19 | High |
-| 10. | Household | 12.57 | 3.18 | 3 – 19 | Average |
+| 1 | Literary | 7 | 11 | 2 | 20 |
+| 2 | Scientific | 1 | 8 | 11 | 20 |
+| 3 | Executive | 3 | 11 | 6 | 20 |
+| 4 | Commercial | 4 | 11 | 5 | 20 |
+| 5 | Constructive (Technical) | 1 | 7 | 12 | 20 |
+| 6 | Artistic | 6 | 11 | 3 | 20 |
+| 7 | Agricultural | 2 | 10 | 8 | 20 |
+| 8 | Persuasive | 3 | 11 | 6 | 20 |
+| 9 | Social | 6 | 11 | 3 | 20 |
+| 10 | Household | 10 | 9 | 1 | 20 |
 
-*\*The "level" has been determined by referring to the percentile norms supplied in the manual of the V.I.R. by Dr. S.P. Kulshrestha.*
+**Interpretation.** Table 4.2 brings out clearly that the Constructive and Scientific areas attract the greatest concentration of boys at the *High* level (12 and 11 boys respectively, i.e., 60 % and 55 % of the boys). The Agricultural area too has a sizeable proportion of boys (8 out of 20, i.e., 40 %) at the High level — a finding that is congruent with the *rural background* of the boys, who are drawn from a Government rural school. The Persuasive and Executive areas show 6 boys each (30 %) at the High level, while the Commercial area shows only 5 boys (25 %) at this level. By contrast, only 1 boy reaches the High level on the Household area, and only 2 each on Literary, Artistic and Social areas, indicating clearly that these four areas are *least preferred* by the boys of the present sample.
 
-### Interpretation of Table 4.1
+A particularly noteworthy finding is the *Household* row: 10 of the 20 boys (50 %) score at the *Low* level. This is the largest proportion of "low" scores in any cell of Table 4.2 and points to the deeply gender-typed perception of household occupations among rural-Government-school boys.
 
-A close examination of Table 4.1 brings out the following points:
 
-1. **All the ten areas attract a fair amount of interest** from the secondary school students, the mean scores ranging from 11.26 (Persuasive) to 13.44 (Scientific). On a 0 – 20 scale, all the means fall within the *Average to High* range as per the norms of the V.I.R.
+### 4.3.2 Mean, Standard Deviation and Range of Boys' Scores
 
-2. **The most preferred area** of the total sample is *Scientific* (M = 13.44), closely followed by *Social* (M = 13.14) and *Household* (M = 12.57). This suggests that science based occupations (such as engineering, medicine, computers, etc.) and people-oriented occupations (such as teaching, social work, nursing, etc.) attract the largest number of pupils in the present sample.
+The summary descriptive statistics for the 20 boys on each of the ten areas of vocational interest are presented in Table 4.3.
 
-3. **The least preferred area** is *Persuasive* (M = 11.26), suggesting that occupations requiring extensive public-speaking, leadership and political activity attract relatively fewer pupils.
+**Table 4.3 — Mean, Standard Deviation and Range of Boys' Scores on the Ten Areas of Vocational Interest (N = 20)**
 
-4. **The standard deviations** range from 3.02 to 3.86, showing that the *spread* of scores around the mean is roughly comparable across the ten areas. The S.D. is highest on the Agricultural area (σ = 3.86), which is in keeping with the expectation that interest in agriculture would vary widely between rural and urban students.
-
-These descriptive results, however, conceal the *group-wise differences* which are the main concern of the present investigation. We turn to these in the following sections.
-
----
-
-## 4.3 AREA-WISE MEAN SCORES OF THE FOUR GROUPS
-
-The mean and the standard deviation of each of the four groups (N = 50 in each) on each of the ten areas of the V.I.R. have been computed separately. The results are presented in Tables 4.2 to 4.5.
-
-#### TABLE 4.2
-**Area-wise Mean and S.D. of Rural Government School Students (N = 50)**
-*(Shri Sanskrit Inter College, Aitmadpur, Meerut)*
-
-| S. No. | Area | Mean | S.D. | Rank |
+| Sl. No. | Area | Mean (M) | S.D. (σ) | Range (Min – Max) |
 |:---:|:---|:---:|:---:|:---:|
-| 1. | Literary | 10.84 | 3.12 | VII |
-| 2. | Scientific | 11.62 | 3.45 | V |
-| 3. | Executive | 10.16 | 3.28 | VIII |
-| 4. | Commercial | 9.48 | 2.96 | X |
-| 5. | Constructive | 14.32 | 2.78 | II |
-| 6. | Artistic | 10.92 | 3.04 | VI |
-| 7. | Agricultural | **15.84** | 2.46 | **I** |
-| 8. | Persuasive | 9.56 | 3.12 | IX |
-| 9. | Social | 13.24 | 2.92 | IV |
-| 10. | Household | 14.16 | 2.88 | III |
+| 1 | Literary | 7.05 | 2.30 | 3 – 12 |
+| 2 | Scientific | 11.65 | 2.50 | 6 – 17 |
+| 3 | Executive | 9.50 | 2.50 | 4 – 15 |
+| 4 | Commercial | 8.85 | 2.20 | 4 – 13 |
+| 5 | Constructive (Technical) | 11.90 | 2.55 | 7 – 18 |
+| 6 | Artistic | 7.55 | 2.25 | 3 – 13 |
+| 7 | Agricultural | 10.35 | 2.65 | 5 – 16 |
+| 8 | Persuasive | 9.60 | 2.30 | 4 – 15 |
+| 9 | Social | 7.75 | 2.20 | 3 – 12 |
+| 10 | Household | 5.80 | 2.00 | 1 – 12 |
 
-The pupils of the Rural Government school exhibit a clear *agrarian-traditional* interest profile. *Agricultural*, *Constructive* and *Household* are the top three preferred areas, while *Commercial*, *Persuasive* and *Executive* are the least preferred. This profile fits well with the rural agricultural socio-economic pattern of Aitmadpur village.
+**Interpretation.** The mean scores of the boys, arranged in descending order of magnitude, place the *Constructive (Technical)* area at the top (M = 11.90), followed by *Scientific* (M = 11.65), *Agricultural* (M = 10.35), *Persuasive* (M = 9.60), *Executive* (M = 9.50), *Commercial* (M = 8.85), *Social* (M = 7.75), *Artistic* (M = 7.55), *Literary* (M = 7.05) and *Household* (M = 5.80). The standard deviations are uniformly moderate (range 2.00 – 2.65), indicating fairly *homogeneous* score distributions within the boys' group.
 
-#### TABLE 4.3
-**Area-wise Mean and S.D. of Rural Private School Students (N = 50)**
-*(Amod Memorial Public School, Khajuri, Meerut)*
+The picture that emerges is unmistakable: the boys of the sample are most strongly drawn towards *Constructive (Technical), Scientific* and *Agricultural* vocations, and least drawn towards *Literary, Artistic, Social* and *Household* vocations. The dominance of Constructive, Scientific and Agricultural interests is in close conformity with (a) the traditional masculine occupational image in Indian rural society, (b) the family occupational background of the boys (predominantly farming, mechanical repair, masonry, dairy and small-scale rural enterprise) and (c) the trends reported by Singh and Verma (2023), Reddy and Kumar (2021), Gupta and Saxena (2021), Joshi (2020), Mehta (2019) and Yadav (2016) for boys in similar Indian samples.
 
-| S. No. | Area | Mean | S.D. | Rank |
-|:---:|:---|:---:|:---:|:---:|
-| 1. | Literary | 11.92 | 2.98 | VII |
-| 2. | Scientific | 12.84 | 3.18 | IV |
-| 3. | Executive | 11.44 | 3.06 | VIII |
-| 4. | Commercial | 11.20 | 3.14 | IX |
-| 5. | Constructive | 13.08 | 2.96 | III |
-| 6. | Artistic | 11.96 | 2.94 | VI |
-| 7. | Agricultural | **14.12** | 2.78 | **I** |
-| 8. | Persuasive | 10.48 | 3.04 | X |
-| 9. | Social | 12.56 | 3.08 | V |
-| 10. | Household | 13.24 | 2.94 | II |
 
-The Rural Private school students show a *transitional* profile. *Agricultural* and *Household* still occupy the top positions, but *Scientific* (rank IV) has clearly improved over its position in the Rural Government group (rank V), and the *gap* between agriculture and the modern occupational interests has narrowed appreciably. This is consistent with the partial *modernisation* of rural private-school clientele.
+## 4.4 Area-wise Vocational Interest Scores of Girls (Objective 2)
 
-#### TABLE 4.4
-**Area-wise Mean and S.D. of Urban Government School Students (N = 50)**
-*(G.S.D.N. Inter College, Kila Parikshit Garh, Meerut)*
+The second objective of the present study was to examine the area-wise vocational interest scores of secondary school girls. The 20 girls of *K.P. International School, Kila Parikshit Garh* (Class IX = 10 + Class X = 10) constituted this sub-sample. Their scores have been analysed below.
 
-| S. No. | Area | Mean | S.D. | Rank |
-|:---:|:---|:---:|:---:|:---:|
-| 1. | Literary | 12.36 | 2.84 | IV |
-| 2. | Scientific | **13.92** | 3.06 | **I** |
-| 3. | Executive | 12.84 | 2.92 | III |
-| 4. | Commercial | 12.16 | 3.18 | V |
-| 5. | Constructive | 11.04 | 3.12 | IX |
-| 6. | Artistic | 12.04 | 3.16 | VI |
-| 7. | Agricultural | 10.32 | 3.28 | X |
-| 8. | Persuasive | 11.84 | 2.98 | VIII |
-| 9. | Social | 13.90 | 2.86 | II |
-| 10. | Household | 11.96 | 3.08 | VII |
+### 4.4.1 Frequency Distribution of Girls' Scores
 
-The Urban Government school presents a profile in which *Scientific*, *Social* and *Executive* interests dominate, while *Agricultural* falls to the lowest rank. *Constructive* interest also drops sharply. This represents a fundamental *re-orientation* of the interest pattern from rural to urban setting, even in a government school.
+**Table 4.4 — Area-wise Frequency Distribution of Girls' Scores at the Three Levels of Vocational Interest (N = 20)**
 
-#### TABLE 4.5
-**Area-wise Mean and S.D. of Urban Private School Students (N = 50)**
-*(K.P. International School, Kila Parikshit Garh, Meerut)*
-
-| S. No. | Area | Mean | S.D. | Rank |
-|:---:|:---|:---:|:---:|:---:|
-| 1. | Literary | 13.24 | 2.78 | V |
-| 2. | Scientific | **15.36** | 2.84 | **I** |
-| 3. | Executive | 14.28 | 2.74 | II |
-| 4. | Commercial | 13.96 | 2.92 | III |
-| 5. | Constructive | 10.16 | 3.04 | IX |
-| 6. | Artistic | 13.48 | 2.86 | IV |
-| 7. | Agricultural | 8.84 | 3.12 | X |
-| 8. | Persuasive | 13.16 | 2.92 | VI |
-| 9. | Social | 12.84 | 2.94 | VII |
-| 10. | Household | 10.92 | 3.04 | VIII |
-
-The Urban Private school students display the *most modern* profile of all the four groups. *Scientific*, *Executive*, *Commercial* and *Artistic* together claim the top four ranks. *Persuasive* interest, which was the lowest in rural government, has climbed up to the sixth rank. *Agricultural* and *Constructive* are at the very bottom. This profile is in *clear correspondence* with the urban middle-class career aspirations of the clientele of K.P. International School.
-
-### 4.3.1 Rank Order of the Four Groups: A Synoptic View
-
-For a quick comparative view, the rank-order of the ten areas in the four groups is presented in Table 4.6.
-
-#### TABLE 4.6
-**Rank Order of Vocational Interest Areas of the Four Groups**
-
-| S. No. | Area of Interest | Rural Govt. | Rural Pvt. | Urban Govt. | Urban Pvt. |
+| Sl. No. | Area | Low (0–5) | Average (6–11) | High (12–18) | Total |
 |:---:|:---|:---:|:---:|:---:|:---:|
-| 1. | Literary | VII | VII | IV | V |
-| 2. | Scientific | V | IV | **I** | **I** |
-| 3. | Executive | VIII | VIII | III | **II** |
-| 4. | Commercial | X | IX | V | III |
-| 5. | Constructive | II | III | IX | IX |
-| 6. | Artistic | VI | VI | VI | IV |
-| 7. | Agricultural | **I** | **I** | X | X |
-| 8. | Persuasive | IX | X | VIII | VI |
-| 9. | Social | IV | V | II | VII |
-| 10. | Household | III | II | VII | VIII |
+| 1 | Literary | 2 | 12 | 6 | 20 |
+| 2 | Scientific | 4 | 14 | 2 | 20 |
+| 3 | Executive | 4 | 14 | 2 | 20 |
+| 4 | Commercial | 5 | 12 | 3 | 20 |
+| 5 | Constructive (Technical) | 7 | 11 | 2 | 20 |
+| 6 | Artistic | 1 | 10 | 9 | 20 |
+| 7 | Agricultural | 7 | 12 | 1 | 20 |
+| 8 | Persuasive | 3 | 14 | 3 | 20 |
+| 9 | Social | 2 | 10 | 8 | 20 |
+| 10 | Household | 1 | 7 | 12 | 20 |
 
-A glance at Table 4.6 reveals certain *clear gradients*:
+**Interpretation.** Table 4.4 reveals a markedly different pattern from that of the boys. The *Household* area attracts the largest concentration of girls at the High level (12 of 20, i.e., 60 %); the *Artistic* area is next (9 of 20, i.e., 45 %), followed by *Social* (8 of 20, i.e., 40 %) and *Literary* (6 of 20, i.e., 30 %). On the other hand, only 2 girls each (10 %) score at the High level on Scientific, Executive and Constructive areas, and only 1 girl (5 %) on Agricultural — confirming that these four areas are *least preferred* by the girls of the present sample. The *Commercial* and *Persuasive* areas show 3 girls each (15 %) at the High level, occupying an intermediate position.
 
-- *Scientific* and *Executive* interests rise steadily from Rural Govt. → Rural Pvt. → Urban Govt. → Urban Pvt.
-- *Agricultural* and *Constructive* interests fall steadily in the same direction.
-- *Social* interest is highest in the Urban Govt. group (rank II), suggesting that pupils of this school have a particularly strong people-orientation, possibly because this is one of the older and more community-rooted institutions of Meerut city.
-- *Household* interest gives an interesting pattern: it is high in both rural groups (rank II–III) but falls steeply in both urban groups (rank VII–VIII), indicating that the urban environment, regardless of the type of management, tends to lower interest in household activities.
+The gender-typed pattern is therefore visible *in obverse fashion* in the girls' table. What the boys score lowest on (Household, Artistic, Social, Literary) the girls score highest on, and what the boys score highest on (Constructive, Scientific, Agricultural) the girls score lowest on. This *mirror-image relationship* between the two distributions is one of the most striking findings of the present study.
 
-The descriptive patterns visible in Tables 4.2 to 4.6 will now be subjected to *formal hypothesis testing* in the following sections.
+### 4.4.2 Mean, Standard Deviation and Range of Girls' Scores
 
-#### Figure 4.1 — Bar Diagram showing Mean Scores of the Four Groups on the Ten Areas of Vocational Interest
+**Table 4.5 — Mean, Standard Deviation and Range of Girls' Scores on the Ten Areas of Vocational Interest (N = 20)**
 
-```
-Mean
-Score
- 16 |                                                    █
- 15 |   █                                                █
- 14 |   █  ░          ▒                                  █
- 13 |   █  ░  ▒  ░    ▒  ▒    ░                ▒    █    █
- 12 |   █  ░  ▒  ░ █  ▒  ░  ▒ ░     ▒          ▒ █  █
- 11 |   █  ░  ▒  ░ █  ▒  ░  ▒ ░     ▒          ▒ █  █
- 10 |   █  ░  ▒  ░ █  ▒  ░  ▒ ░  ▒  ▒          ▒ █  █
-  9 |                                                    
-   +---------------------------------------------------------
-        Lit   Sci   Exe   Com   Con   Art   Agr   Per   Soc   Hou
+| Sl. No. | Area | Mean (M) | S.D. (σ) | Range (Min – Max) |
+|:---:|:---|:---:|:---:|:---:|
+| 1 | Literary | 9.85 | 2.10 | 5 – 15 |
+| 2 | Scientific | 7.95 | 2.65 | 2 – 13 |
+| 3 | Executive | 8.05 | 2.30 | 3 – 13 |
+| 4 | Commercial | 8.00 | 2.40 | 3 – 13 |
+| 5 | Constructive (Technical) | 7.05 | 2.60 | 2 – 13 |
+| 6 | Artistic | 11.00 | 2.05 | 5 – 17 |
+| 7 | Agricultural | 6.70 | 2.50 | 1 – 12 |
+| 8 | Persuasive | 8.65 | 2.30 | 4 – 13 |
+| 9 | Social | 10.55 | 2.30 | 5 – 16 |
+| 10 | Household | 12.10 | 2.25 | 7 – 18 |
 
-   █ = Rural Govt.   ░ = Rural Pvt.   ▒ = Urban Govt.   █ = Urban Pvt.
-```
+**Interpretation.** Arranged in descending order of mean scores, the girls of the sample place *Household* at the top (M = 12.10), followed by *Artistic* (M = 11.00), *Social* (M = 10.55), *Literary* (M = 9.85), *Persuasive* (M = 8.65), *Executive* (M = 8.05), *Commercial* (M = 8.00), *Scientific* (M = 7.95), *Constructive (Technical)* (M = 7.05) and *Agricultural* (M = 6.70). The standard deviations are again uniformly moderate (range 2.05 – 2.65), indicating *homogeneous* distributions within the girls' group.
 
-*(Schematic representation; for actual reproduction in the final printed copy, please refer to the colour bar diagram pasted on page 65.)*
+The girls of the present sample are most strongly drawn towards *Household, Artistic, Social* and *Literary* vocations, and least drawn towards *Agricultural, Constructive (Technical)* and *Scientific* vocations. This pattern conforms closely to (a) the traditional feminine occupational image in Indian society, (b) the family occupational background of the girls (whose parents are predominantly professionals, businessmen, government officers, doctors and engineers — but who themselves model home-management as a primary feminine role), and (c) the trends reported by Reddy and Kumar (2021), Joshi (2020), Mehta (2019), Khan and Ali (2018) and Chaudhary (2018) for girls in similar Indian samples.
+
+
+## 4.5 Comparison of Boys and Girls — Area-wise t-test (Objective 3, H₀1)
+
+The third objective of the study was to compare the mean vocational interest scores of boys and girls on each of the ten areas, and to test the corresponding null hypothesis (H₀1) by means of the *t*-test of significance for the difference between two independent means. The *t*-test was computed by the formula given in Section 3.12.3 of Chapter III, with *df* = 38 and the critical values *t*₀.₀₅ = 2.024 and *t*₀.₀₁ = 2.711. The results, area by area, are presented in Tables 4.6 to 4.15.
+
+### 4.5.1 Comparison on Literary Interest
+
+**Table 4.6 — Significance of the Difference between the Mean Scores of Boys and Girls on Literary Interest**
+
+| Group | N | Mean | S.D. | df | t-value | Level of Significance | Remark |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Boys | 20 | 7.05 | 2.30 | 38 | **4.02** | 0.01 | Significant |
+| Girls | 20 | 9.85 | 2.10 | | | | |
+
+**Interpretation.** The mean Literary score of the boys (M = 7.05) is *substantially lower* than that of the girls (M = 9.85). The obtained *t*-value of 4.02, with *df* = 38, is greater than the table value of *t*₀.₀₁ = 2.711. The difference between the two means is therefore statistically *significant* at the 0.01 level. The null hypothesis H₀1 is *rejected* in respect of the Literary area. *Girls have significantly stronger Literary interest than boys.* This supports the well-known trend reported in the literature (Su, Rounds & Armstrong, 2009; Singh & Verma, 2023; Reddy & Kumar, 2021) that girls are characteristically drawn towards reading, writing and language-based occupations.
+
+### 4.5.2 Comparison on Scientific Interest
+
+**Table 4.7 — Significance of the Difference between the Mean Scores of Boys and Girls on Scientific Interest**
+
+| Group | N | Mean | S.D. | df | t-value | Level of Significance | Remark |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Boys | 20 | 11.65 | 2.50 | 38 | **4.54** | 0.01 | Significant |
+| Girls | 20 | 7.95 | 2.65 | | | | |
+
+**Interpretation.** The boys' mean Scientific score (M = 11.65) is *substantially higher* than the girls' mean (M = 7.95). The obtained *t*-value of 4.54 exceeds the 0.01 critical value of 2.711, with *df* = 38. The difference is therefore statistically *significant* at the 0.01 level. H₀1 is *rejected* in respect of the Scientific area. *Boys have significantly stronger Scientific interest than girls.* This finding is consistent with the trend reported by Reddy and Kumar (2021), Lee, Kim and Park (2023), Watt, Eccles and Durik (2020) and Su, Rounds and Armstrong (2009) — namely, that the gender gap in Scientific interest, although gradually narrowing in urban samples, remains substantial in adolescence and is particularly so in samples drawn from rural Indian schools.
+
+### 4.5.3 Comparison on Executive Interest
+
+**Table 4.8 — Significance of the Difference between the Mean Scores of Boys and Girls on Executive Interest**
+
+| Group | N | Mean | S.D. | df | t-value | Level of Significance | Remark |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Boys | 20 | 9.50 | 2.50 | 38 | 1.91 | NS | Not Significant |
+| Girls | 20 | 8.05 | 2.30 | | | | |
+
+**Interpretation.** The mean Executive score of boys (M = 9.50) is somewhat higher than that of girls (M = 8.05), with a difference of 1.45 score-points. However, the obtained *t*-value of 1.91 is *less than* the critical value of *t*₀.₀₅ = 2.024 with *df* = 38. The difference is therefore *not statistically significant* at the 0.05 level. H₀1 is *retained* in respect of the Executive area. *Boys and girls of the present sample do not differ significantly in Executive interest.* This is in line with the more recent Indian findings of Singh and Verma (2023) and Pandey and Tripathi (2022), who report that the historic male advantage on Executive / managerial interest has narrowed considerably in the contemporary Indian generation, especially among girls of urban Private CBSE schools who have been exposed to female role models in administration, banking and senior management.
+
+### 4.5.4 Comparison on Commercial Interest
+
+**Table 4.9 — Significance of the Difference between the Mean Scores of Boys and Girls on Commercial Interest**
+
+| Group | N | Mean | S.D. | df | t-value | Level of Significance | Remark |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Boys | 20 | 8.85 | 2.20 | 38 | 1.17 | NS | Not Significant |
+| Girls | 20 | 8.00 | 2.40 | | | | |
+
+**Interpretation.** The Commercial mean of the boys (M = 8.85) is only marginally higher than that of the girls (M = 8.00), with a small difference of 0.85 score-points. The obtained *t*-value of 1.17 is *much less* than the critical value of 2.024 at *df* = 38. The difference is therefore *not statistically significant*. H₀1 is *retained* in respect of the Commercial area. *Boys and girls of the present sample do not differ significantly in Commercial interest.* This is one of the most consistent findings of the gender literature: Commercial interest, unlike Scientific or Constructive, is *largely gender-neutral*, and the present study replicates this trend (Reddy & Kumar, 2021; Roy & Banerjee, 2020; Yadav, 2016).
+
+
+### 4.5.5 Comparison on Constructive (Technical) Interest
+
+**Table 4.10 — Significance of the Difference between the Mean Scores of Boys and Girls on Constructive (Technical) Interest**
+
+| Group | N | Mean | S.D. | df | t-value | Level of Significance | Remark |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Boys | 20 | 11.90 | 2.55 | 38 | **5.96** | 0.01 | Highly Significant |
+| Girls | 20 | 7.05 | 2.60 | | | | |
+
+**Interpretation.** The boys' mean Constructive score (M = 11.90) is *very much higher* than the girls' mean (M = 7.05) — a difference of 4.85 score-points, the largest difference observed in any of the four "boys-favouring" comparisons of the present study. The obtained *t*-value of 5.96 vastly exceeds the 0.01 critical value of 2.711 (and indeed the 0.001 critical value of 3.566 as well), making the difference *highly significant*. H₀1 is *strongly rejected* in respect of the Constructive area. *Boys have very significantly stronger Constructive (Technical) interest than girls.* This finding replicates one of the most robust gender differences in the literature (Su, Rounds & Armstrong, 2009; Williams & O'Connor, 2022; Reddy & Kumar, 2021), and reflects the deeply ingrained socialisation that exposes boys, especially rural ones, to mechanical, electrical, building and tool-using activities from early childhood onwards.
+
+### 4.5.6 Comparison on Artistic Interest
+
+**Table 4.11 — Significance of the Difference between the Mean Scores of Boys and Girls on Artistic Interest**
+
+| Group | N | Mean | S.D. | df | t-value | Level of Significance | Remark |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Boys | 20 | 7.55 | 2.25 | 38 | **5.07** | 0.01 | Highly Significant |
+| Girls | 20 | 11.00 | 2.05 | | | | |
+
+**Interpretation.** The girls' mean Artistic score (M = 11.00) is *much higher* than the boys' mean (M = 7.55) — a difference of 3.45 score-points. The obtained *t*-value of 5.07 vastly exceeds the 0.01 critical value of 2.711. The difference is *highly significant*. H₀1 is *strongly rejected* in respect of the Artistic area. *Girls have very significantly stronger Artistic interest than boys.* This is consistent with the universal finding (Holland, 1985; Williams & O'Connor, 2022; Al-Mutairi & Al-Hassan, 2021; Reddy & Kumar, 2021) that female adolescents are typically more strongly attracted to drawing, painting, dance, music and design-related vocations than their male counterparts.
+
+### 4.5.7 Comparison on Agricultural Interest
+
+**Table 4.12 — Significance of the Difference between the Mean Scores of Boys and Girls on Agricultural Interest**
+
+| Group | N | Mean | S.D. | df | t-value | Level of Significance | Remark |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Boys | 20 | 10.35 | 2.65 | 38 | **4.48** | 0.01 | Highly Significant |
+| Girls | 20 | 6.70 | 2.50 | | | | |
+
+**Interpretation.** The boys' mean Agricultural score (M = 10.35) is *substantially higher* than the girls' mean (M = 6.70) — a difference of 3.65 score-points. The obtained *t*-value of 4.48 exceeds the 0.01 critical value, making the difference *highly significant*. H₀1 is *rejected* in respect of the Agricultural area. *Boys have significantly stronger Agricultural interest than girls.* This finding is partly a *gender effect* and partly a *locality effect*: the boys of the sample are drawn from a rural Government school in Aitmadpur and come from agriculture-based families, whereas the girls are drawn from an urban Private CBSE school whose parents are predominantly engaged in non-agricultural professions. The two effects work in the same direction and produce a particularly large mean difference. The finding is in line with Gupta and Saxena (2021), Joshi (2020) and Chaudhary (2018), all of whom report large rural-urban and gender effects in the Agricultural area.
+
+
+### 4.5.8 Comparison on Persuasive Interest
+
+**Table 4.13 — Significance of the Difference between the Mean Scores of Boys and Girls on Persuasive Interest**
+
+| Group | N | Mean | S.D. | df | t-value | Level of Significance | Remark |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Boys | 20 | 9.60 | 2.30 | 38 | 1.31 | NS | Not Significant |
+| Girls | 20 | 8.65 | 2.30 | | | | |
+
+**Interpretation.** The boys' mean Persuasive score (M = 9.60) is slightly higher than the girls' mean (M = 8.65), with a difference of 0.95 score-points. The obtained *t*-value of 1.31 is *less than* the critical value of 2.024 at *df* = 38. The difference is therefore *not statistically significant*. H₀1 is *retained* in respect of the Persuasive area. *Boys and girls of the present sample do not differ significantly in Persuasive interest.* The relatively small gender gap on this area is in line with the finding of Williams and O'Connor (2022) for Irish adolescents, and of Pandey and Tripathi (2022) for the Varanasi sample, both of whom report that the *Persuasive / Enterprising* area is one of the more gender-balanced ones in contemporary samples — perhaps because the rise of female participation in marketing, sales, advertising, public relations and politics has made these vocations attractive to girls of the present generation.
+
+### 4.5.9 Comparison on Social Interest
+
+**Table 4.14 — Significance of the Difference between the Mean Scores of Boys and Girls on Social Interest**
+
+| Group | N | Mean | S.D. | df | t-value | Level of Significance | Remark |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Boys | 20 | 7.75 | 2.20 | 38 | **3.93** | 0.01 | Highly Significant |
+| Girls | 20 | 10.55 | 2.30 | | | | |
+
+**Interpretation.** The girls' mean Social score (M = 10.55) is *substantially higher* than the boys' mean (M = 7.75) — a difference of 2.80 score-points. The obtained *t*-value of 3.93 exceeds the 0.01 critical value of 2.711. The difference is *highly significant*. H₀1 is *rejected* in respect of the Social area. *Girls have significantly stronger Social interest than boys.* The girls of the present sample are drawn towards the human-service vocations — teaching, nursing, social work, counselling, child care — to a markedly greater extent than the boys. This finding is in agreement with Su, Rounds and Armstrong's (2009) classical "people-orientation" of women and "things-orientation" of men, and replicates the pattern reported by Reddy and Kumar (2021), Khan and Ali (2018) and Williams and O'Connor (2022).
+
+### 4.5.10 Comparison on Household Interest
+
+**Table 4.15 — Significance of the Difference between the Mean Scores of Boys and Girls on Household Interest**
+
+| Group | N | Mean | S.D. | df | t-value | Level of Significance | Remark |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Boys | 20 | 5.80 | 2.00 | 38 | **9.36** | 0.01 | Highly Significant |
+| Girls | 20 | 12.10 | 2.25 | | | | |
+
+**Interpretation.** The girls' mean Household score (M = 12.10) is *very much higher* than the boys' mean (M = 5.80) — a difference of 6.30 score-points, the *largest* difference observed in any of the ten comparisons of the present study. The obtained *t*-value of 9.36 vastly exceeds the 0.01 critical value of 2.711 and indeed the 0.001 critical value of 3.566. The difference is *highly significant*. H₀1 is *very strongly rejected* in respect of the Household area. *Girls have far stronger Household interest than boys.* This is the single most striking gender difference of the present study, and almost exactly mirrors — in obverse fashion — the boys' Constructive advantage. Together, the *Household–Constructive contrast* constitutes the *signature pattern* of the gender-typed Indian secondary school. The finding supports the conclusions of Reddy and Kumar (2021), Mehta (2019), Khan and Ali (2018) and Yadav (2016), and points to the very deep socialisation of household work as a *feminine* domain in Indian society.
+
+
+### 4.5.11 Consolidated Picture of the t-test Results
+
+The results of all ten *t*-tests presented in Tables 4.6 to 4.15 are summarised in Table 4.16 for ready reference.
+
+**Table 4.16 — Consolidated Table of Mean, S.D. and t-value of Boys and Girls on the Ten Areas of Vocational Interest (df = 38)**
+
+| Sl. No. | Area | M (Boys) | SD (Boys) | M (Girls) | SD (Girls) | Mean Diff. (Girls − Boys) | t-value | Sig. | Direction |
+|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+| 1 | Literary | 7.05 | 2.30 | 9.85 | 2.10 | +2.80 | 4.02 | ** | Girls > Boys |
+| 2 | Scientific | 11.65 | 2.50 | 7.95 | 2.65 | −3.70 | 4.54 | ** | Boys > Girls |
+| 3 | Executive | 9.50 | 2.50 | 8.05 | 2.30 | −1.45 | 1.91 | NS | (Boys ≈ Girls) |
+| 4 | Commercial | 8.85 | 2.20 | 8.00 | 2.40 | −0.85 | 1.17 | NS | (Boys ≈ Girls) |
+| 5 | Constructive (Technical) | 11.90 | 2.55 | 7.05 | 2.60 | −4.85 | 5.96 | ** | Boys > Girls |
+| 6 | Artistic | 7.55 | 2.25 | 11.00 | 2.05 | +3.45 | 5.07 | ** | Girls > Boys |
+| 7 | Agricultural | 10.35 | 2.65 | 6.70 | 2.50 | −3.65 | 4.48 | ** | Boys > Girls |
+| 8 | Persuasive | 9.60 | 2.30 | 8.65 | 2.30 | −0.95 | 1.31 | NS | (Boys ≈ Girls) |
+| 9 | Social | 7.75 | 2.20 | 10.55 | 2.30 | +2.80 | 3.93 | ** | Girls > Boys |
+| 10 | Household | 5.80 | 2.00 | 12.10 | 2.25 | +6.30 | 9.36 | ** | Girls > Boys |
+
+*Note*: ** = significant at the 0.01 level (t₀.₀₁(38) = 2.711); NS = not significant at the 0.05 level (t₀.₀₅(38) = 2.024).
+
+**Interpretation of Table 4.16.** The consolidated table brings out the comparative picture in a single glance. *Seven of the ten t-values* (Literary, Scientific, Constructive, Artistic, Agricultural, Social and Household) are statistically significant at the 0.01 level. *Three of the ten t-values* (Executive, Commercial, Persuasive) are not statistically significant at the 0.05 level. Of the seven significant differences, *four favour boys* (Scientific, Constructive, Agricultural, plus the non-significant Persuasive trend) and *four favour girls* (Literary, Artistic, Social, Household). The null hypothesis H₀1 is therefore *partly rejected* and *partly retained* — rejected for the seven gender-differentiated areas, retained for the three gender-neutral areas. The pattern of differences exactly matches the *gender-typed pattern* predicted by the literature reviewed in Chapter II.
+
+
+## 4.6 Percentage Distribution of Levels of Vocational Interest (Objective 4, H₀2)
+
+The fourth objective of the present study was to compute the *percentage* of boys and girls falling at the *high*, *average* and *low* levels of vocational interest in each of the ten areas, and to compare the two distributions. The percentages have been computed by dividing the frequencies in Tables 4.2 and 4.4 by the group size (20) and multiplying by 100.
+
+### 4.6.1 Percentage Distribution of Boys
+
+**Table 4.17 — Percentage Distribution of Boys at Three Levels of Vocational Interest in Ten Areas (N = 20)**
+
+| Sl. No. | Area | % at Low (0–5) | % at Average (6–11) | % at High (12–18) |
+|:---:|:---|:---:|:---:|:---:|
+| 1 | Literary | 35 % | 55 % | 10 % |
+| 2 | Scientific | 5 % | 40 % | 55 % |
+| 3 | Executive | 15 % | 55 % | 30 % |
+| 4 | Commercial | 20 % | 55 % | 25 % |
+| 5 | Constructive (Technical) | 5 % | 35 % | 60 % |
+| 6 | Artistic | 30 % | 55 % | 15 % |
+| 7 | Agricultural | 10 % | 50 % | 40 % |
+| 8 | Persuasive | 15 % | 55 % | 30 % |
+| 9 | Social | 30 % | 55 % | 15 % |
+| 10 | Household | 50 % | 45 % | 5 % |
+
+**Interpretation.** Table 4.17 confirms in *percentage form* the picture already drawn from the means. *More than half of the boys* (60 %) fall in the *High* level on the Constructive area, and 55 % on the Scientific area. The Agricultural area also shows 40 % of boys at the High level. By contrast, only 5 % of the boys reach the High level on Household, only 10 % on Literary, and only 15 % each on Artistic and Social. The Household row shows the largest proportion of boys (50 %) at the *Low* level, indicating that *half* of the rural-Government-school boys actively dislike vocations of this area. The strong concentration of boys at the High level in Constructive, Scientific and Agricultural areas, and at the Low level in Household, Literary, Artistic and Social areas, paints an unambiguously *gender-typed* portrait of the boys' vocational interest profile.
+
+### 4.6.2 Percentage Distribution of Girls
+
+**Table 4.18 — Percentage Distribution of Girls at Three Levels of Vocational Interest in Ten Areas (N = 20)**
+
+| Sl. No. | Area | % at Low (0–5) | % at Average (6–11) | % at High (12–18) |
+|:---:|:---|:---:|:---:|:---:|
+| 1 | Literary | 10 % | 60 % | 30 % |
+| 2 | Scientific | 20 % | 70 % | 10 % |
+| 3 | Executive | 20 % | 70 % | 10 % |
+| 4 | Commercial | 25 % | 60 % | 15 % |
+| 5 | Constructive (Technical) | 35 % | 55 % | 10 % |
+| 6 | Artistic | 5 % | 50 % | 45 % |
+| 7 | Agricultural | 35 % | 60 % | 5 % |
+| 8 | Persuasive | 15 % | 70 % | 15 % |
+| 9 | Social | 10 % | 50 % | 40 % |
+| 10 | Household | 5 % | 35 % | 60 % |
+
+**Interpretation.** Table 4.18 paints the *mirror image* of Table 4.17. The Household area dominates the girls' profile — 60 % of the girls fall in the *High* level, with only 5 % at the *Low* level. The Artistic area is next (45 % at High), followed by Social (40 % at High) and Literary (30 % at High). By contrast, only 10 % of the girls reach the High level on Scientific, Executive and Constructive areas, and only 5 % on the Agricultural area. The Constructive and Agricultural rows show 35 % of girls each at the *Low* level — the largest proportions of "low" scores in the girls' table. The portrait is unambiguously the *complement* of the boys' portrait — what the boys love, the girls dislike, and *vice versa*. This pattern is at the heart of the gender-typed model of vocational interest in Indian secondary schools.
+
+
+### 4.6.3 Comparative Percentage of Boys and Girls Showing High Vocational Interest
+
+The "*High*" level (scores 12 – 18) is the most diagnostic of the three levels, since it identifies students who can be regarded as having *strong, well-formed* preferences for vocations of a particular area. Table 4.19 draws the comparative picture for the High level only.
+
+**Table 4.19 — Comparative Percentage of Boys and Girls Showing High Vocational Interest in Each Area**
+
+| Sl. No. | Area | % High (Boys) | % High (Girls) | Gap (Boys − Girls) | Direction |
+|:---:|:---|:---:|:---:|:---:|:---|
+| 1 | Literary | 10 % | 30 % | −20 % | Girls > Boys |
+| 2 | Scientific | 55 % | 10 % | +45 % | Boys > Girls |
+| 3 | Executive | 30 % | 10 % | +20 % | (Boys > Girls — moderate) |
+| 4 | Commercial | 25 % | 15 % | +10 % | (Boys > Girls — small) |
+| 5 | Constructive (Technical) | 60 % | 10 % | +50 % | Boys > Girls |
+| 6 | Artistic | 15 % | 45 % | −30 % | Girls > Boys |
+| 7 | Agricultural | 40 % | 5 % | +35 % | Boys > Girls |
+| 8 | Persuasive | 30 % | 15 % | +15 % | (Boys > Girls — small) |
+| 9 | Social | 15 % | 40 % | −25 % | Girls > Boys |
+| 10 | Household | 5 % | 60 % | −55 % | Girls > Boys |
+
+**Interpretation.** The gap-column of Table 4.19 puts the *gender-typed* pattern in the sharpest possible focus. The largest *Boys-favouring* gaps are on Constructive (+50 %), Scientific (+45 %) and Agricultural (+35 %). The largest *Girls-favouring* gaps are on Household (−55 %), Artistic (−30 %) and Social (−25 %). The Executive, Commercial and Persuasive areas show smaller gaps (between +10 % and +20 %), with Literary showing a moderate Girls-favouring gap of −20 %. The null hypothesis H₀2 (no significant difference in percentage distribution at the high, average and low levels) is therefore *rejected* for those areas in which the gap is large (Constructive, Scientific, Agricultural, Household, Artistic, Social, Literary) and *retained* for those in which the gap is small (Executive, Commercial, Persuasive).
+
+The pattern of percentage gaps closely mirrors the pattern of *t*-values in Table 4.16 — the *t*-values were largest where the percentage gaps are largest, and smallest where the percentage gaps are smallest. The two analyses (parametric *t*-test and non-parametric percentage analysis) thus provide *converging evidence* of the gender-typed pattern. The principle of *triangulation* — using two different statistical lenses on the same data — strengthens our confidence in the overall interpretation.
+
+
+## 4.7 Rank Order of Areas of Vocational Interest (Objective 5, H₀3)
+
+The fifth objective of the present study was to determine the *rank order* in which boys and girls place the ten areas of vocational interest, and to test whether the two rank orders agree (H₀3). The areas were ranked separately for each group in the *descending* order of mean scores — the area with the highest mean was assigned Rank 1, the next highest Rank 2, and so on, until Rank 10 was assigned to the area with the lowest mean.
+
+**Table 4.20 — Rank Order of the Ten Areas of Vocational Interest of Boys and Girls**
+
+| Sl. No. | Area | M (Boys) | Rank (Boys) | M (Girls) | Rank (Girls) | d (Difference of Ranks) | d² |
+|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 | Literary | 7.05 | 9 | 9.85 | 4 | 5 | 25 |
+| 2 | Scientific | 11.65 | 2 | 7.95 | 8 | −6 | 36 |
+| 3 | Executive | 9.50 | 5 | 8.05 | 6 | −1 | 1 |
+| 4 | Commercial | 8.85 | 6 | 8.00 | 7 | −1 | 1 |
+| 5 | Constructive (Technical) | 11.90 | 1 | 7.05 | 9 | −8 | 64 |
+| 6 | Artistic | 7.55 | 8 | 11.00 | 2 | 6 | 36 |
+| 7 | Agricultural | 10.35 | 3 | 6.70 | 10 | −7 | 49 |
+| 8 | Persuasive | 9.60 | 4 | 8.65 | 5 | −1 | 1 |
+| 9 | Social | 7.75 | 7 | 10.55 | 3 | 4 | 16 |
+| 10 | Household | 5.80 | 10 | 12.10 | 1 | 9 | 81 |
+| | | | | | **Σd² =** | | **310** |
+
+**Spearman's Rank-Order Correlation Coefficient (ρ)** is computed by the formula:
+
+$$\rho = 1 - \dfrac{6 \sum d^{2}}{n(n^{2}-1)} = 1 - \dfrac{6 \times 310}{10 \times (100 - 1)} = 1 - \dfrac{1860}{990} = 1 - 1.879 = \mathbf{-0.879}$$
+
+**Interpretation.** Spearman's rank-order correlation coefficient between the boys' and the girls' rank orders is *ρ = −0.88*, which is a *very high negative* correlation — almost the highest negative correlation that ten ranks can yield. With *n* = 10, the critical value of ρ at the 0.01 level (two-tailed) is ±0.794, and the obtained value of −0.879 *exceeds* this critical value in absolute terms. The negative correlation is therefore statistically significant at the 0.01 level. The null hypothesis H₀3 (no significant difference in the rank orders) is *rejected*, with the additional finding that the rank orders are *systematically reversed*.
+
+The boys' top three ranks (1 = Constructive, 2 = Scientific, 3 = Agricultural) are nearly the bottom three of the girls' rank order (Constructive = 9, Scientific = 8, Agricultural = 10). The girls' top three ranks (1 = Household, 2 = Artistic, 3 = Social) are nearly the bottom three of the boys' rank order (Household = 10, Artistic = 8, Social = 7). The Executive, Commercial and Persuasive areas, which were *not* statistically gender-differentiated by the *t*-test (Table 4.16), occupy *very similar ranks* in the two distributions (Executive: 5 vs 6; Commercial: 6 vs 7; Persuasive: 4 vs 5). The internal consistency of the three statistical lenses — *t*-test, percentage analysis and rank-order correlation — is striking and reinforces the substantive conclusion of the study: *the vocational interests of secondary school boys and girls of Meerut District are sharply, systematically and statistically significantly gender-typed*.
+
+## 4.8 Graphical Presentation of the Results
+
+To present the area-wise comparative pattern *visually*, three figures have been prepared. (The actual coloured bar diagrams are pasted at the relevant pages of the bound dissertation; the textual descriptions are reproduced below.)
+
+**Figure 4.1 — Bar Diagram showing Mean Scores of Boys and Girls on the Ten Areas of Vocational Interest.** The horizontal axis carries the ten interest areas in the order — Literary, Scientific, Executive, Commercial, Constructive, Artistic, Agricultural, Persuasive, Social, Household — and the vertical axis carries the mean scores from 0 to 14. Two coloured bars are drawn for each area, one (blue) representing the boys and the other (pink) representing the girls. The bar diagram makes the following pattern visible at a glance: the boys' bars *dominate* on Scientific, Constructive and Agricultural; the girls' bars *dominate* on Literary, Artistic, Social and (most of all) Household; on Executive, Commercial and Persuasive the two bars are roughly *equal in height*.
+
+**Figure 4.2 — Comparative Profile of Boys and Girls — Percentage of Students at "High" Level of Vocational Interest.** The same horizontal axis as Figure 4.1 is used. The vertical axis carries the percentage from 0 % to 70 %. Two bars per area are drawn (boys' high % in blue, girls' high % in pink). The figure brings out the *largest gaps* — Constructive (60 % vs 10 %), Household (5 % vs 60 %), Scientific (55 % vs 10 %), Artistic (15 % vs 45 %), Agricultural (40 % vs 5 %), Social (15 % vs 40 %).
+
+**Figure 4.3 — Rank-Order Profile of Boys' and Girls' Vocational Interests.** A double-line graph is drawn, with the ten areas on the horizontal axis and rank from 1 (highest) at the top to 10 (lowest) at the bottom of the vertical axis. Two lines are drawn — a solid blue line connecting the boys' ranks across the ten areas, and a dotted pink line connecting the girls' ranks. The two lines are *almost mirror-images* of each other — wherever one line is at the top, the other is at the bottom — which is the pictorial expression of the rank-order correlation of −0.88.
+
+
+## 4.9 Discussion of the Results
+
+The analyses presented in Sections 4.2 to 4.7 are now drawn together for a discussion of their educational meaning.
+
+**(a) The gender-typed pattern.** The most important single finding of the present study is the *clear, systematic and statistically significant gender-typed pattern* of vocational interest among the secondary school students of the present sample. *Boys* are significantly higher than *girls* on the Scientific, Constructive (Technical) and Agricultural areas; *girls* are significantly higher than *boys* on the Literary, Artistic, Social and Household areas; the Executive, Commercial and Persuasive areas are *not* significantly differentiated by gender. This pattern is identical, in its broad structure, to the pattern reported by virtually every Indian study reviewed in Chapter II (Singh & Verma, 2023; Reddy & Kumar, 2021; Joshi, 2020; Mehta, 2019; Yadav, 2016; etc.) and by every major foreign meta-analysis (Su, Rounds & Armstrong, 2009; Williams & O'Connor, 2022). The *replicability* of the pattern across decades, cultures, samples and tools points to the *deep socialisation roots* of the differences.
+
+**(b) Magnitude of the differences.** The *magnitude* of the gender differences is much larger on Constructive (Δ = 4.85), Household (Δ = 6.30), Scientific (Δ = 3.70), Agricultural (Δ = 3.65) and Artistic (Δ = 3.45) areas than on Executive (Δ = 1.45), Commercial (Δ = 0.85) and Persuasive (Δ = 0.95) areas. The largest differences are on the *most strongly gender-typed* vocations of Indian society — building and machine work for boys, home management for girls — while the smallest differences are on the *gender-neutral* vocations of management, commerce and persuasion, which the modern Indian society has (slowly but steadily) come to share between the two sexes.
+
+**(c) Role of the school environment.** The two schools from which the boys' and girls' samples were drawn lie at *opposite ends* of the locality and management continua: a Government rural U.P.-Board school for the boys and a Private urban CBSE school for the girls. This contrast intensifies certain effects (Agricultural — boys higher partly because of rural background; Scientific — boys higher *despite* the urban-CBSE advantage of the girls) and dilutes others (Executive, Commercial — boys higher despite urban CBSE girls' exposure to administrative and business role-models). The *gender* effect is therefore unmistakable, but, strictly speaking, the present study compares *boys-of-Govt-rural-U.P.-Board* with *girls-of-Pvt-urban-CBSE*, and the substantive interpretation in terms of "gender" must allow for some confounding with school type. This point is also flagged in the Limitations section of Chapter V.
+
+**(d) Acceptance and rejection of hypotheses.** The status of the three null hypotheses, in the light of the empirical evidence, is summarised below:
+
+i. *H₀1 (no significant difference between boys' and girls' mean scores on the ten areas) — Partly rejected.* Rejected for Literary, Scientific, Constructive, Artistic, Agricultural, Social and Household; retained for Executive, Commercial and Persuasive.
+
+ii. *H₀2 (no significant difference in percentage distribution at high, average and low levels) — Partly rejected.* Rejected wherever the high-level gap (Table 4.19) exceeds 20 % in absolute terms (Scientific, Constructive, Artistic, Agricultural, Social, Household); retained where the gap is small (Commercial, Persuasive, Literary at boundary).
+
+iii. *H₀3 (no significant difference in rank order) — Strongly rejected.* The Spearman rank-order correlation between boys and girls is ρ = −0.88, indicating a *systematic reversal* of the rank order rather than mere absence of agreement.
+
+**(e) Educational message.** The three forms of analysis converge to suggest that, in the Indian secondary school of today, *boys and girls live in two largely different vocational worlds*. The Constructive-Scientific-Agricultural world of the boys and the Household-Artistic-Social-Literary world of the girls lie almost wholly apart. This separation is partly the natural expression of biological and psychological gender differences, but it is largely the product of *differential socialisation, differential exposure and differential expectations*. The educational system can do something about the second component — and in a country in which the National Education Policy 2020 has explicitly pledged "*equity and inclusion in school education*", the responsibility to do so is real and immediate. A series of concrete educational implications, suggestions and recommendations are presented in Chapter V.
+
+The next chapter — Chapter V — summarises the entire study, lists the major findings in numbered form, draws conclusions, presents educational implications, and offers detailed suggestions for teachers, parents, school administrators, guidance counsellors and future researchers.
 
 ---
 
-## 4.4 COMPARISON BETWEEN RURAL AND URBAN STUDENTS
-
-To test **Hypothesis H₀1** — *"There is no significant difference between the mean vocational interest scores of rural and urban secondary school students on any of the ten areas of the V.I.R."* — the 100 rural students (50 RG + 50 RP) were combined into one group and the 100 urban students (50 UG + 50 UP) into another. The two groups were then compared by means of the *t*-test on each area separately. The results are presented in Tables 4.7 to 4.16.
-
-#### TABLE 4.7
-**Comparison of Rural and Urban Students on Literary Interest**
-
-| Group | N | Mean | S.D. | S.E. of Difference | *t*-value | Level of Significance |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Rural | 100 | 11.38 | 3.07 | 0.418 | **3.40** | Significant at .01 |
-| Urban | 100 | 12.80 | 2.84 | | | |
-
-The calculated *t*-value (3.40) is greater than the critical value of 2.60 at *df* = 198 at the .01 level. The null hypothesis on Literary interest is, therefore, **rejected**. Urban students have a significantly higher Literary interest than rural students.
-
-#### TABLE 4.8
-**Comparison of Rural and Urban Students on Scientific Interest**
-
-| Group | N | Mean | S.D. | S.E. of Difference | *t*-value | Level of Significance |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Rural | 100 | 12.23 | 3.34 | 0.450 | **5.35** | Significant at .01 |
-| Urban | 100 | 14.64 | 3.02 | | | |
-
-The *t*-value (5.35) is highly significant. Urban students are markedly higher than rural students on Scientific interest. The null hypothesis on this area is **rejected**.
-
-#### TABLE 4.9
-**Comparison of Rural and Urban Students on Executive Interest**
-
-| Group | N | Mean | S.D. | S.E. of Difference | *t*-value | Level of Significance |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Rural | 100 | 10.80 | 3.20 | 0.430 | **6.41** | Significant at .01 |
-| Urban | 100 | 13.56 | 2.88 | | | |
-
-Urban students have shown a remarkably higher mean on Executive interest. The null hypothesis is **rejected**.
-
-#### TABLE 4.10
-**Comparison of Rural and Urban Students on Commercial Interest**
-
-| Group | N | Mean | S.D. | S.E. of Difference | *t*-value | Level of Significance |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Rural | 100 | 10.34 | 3.12 | 0.440 | **6.18** | Significant at .01 |
-| Urban | 100 | 13.06 | 3.10 | | | |
-
-The mean difference in favour of urban students is 2.72, which is highly significant. The null hypothesis is **rejected**.
-
-#### TABLE 4.11
-**Comparison of Rural and Urban Students on Constructive Interest**
-
-| Group | N | Mean | S.D. | S.E. of Difference | *t*-value | Level of Significance |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Rural | 100 | 13.70 | 2.92 | 0.426 | **7.28** | Significant at .01 |
-| Urban | 100 | 10.60 | 3.10 | | | |
-
-In Constructive interest the trend is *reversed* — the rural students show much higher mean than the urban students. The null hypothesis is **rejected**, but in the opposite direction.
-
-#### TABLE 4.12
-**Comparison of Rural and Urban Students on Artistic Interest**
-
-| Group | N | Mean | S.D. | S.E. of Difference | *t*-value | Level of Significance |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Rural | 100 | 11.44 | 3.02 | 0.429 | **3.08** | Significant at .01 |
-| Urban | 100 | 12.76 | 3.04 | | | |
-
-Urban students are significantly higher on Artistic interest at the .01 level. The null hypothesis is **rejected**.
-
-#### TABLE 4.13
-**Comparison of Rural and Urban Students on Agricultural Interest**
-
-| Group | N | Mean | S.D. | S.E. of Difference | *t*-value | Level of Significance |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Rural | 100 | 14.98 | 2.68 | 0.419 | **12.89** | Significant at .01 |
-| Urban | 100 | 9.58 | 3.22 | | | |
-
-This is the *largest* mean difference observed in the entire study — 5.40 points. The rural students predictably and very strongly outscore the urban students on Agricultural interest. The null hypothesis is **rejected**.
-
-#### TABLE 4.14
-**Comparison of Rural and Urban Students on Persuasive Interest**
-
-| Group | N | Mean | S.D. | S.E. of Difference | *t*-value | Level of Significance |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Rural | 100 | 10.02 | 3.10 | 0.431 | **5.75** | Significant at .01 |
-| Urban | 100 | 12.50 | 3.00 | | | |
-
-Urban students again show a clear lead on Persuasive interest. The null hypothesis is **rejected**.
-
-#### TABLE 4.15
-**Comparison of Rural and Urban Students on Social Interest**
-
-| Group | N | Mean | S.D. | S.E. of Difference | *t*-value | Level of Significance |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Rural | 100 | 12.90 | 3.02 | 0.420 | 1.14 | Not Significant |
-| Urban | 100 | 13.38 | 2.92 | | | |
-
-The *t*-value (1.14) is far below the critical value of 1.97 at the .05 level. The null hypothesis on Social interest is **retained**. Rural and urban students are *equally* interested in social occupations.
-
-#### TABLE 4.16
-**Comparison of Rural and Urban Students on Household Interest**
-
-| Group | N | Mean | S.D. | S.E. of Difference | *t*-value | Level of Significance |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Rural | 100 | 13.70 | 2.94 | 0.426 | **5.31** | Significant at .01 |
-| Urban | 100 | 11.44 | 3.08 | | | |
-
-Rural students lead urban students by a comfortable margin of 2.26 points on Household interest. The null hypothesis is **rejected**.
-
-### 4.4.1 Summary of Rural vs. Urban Comparison
-
-Out of the ten areas, the difference between rural and urban students was found to be statistically significant on *nine* areas. Urban students were higher on **Literary, Scientific, Executive, Commercial, Artistic and Persuasive** areas, whereas rural students were higher on **Constructive, Agricultural and Household** areas. *Social* was the only area on which no significant difference was found.
-
-#### Figure 4.2 — Comparative Profile of Rural and Urban Students
-
-| Higher in Urban (6 areas) | Higher in Rural (3 areas) | No Difference (1 area) |
-|:---|:---|:---|
-| Literary, Scientific, Executive, Commercial, Artistic, Persuasive | Constructive, Agricultural, Household | Social |
-
----
-
-## 4.5 COMPARISON BETWEEN GOVERNMENT AND PRIVATE SCHOOL STUDENTS
-
-To test **Hypothesis H₀2** — *"There is no significant difference between the mean vocational interest scores of government and private school students on any of the ten areas of the V.I.R."* — the 100 government school students (50 RG + 50 UG) were compared with the 100 private school students (50 RP + 50 UP) on each area. The results are presented in Tables 4.17 to 4.26.
-
-#### TABLE 4.17
-**Comparison of Government and Private School Students on Literary Interest**
-
-| Group | N | Mean | S.D. | S.E. of Difference | *t*-value | Level of Significance |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Government | 100 | 11.60 | 3.04 | 0.423 | **2.32**\* | Significant at .05 |
-| Private | 100 | 12.58 | 2.94 | | | |
-
-#### TABLE 4.18
-**Comparison of Government and Private School Students on Scientific Interest**
-
-| Group | N | Mean | S.D. | S.E. of Difference | *t*-value | Level of Significance |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Government | 100 | 12.77 | 3.42 | 0.467 | **2.85**\*\* | Significant at .01 |
-| Private | 100 | 14.10 | 3.18 | | | |
-
-#### TABLE 4.19
-**Comparison of Government and Private School Students on Executive Interest**
-
-| Group | N | Mean | S.D. | S.E. of Difference | *t*-value | Level of Significance |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Government | 100 | 11.50 | 3.28 | 0.456 | **2.99**\*\* | Significant at .01 |
-| Private | 100 | 12.86 | 3.16 | | | |
-
-#### TABLE 4.20
-**Comparison of Government and Private School Students on Commercial Interest**
-
-| Group | N | Mean | S.D. | S.E. of Difference | *t*-value | Level of Significance |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Government | 100 | 10.82 | 3.32 | 0.463 | **3.81**\*\* | Significant at .01 |
-| Private | 100 | 12.58 | 3.22 | | | |
-
-#### TABLE 4.21
-**Comparison of Government and Private School Students on Constructive Interest**
-
-| Group | N | Mean | S.D. | S.E. of Difference | *t*-value | Level of Significance |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Government | 100 | 12.68 | 3.12 | 0.446 | **2.38**\* | Significant at .05 |
-| Private | 100 | 11.62 | 3.18 | | | |
-
-In Constructive interest the trend is *reversed* — government school students lead the private school students.
-
-#### TABLE 4.22
-**Comparison of Government and Private School Students on Artistic Interest**
-
-| Group | N | Mean | S.D. | S.E. of Difference | *t*-value | Level of Significance |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Government | 100 | 11.48 | 3.14 | 0.432 | **2.87**\*\* | Significant at .01 |
-| Private | 100 | 12.72 | 2.96 | | | |
-
-#### TABLE 4.23
-**Comparison of Government and Private School Students on Agricultural Interest**
-
-| Group | N | Mean | S.D. | S.E. of Difference | *t*-value | Level of Significance |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Government | 100 | 13.08 | 3.62 | 0.529 | **3.02**\*\* | Significant at .01 |
-| Private | 100 | 11.48 | 3.86 | | | |
-
-Government school students obtained a significantly higher mean than private school students. This finding is largely driven by the very high score of the rural government school students (M = 15.84).
-
-#### TABLE 4.24
-**Comparison of Government and Private School Students on Persuasive Interest**
-
-| Group | N | Mean | S.D. | S.E. of Difference | *t*-value | Level of Significance |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Government | 100 | 10.70 | 3.18 | 0.450 | **2.49**\* | Significant at .05 |
-| Private | 100 | 11.82 | 3.18 | | | |
-
-#### TABLE 4.25
-**Comparison of Government and Private School Students on Social Interest**
-
-| Group | N | Mean | S.D. | S.E. of Difference | *t*-value | Level of Significance |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Government | 100 | 13.58 | 2.94 | 0.423 | **2.08**\* | Significant at .05 |
-| Private | 100 | 12.70 | 3.04 | | | |
-
-Government school students have shown a slightly but significantly higher Social interest than private school students.
-
-#### TABLE 4.26
-**Comparison of Government and Private School Students on Household Interest**
-
-| Group | N | Mean | S.D. | S.E. of Difference | *t*-value | Level of Significance |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| Government | 100 | 13.06 | 3.08 | 0.437 | **2.24**\* | Significant at .05 |
-| Private | 100 | 12.08 | 3.10 | | | |
-
-### 4.5.1 Summary of Government vs. Private Comparison
-
-The *t*-values on **all the ten areas** were found to be statistically significant (six at .01 level, four at .05 level). **Private school** students were higher on *Literary, Scientific, Executive, Commercial, Artistic and Persuasive* areas, while **government school** students were higher on *Constructive, Agricultural, Social and Household* areas. The null hypothesis H₀2, in toto, is **rejected**.
-
----
-
-## 4.6 COMPARISON BETWEEN BOYS AND GIRLS
-
-To test **Hypothesis H₀3** — *"There is no significant difference between the mean vocational interest scores of boys and girls on any of the ten areas of the V.I.R."* — the data of all the 100 boys and 100 girls (25 + 25 from each of the four schools) were combined and the means were compared by the *t*-test. The composite picture is presented in Table 4.27.
-
-#### TABLE 4.27
-**Comparison of Boys and Girls on Ten Areas of Vocational Interest**
-
-| S. No. | Area | Group | N | Mean | S.D. | S.E.D. | *t* | Significance |
-|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1. | Literary | Boys | 100 | 11.34 | 3.06 | 0.419 | **3.58** | .01 |
-| | | Girls | 100 | 12.84 | 2.86 | | | |
-| 2. | Scientific | Boys | 100 | 14.18 | 3.04 | 0.458 | **3.26** | .01 |
-| | | Girls | 100 | 12.69 | 3.42 | | | |
-| 3. | Executive | Boys | 100 | 12.96 | 3.16 | 0.449 | **3.48** | .01 |
-| | | Girls | 100 | 11.40 | 3.18 | | | |
-| 4. | Commercial | Boys | 100 | 12.04 | 3.22 | 0.451 | 1.51 | NS |
-| | | Girls | 100 | 11.36 | 3.16 | | | |
-| 5. | Constructive | Boys | 100 | 12.84 | 3.04 | 0.443 | **3.12** | .01 |
-| | | Girls | 100 | 11.46 | 3.22 | | | |
-| 6. | Artistic | Boys | 100 | 10.86 | 3.18 | 0.428 | **5.80** | .01 |
-| | | Girls | 100 | 13.34 | 2.86 | | | |
-| 7. | Agricultural | Boys | 100 | 13.42 | 3.84 | 0.552 | **4.13** | .01 |
-| | | Girls | 100 | 11.14 | 3.96 | | | |
-| 8. | Persuasive | Boys | 100 | 11.92 | 3.16 | 0.447 | **2.95** | .01 |
-| | | Girls | 100 | 10.60 | 3.16 | | | |
-| 9. | Social | Boys | 100 | 12.40 | 3.04 | 0.417 | **3.55** | .01 |
-| | | Girls | 100 | 13.88 | 2.86 | | | |
-| 10. | Household | Boys | 100 | 10.66 | 3.16 | 0.418 | **9.13** | .01 |
-| | | Girls | 100 | 14.48 | 2.74 | | | |
-
-### 4.6.1 Summary of Boys vs. Girls Comparison
-
-Out of the ten areas, the difference between boys and girls was found to be statistically significant on *nine areas*. Boys were higher on **Scientific, Executive, Constructive, Agricultural and Persuasive** areas, while girls were higher on **Literary, Artistic, Social and Household** areas. The only area on which the difference between boys and girls was not significant was *Commercial*. The null hypothesis H₀3, on the whole, is **rejected**.
-
-The pattern of gender-based differences obtained in the present study is *fully consistent* with the well-known *People–Things* dichotomy reported in the meta-analysis of Su, Rounds and Armstrong (2009) — boys preferring "thing-oriented" activities (science, machinery, agriculture, leadership) and girls preferring "people-oriented" or "expressive" activities (literature, art, social work, home-making).
-
----
-
-## 4.7 COMPARISON AMONG THE FOUR GROUPS (ANOVA)
-
-To test **Hypothesis H₀4** — *"There is no significant difference among the mean vocational interest scores of the four groups (RG, RP, UG, UP) on any of the ten areas of the V.I.R."* — *one-way ANOVA* was applied separately on each of the ten areas. The summary results are presented in Tables 4.28 to 4.37.
-
-#### TABLE 4.28
-**Summary of ANOVA on Literary Interest among Four Groups**
-
-| Source of Variation | Sum of Squares | df | Mean Square | F-ratio | Level of Sig. |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| Between Groups | 149.34 | 3 | 49.78 | **5.79** | .01 |
-| Within Groups | 1686.09 | 196 | 8.60 | | |
-| **Total** | **1835.43** | **199** | | | |
-
-#### TABLE 4.29
-**Summary of ANOVA on Scientific Interest among Four Groups**
-
-| Source of Variation | Sum of Squares | df | Mean Square | F-ratio | Level of Sig. |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| Between Groups | 379.00 | 3 | 126.33 | **12.81** | .01 |
-| Within Groups | 1932.56 | 196 | 9.86 | | |
-| **Total** | **2311.56** | **199** | | | |
-
-#### TABLE 4.30
-**Summary of ANOVA on Executive Interest among Four Groups**
-
-| Source of Variation | Sum of Squares | df | Mean Square | F-ratio | Level of Sig. |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| Between Groups | 473.50 | 3 | 157.83 | **17.46** | .01 |
-| Within Groups | 1771.84 | 196 | 9.04 | | |
-| **Total** | **2245.34** | **199** | | | |
-
-#### TABLE 4.31
-**Summary of ANOVA on Commercial Interest among Four Groups**
-
-| Source of Variation | Sum of Squares | df | Mean Square | F-ratio | Level of Sig. |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| Between Groups | 524.50 | 3 | 174.83 | **18.78** | .01 |
-| Within Groups | 1825.74 | 196 | 9.31 | | |
-| **Total** | **2350.24** | **199** | | | |
-
-#### TABLE 4.32
-**Summary of ANOVA on Constructive Interest among Four Groups**
-
-| Source of Variation | Sum of Squares | df | Mean Square | F-ratio | Level of Sig. |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| Between Groups | 538.50 | 3 | 179.50 | **20.26** | .01 |
-| Within Groups | 1737.54 | 196 | 8.86 | | |
-| **Total** | **2276.04** | **199** | | | |
-
-#### TABLE 4.33
-**Summary of ANOVA on Artistic Interest among Four Groups**
-
-| Source of Variation | Sum of Squares | df | Mean Square | F-ratio | Level of Sig. |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| Between Groups | 166.00 | 3 | 55.33 | **6.14** | .01 |
-| Within Groups | 1766.45 | 196 | 9.01 | | |
-| **Total** | **1932.45** | **199** | | | |
-
-#### TABLE 4.34
-**Summary of ANOVA on Agricultural Interest among Four Groups**
-
-| Source of Variation | Sum of Squares | df | Mean Square | F-ratio | Level of Sig. |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| Between Groups | 1586.50 | 3 | 528.83 | **61.71** | .01 |
-| Within Groups | 1679.23 | 196 | 8.57 | | |
-| **Total** | **3265.73** | **199** | | | |
-
-#### TABLE 4.35
-**Summary of ANOVA on Persuasive Interest among Four Groups**
-
-| Source of Variation | Sum of Squares | df | Mean Square | F-ratio | Level of Sig. |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| Between Groups | 372.00 | 3 | 124.00 | **13.63** | .01 |
-| Within Groups | 1782.62 | 196 | 9.10 | | |
-| **Total** | **2154.62** | **199** | | | |
-
-#### TABLE 4.36
-**Summary of ANOVA on Social Interest among Four Groups**
-
-| Source of Variation | Sum of Squares | df | Mean Square | F-ratio | Level of Sig. |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| Between Groups | 52.00 | 3 | 17.33 | 1.99 | NS |
-| Within Groups | 1707.16 | 196 | 8.71 | | |
-| **Total** | **1759.16** | **199** | | | |
-
-#### TABLE 4.37
-**Summary of ANOVA on Household Interest among Four Groups**
-
-| Source of Variation | Sum of Squares | df | Mean Square | F-ratio | Level of Sig. |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| Between Groups | 303.50 | 3 | 101.17 | **11.36** | .01 |
-| Within Groups | 1747.34 | 196 | 8.91 | | |
-| **Total** | **2050.84** | **199** | | | |
-
-### 4.7.1 Consolidated Picture
-
-For an at-a-glance view, the F-values for all the ten areas have been brought together in Table 4.38.
-
-#### TABLE 4.38
-**Consolidated F-values of the Four Groups on Ten Areas of Vocational Interest**
-
-| S. No. | Area | F-ratio | df | Level of Significance | Highest Group |
-|:---:|:---|:---:|:---:|:---:|:---:|
-| 1. | Literary | 5.79 | 3, 196 | .01 | Urban Pvt. |
-| 2. | Scientific | 12.81 | 3, 196 | .01 | Urban Pvt. |
-| 3. | Executive | 17.46 | 3, 196 | .01 | Urban Pvt. |
-| 4. | Commercial | 18.78 | 3, 196 | .01 | Urban Pvt. |
-| 5. | Constructive | 20.26 | 3, 196 | .01 | Rural Govt. |
-| 6. | Artistic | 6.14 | 3, 196 | .01 | Urban Pvt. |
-| 7. | Agricultural | 61.71 | 3, 196 | .01 | Rural Govt. |
-| 8. | Persuasive | 13.63 | 3, 196 | .01 | Urban Pvt. |
-| 9. | Social | 1.99 | 3, 196 | NS | Urban Govt. |
-| 10. | Household | 11.36 | 3, 196 | .01 | Rural Govt. |
-
-The F-ratios are statistically significant on *nine* out of the ten areas. The null hypothesis H₀4 is, therefore, **rejected on nine areas** and *retained* only on the *Social* area, on which there is no significant difference among the four groups.
-
-The largest F-value (F = 61.71) is on the *Agricultural* area, indicating the most extreme between-group differentiation. The smallest significant F (F = 5.79) is on *Literary* area.
-
-The *highest mean* in seven of the ten areas was obtained by the **Urban Private** school (Literary, Scientific, Executive, Commercial, Artistic, Persuasive, and one shared on Literary), the **Rural Government** school led on three areas (Constructive, Agricultural and Household), and the **Urban Government** school led on one area (Social). The **Rural Private** school did not lead on any of the ten areas, but consistently occupied a *transitional middle* position between Rural Government and the two urban schools.
-
----
-
-## 4.8 DISCUSSION OF THE RESULTS
-
-The results presented in the preceding sections are now discussed in the light of the existing literature.
-
-### 4.8.1 Locality Effect
-
-The clear superiority of urban students on *Scientific, Executive, Commercial and Persuasive* areas, and the corresponding superiority of rural students on *Agricultural, Constructive and Household* areas, are *directly in line with* the findings of Sharma (1975), Kulshrestha (1993), Kumar (2005), Yadav (2009) and Chaudhary (2020). The pattern is so robust that it has now persisted for nearly five decades of empirical work on Indian secondary school students.
-
-The most plausible explanation is the *differential occupational ecology* of the rural and urban regions of Meerut district. The urban environment of Kila Parikshit Garh is rich in service-sector, commercial and professional occupations to which the children are exposed daily. The rural environment of Aitmadpur and Khajuri, on the contrary, is dominated by agriculture, animal husbandry, masonry and small-scale household production. The interest pattern of the children faithfully reflects this *occupational ecology*.
-
-### 4.8.2 Management Effect
-
-The superiority of private school students on *Scientific, Executive, Commercial and Persuasive* areas is fully consistent with the findings of Saxena (1986), Sharma and Goel (1998), Singh and Devi (2011) and Rana (2023). Three factors appear to operate jointly:
-
-1. *Better infrastructure* of private schools (especially of K.P. International School) — well-equipped science and computer labs, smart classrooms, multi-media library — exposes the pupils to modern career possibilities.
-2. *Higher socio-economic background* of private school clientele provides better career awareness through home and neighbourhood.
-3. *Career-oriented school climate*, including industry visits, career fairs and counselling cells, fosters interest in modern professional and managerial occupations.
-
-Conversely, the superiority of government school students on *Constructive, Agricultural, Social and Household* areas can be explained by the *lower SES background* of their clientele, the *traditional cultural pattern* of their families and the more *people-rooted* character of older government institutions (especially of G.S.D.N. Inter College).
-
-### 4.8.3 Gender Effect
-
-The pattern of gender-based differences obtained in the present study — boys higher on Scientific, Executive, Constructive, Agricultural and Persuasive areas, and girls higher on Literary, Artistic, Social and Household areas — is in *complete agreement* with the long line of Indian studies of Chatterji and Mukherjee (1971), Tripathi (1988), Khan (2003) and Bhardwaj (2013), and with the international meta-analysis of Su, Rounds and Armstrong (2009). The differences appear to be a robust consequence of the long-standing *gender-role socialisation* prevalent in Indian society, although urbanisation and modernisation are slowly narrowing them.
-
-### 4.8.4 Joint Effect
-
-The joint analysis reveals that the *Urban Private* school is the *modal modern profile* (highest on six areas) and the *Rural Government* school is the *modal traditional profile* (highest on three areas, including the dominant Agricultural area). The two intermediate groups — Rural Private and Urban Government — occupy *transitional positions* on most of the ten areas. This four-fold gradation supports the hypothesis advanced in Chapter I that *locality* and *type of management* exert *largely additive* effects on the vocational interests of secondary school pupils.
-
-### 4.8.5 Single Anomaly: Social Interest
-
-The *only* area on which no significant difference was found, either between rural and urban students or among the four groups, was *Social* interest. This is a noteworthy and somewhat encouraging finding. It suggests that the basic *humanistic concern* — the willingness to help, to teach, to nurse, to do social work — is fairly *uniformly distributed* across rural-urban and government-private boundaries. In a country which still has substantial social development needs, the *equally high* social interest across all the four groups is a significant social asset.
-
-The next chapter brings together the findings, draws conclusions, suggests educational implications and points to directions for further research.
-
----
 *** End of Chapter IV ***

@@ -1,6 +1,8 @@
-# A Comparative Study of Vocational Interests of Secondary School Students of Rural and Urban Areas in Government and Private Schools of Meerut District
+# A Comparative Study of the Vocational Interests of Boys and Girls Studying at Secondary Level
 
 **M.Ed. Dissertation — Chaudhary Charan Singh University, Meerut — Session 2025–2026**
+
+*(Submitted through Meerut College, Meerut)*
 
 ---
 
@@ -8,58 +10,64 @@
 
 | File | Section | Approx. Pages |
 |:---|:---|:---:|
-| `00_front_matter.md` | Title page, Certificate, Declaration, Acknowledgement, Table of Contents, List of Tables (38), List of Figures, Abstract | i – xii (≈ 12) |
-| `01_chapter1_introduction.md` | **Chapter I — Introduction:** concept of interest, vocational interest, theories (Parsons, Super, Ginzberg, Holland, Roe), need & significance, statement of the problem, operational definitions, **5 objectives**, **4 null hypotheses**, **8 delimitations**. | 1 – 18 (≈ 18) |
-| `02_chapter2_review_of_literature.md` | **Chapter II — Review of Related Literature:** 28 Indian studies (1971–2023) and 12 foreign studies, critical appraisal and identified research gap. | 19 – 42 (≈ 24) |
-| `03_chapter3_methodology.md` | **Chapter III — Methodology:** survey method, 2 × 2 factorial descriptive design, multi-stage stratified random sampling, description of the four sample schools, complete description of S.P. Kulshrestha's **Vocational Interest Record**, reliability & validity, scoring, statistical techniques (M, SD, t-test, one-way ANOVA). | 43 – 56 (≈ 14) |
-| `04_chapter4_analysis_interpretation.md` | **Chapter IV — Analysis and Interpretation of Data:** 31 analysis tables — area-wise M & SD for each of the four groups, rank order, full t-tests for Rural vs. Urban, Govt. vs. Pvt., Boys vs. Girls, complete one-way ANOVA on all 10 areas, consolidated F-table, full interpretation. | 57 – 86 (≈ 30) |
-| `05_chapter5_summary_findings.md` | **Chapter V — Summary, Findings, Conclusions, Educational Implications, Suggestions for Further Research, Limitations:** 45 numbered findings, consolidated picture table, 13 educational implications, 10 suggestions, 7 limitations. | 87 – 96 (≈ 10) |
-| `06_bibliography.md` | **Bibliography:** 90 entries — books (40), journals/dissertations (33), policy documents (7), websites (10). | 97 – 101 (≈ 5) |
-| `07_appendices.md` | **Appendices A – F:** Permission letter, sample VIR items in 10 areas, specimen answer-sheet, specimen raw-score sheets of all four schools, list of sample schools with addresses, school certificate format. | 102 – 110 (≈ 9) |
-| **Total** | | **≈ 122 pages** |
+| `00_front_matter.md` | Title page, Certificate, Declaration, Acknowledgement, Preface, Table of Contents, List of Tables (23), List of Figures (4), Abstract | i – xii (≈ 12) |
+| `01_chapter1_introduction.md` | **Chapter I — Introduction:** concept of interest, vocational interest, definitions by Super, Strong, Holland and Kulshrestha; theories of vocational development (Parsons, Super, Ginzberg, Holland); secondary education in India; gender differences in career choice; **5 objectives**, **3 null hypotheses**, **8 delimitations**, **5 assumptions**, **6 operational definitions**. | 1 – 17 (≈ 17) |
+| `02_chapter2_review_of_literature.md` | **Chapter II — Review of Related Literature:** **12 Indian studies** (2016 – 2023) and **6 foreign studies**, each reported in the standard format (author, year, objectives, method, sample, tool, findings). Critical appraisal and identified research gap. | 18 – 35 (≈ 18) |
+| `03_chapter3_methodology.md` | **Chapter III — Research Methodology:** descriptive survey method; variables; population; **simple random sampling** of 40 students (20 boys + 20 girls); description of the two sample schools; complete description of S.P. Kulshrestha's **Vocational Interest Record (V.I.R., Hindi version)**; reliability & validity; scoring; statistical techniques (Mean, S.D., **t-test**, Percentage Analysis, Spearman ρ); ethical considerations; limitations. | 36 – 49 (≈ 14) |
+| `04_chapter4_analysis_interpretation.md` | **Chapter IV — Data Analysis and Interpretation:** **20 analysis tables** — area-wise frequency distributions, M & SD of boys and girls, ten t-tests with critical-value comparison and substantive interpretation, comparative percentage analysis at high/average/low levels, rank-order analysis with **Spearman ρ = −0.88**, full discussion of results. | 50 – 73 (≈ 24) |
+| `05_chapter5_summary_findings.md` | **Chapter V — Summary, Findings, Conclusions, Educational Implications, Suggestions and Limitations:** **28 numbered findings**, 7 conclusions, 12 educational implications, separate sets of suggestions for teachers (7), parents (7), school administrators (7), guidance counsellors (8) and future researchers (10), 7 limitations, final conclusion. | 74 – 84 (≈ 11) |
+| `06_bibliography.md` | **References / Bibliography (APA 7th edition):** **65 entries** — books (32), journals/dissertations (20), Indian government and policy documents (8), online resources (5). | 85 – 89 (≈ 5) |
+| `07_appendices.md` | **Appendices A – F:** sample items of the V.I.R., specimen permission letter, **complete Master Sheet of raw scores for all 20 boys and all 20 girls** (10 areas each, every row summing to 90), worked-out sample calculations of M, S.D., t-test and Spearman ρ, specimen Answer Sheet of the V.I.R. | 90 – 96 (≈ 7) |
+| **Total** | | **≈ 108 pages** |
 
 ---
 
-## At-a-Glance — The Four Schools and the 200 Students
+## At-a-Glance — The Two Schools and the 40 Students
 
-| Cell | Locality | Management | School | Boys | Girls | Total |
-|:---|:---:|:---:|:---|:---:|:---:|:---:|
-| 1 | Rural | Govt. | Shri Sanskrit Inter College, Aitmadpur, Meerut | 25 | 25 | 50 |
-| 2 | Rural | Private | Amod Memorial Public School, Khajuri, Meerut | 25 | 25 | 50 |
-| 3 | Urban | Govt. | G.S.D.N. Inter College, Kila Parikshit Garh, Meerut | 25 | 25 | 50 |
-| 4 | Urban | Private | K.P. International School, Kila Parikshit Garh, Meerut | 25 | 25 | 50 |
-| | | | **Total** | **100** | **100** | **200** |
+| Group | School | Locality | Management & Board | Class IX | Class X | Total |
+|:---|:---|:---:|:---:|:---:|:---:|:---:|
+| **Boys** | Shri Sanskrit Inter College, Aitmadpur, Kila Parikshit Garh, Meerut | Rural | Government, U.P. Madhyamik Shiksha Parishad | 10 | 10 | **20** |
+| **Girls** | K.P. International School, Kila Parikshit Garh, Meerut | Urban | Private, CBSE | 10 | 10 | **20** |
+| | | | **Total** | **20** | **20** | **40** |
 
 ---
 
 ## Headline Findings
 
-- The **Urban Private** school (K.P. International) was highest on **6 areas** — Literary, Scientific, Executive, Commercial, Artistic, Persuasive.
-- The **Rural Government** school (Shri Sanskrit Inter College) was highest on **3 areas** — Constructive, Agricultural (largest gap of the study), Household.
-- The **Urban Government** school (G.S.D.N. Inter College) was highest on **1 area** — Social.
-- The **Rural Private** school (Amod Memorial) consistently held a *transitional middle* position.
-- One-way ANOVA was significant on **9 of the 10 areas** (only Social area NS).
-- Boys scored higher on Scientific, Executive, Constructive, Agricultural, Persuasive; girls on Literary, Artistic, Social, Household. *Commercial* was the only gender-neutral area.
-- All four null hypotheses were **rejected** for the great majority of the ten interest areas.
+The investigation tested the gender-typed pattern of vocational interest using *Dr. S.P. Kulshrestha's Vocational Interest Record* (90 items, 10 areas, max 18 per area). With df = 38, the critical t-values are *t*₀.₀₅ = 2.024 and *t*₀.₀₁ = 2.711. The ten *t*-tests produced the following picture:
+
+| Area | M (Boys) | M (Girls) | t-value | Sig. | Direction |
+|:---|:---:|:---:|:---:|:---:|:---|
+| Literary | 7.05 | 9.85 | 4.02 | ** | Girls > Boys |
+| Scientific | 11.65 | 7.95 | 4.54 | ** | **Boys > Girls** |
+| Executive | 9.50 | 8.05 | 1.91 | NS | (Boys ≈ Girls) |
+| Commercial | 8.85 | 8.00 | 1.17 | NS | (Boys ≈ Girls) |
+| Constructive (Technical) | 11.90 | 7.05 | 5.96 | ** | **Boys > Girls** |
+| Artistic | 7.55 | 11.00 | 5.07 | ** | **Girls > Boys** |
+| Agricultural | 10.35 | 6.70 | 4.48 | ** | **Boys > Girls** |
+| Persuasive | 9.60 | 8.65 | 1.31 | NS | (Boys ≈ Girls) |
+| Social | 7.75 | 10.55 | 3.93 | ** | **Girls > Boys** |
+| Household | 5.80 | 12.10 | 9.36 | ** | **Girls > Boys** |
+
+*\*\* = significant at the 0.01 level; NS = not significant at the 0.05 level.*
+
+- **Boys top three:** Constructive (1) → Scientific (2) → Agricultural (3).
+- **Girls top three:** Household (1) → Artistic (2) → Social (3).
+- **Spearman rank-order correlation between the two profiles: ρ = −0.88** (significant at 0.01) — the two rank orders are *systematically reversed*.
+- Seven of the ten *t*-values were significant at the 0.01 level. Three (Executive, Commercial, Persuasive) were not significant at the 0.05 level — these are the gender-neutral areas.
+- The single largest gender difference is on **Household** interest (girls 60 % at "high", boys 5 % at "high"); the single largest "boys > girls" difference is on **Constructive (Technical)** interest (boys 60 % at "high", girls 10 % at "high"). Together these two areas form the *signature pattern* of the gender-typed Indian secondary school.
 
 ---
 
-## How to compile to a single document
+## How to Compile the Dissertation into a Single Word Document
 
-Each chapter is a standalone Markdown file. To assemble the complete printable dissertation in CCS University format, concatenate them in numerical order:
+Each chapter is a standalone Markdown file. The repository ships with a Python script — `build_docx.py` — that concatenates the eight files in numerical order, inserts page breaks between chapters, and generates a single `Dissertation_Final.docx` in CCS-University M.Ed. format (Times New Roman 12 pt, 1.5″ left margin, 1″ on the other three sides, double-spaced body, page numbers at the bottom-centre).
 
 ```
-00_front_matter.md
-01_chapter1_introduction.md
-02_chapter2_review_of_literature.md
-03_chapter3_methodology.md
-04_chapter4_analysis_interpretation.md
-05_chapter5_summary_findings.md
-06_bibliography.md
-07_appendices.md
+python3 build_docx.py
 ```
 
-You can paste the contents into a Word document (Times New Roman 12, double-spaced, 1.5″ left margin and 1″ on the other three sides — the standard CCS University M.Ed. dissertation format) or convert via Pandoc:
+Alternatively, you can convert directly with Pandoc:
 
 ```
 pandoc 00_front_matter.md 01_chapter1_introduction.md 02_chapter2_review_of_literature.md \
@@ -72,13 +80,14 @@ pandoc 00_front_matter.md 01_chapter1_introduction.md 02_chapter2_review_of_lite
 
 ## Note for the Researcher
 
-This document is a **complete dissertation template populated with realistic synthetic data** generated for the four schools mentioned. Before final submission you should:
+This document is a **complete dissertation template populated with realistic, internally consistent data** for the two schools listed. Before final submission you should:
 
-1. Replace the candidate name, supervisor name, roll number, enrolment number and dates wherever the placeholders `____________________` appear.
-2. Independently verify the data: although the analysis tables are internally consistent (means → SDs → t-values → F-values), the raw scores were *not* actually collected from the four schools. If your university requires field-collected raw data, please administer the V.I.R. yourself and re-compute. The structure of the analysis will not change.
-3. Obtain signatures and seals on the Certificate, Declaration and Appendix-A and Appendix-F documents.
-4. Get the four images for *Figure 4.1, Figure 4.2 and Figure 4.3* prepared as proper bar diagrams in Excel and paste them at the indicated pages.
-5. Get the document spiral-bound (for evaluation copy) or hard-bound in maroon with golden lettering (for final library copy) as per the C.C.S. University, Meerut guidelines.
+1. Replace the candidate name, supervisor name, roll number, enrolment number and dates wherever the placeholders `____________________` appear (front matter, certificate, declaration, acknowledgement, preface, permission letter in Appendix B, and the closing line of the appendices).
+2. Independently verify the data: although the analysis tables and the raw-score Master Sheets are *internally consistent* (every row in Appendices C and D sums to 90; column sums reproduce the means used in Chapter IV; t-values verified by hand calculation in Appendix E; Spearman ρ verified in Appendix E), the raw scores were *not* actually collected from the two schools. If your university requires field-collected raw data, please administer the V.I.R. yourself and recompute. The structure of the analysis will not change.
+3. Obtain signatures and seals on the Certificate, Declaration and Permission Letter (Appendix B).
+4. Get the three figures of Chapter IV (the Bar Diagram of mean scores, the Comparative Profile of "high" percentages, and the Rank-Order Profile) prepared as proper bar / line diagrams in Excel and paste them at the indicated pages.
+5. Get the document spiral-bound (for evaluation copy) or hard-bound in maroon with golden lettering (for the final library copy) as per the C.C.S. University, Meerut M.Ed. dissertation guidelines.
 
 ---
-*Dissertation prepared in CCS University format — Session 2025–2026.*
+
+*Dissertation prepared in CCS University format — Session 2025–2026 — Meerut College, Meerut.*
