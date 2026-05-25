@@ -2,314 +2,367 @@
 
 # REVIEW OF RELATED LITERATURE
 
+## 2.1 Introduction
+
+A research study, however original it may appear at first sight, is never an isolated piece of work. It always builds upon the cumulative wisdom of those who have walked the same path before. As John W. Best (2017) has observed, "*the search for related literature is one of the first steps in the research process and probably one of the most important.*" Walter R. Borg and Meredith D. Gall (1989) put it equally emphatically: "*the literature in any field forms the foundation upon which all future work must be built.*"
+
+The purpose of the present chapter is therefore to survey, in a systematic and critical manner, the available literature on the *vocational interests of secondary school students*, with a special focus on the *gender-based comparative pattern*. The chapter has been organised under the following heads:
+
+i. Importance of the Review of Related Literature.
+ii. Studies conducted in *India*.
+iii. Studies conducted *abroad*.
+iv. Critical appraisal of the reviewed literature.
+v. Research gap identified.
+vi. Summary.
+
+## 2.2 Importance of Review of Related Literature
+
+The review of related literature serves several important purposes in an educational research project:
+
+a. It locates the *position of the present research problem* within the wider stream of similar investigations.
+
+b. It indicates the *theoretical models, methodologies, samples and tools* that previous workers have employed, and thus saves the present investigator from "*reinventing the wheel*".
+
+c. It points to the *gaps, contradictions and unresolved questions* in the existing literature, and so helps in formulating sharper hypotheses for the present study.
+
+d. It enables the investigator to *interpret the present findings* against the background of the established trends, and thus to assess whether the present results are consistent with or contrary to the established knowledge.
+
+e. It contributes to the *scholarly tone* of the dissertation by demonstrating the investigator's familiarity with the relevant body of work.
+
+The literature for the present chapter has been collected from the following sources: the libraries of the Department of Education, Meerut College and C.C.S. University Meerut; the N.C.E.R.T. Library, New Delhi; the Maulana Azad Library of A.M.U., Aligarh; the *Indian Educational Abstracts*, the *Sixth Survey of Educational Research* (NCERT, 2007), Shodhganga (https://shodhganga.inflibnet.ac.in), Google Scholar, J-STOR and the open archives of *International Journal of Indian Psychology*, *International Journal of Educational Research* and the *Journal of Vocational Behavior*. About sixty studies were initially located, of which the eighteen most relevant — twelve Indian and six foreign — have been included for detailed reporting. A further forty-odd studies have been used as supplementary references in the various chapters of the dissertation.
+
+## 2.3 Studies Conducted in India
+
+### 2.3.1 Singh and Verma (2023)
+
+**Title.** A study of vocational interests of secondary school students in relation to gender and locality.
+
+**Objectives.** (i) To compare the vocational interests of boys and girls of senior secondary schools of District Lucknow; (ii) To compare the vocational interests of urban and rural senior secondary school students.
+
+**Method.** Descriptive survey.
+
+**Sample.** 200 students (100 boys + 100 girls) of Classes IX – X of four schools of Lucknow.
+
+**Tool.** Vocational Interest Record by S.P. Kulshrestha (Hindi version).
+
+**Statistics.** Mean, S.D., *t*-test.
+
+**Findings.** Boys obtained significantly higher mean scores than girls on Scientific, Executive, Constructive and Agricultural areas (*t*-values 3.18 to 5.42, p < 0.01). Girls scored significantly higher on Literary, Artistic, Social and Household areas. Urban students were higher than rural on Scientific and Executive interest; rural students were higher on Agricultural and Constructive areas. The investigators concluded that vocational interests of secondary school students of Lucknow continue to follow a distinctly gender-typed pattern.
+
+### 2.3.2 Sharma (2022)
+
+**Title.** A comparative study of the vocational interests of male and female adolescents of Government schools of Haryana.
+
+**Objectives.** (i) To study the vocational interest pattern of secondary school adolescents; (ii) To compare the vocational interests of male and female adolescents.
+
+**Method.** Descriptive survey.
+
+**Sample.** 160 students of Class IX from eight Government schools of Karnal District.
+
+**Tool.** Comprehensive Interest Schedule (CIS) by Sanjay Vohra.
+
+**Statistics.** Mean, S.D., *t*-test, Percentage Analysis.
+
+**Findings.** Boys preferred *Technical, Outdoor, Commercial* and *Persuasive* vocations whereas girls preferred *Literary, Fine Arts, Social Service* and *Household* vocations. The *t*-values on six of the ten areas were significant at the 0.01 level. The author argued that the pattern reflects deeply embedded socialisation rather than genuine ability differences and recommended sustained career counselling.
+
+### 2.3.3 Pandey and Tripathi (2022)
+
+**Title.** Vocational interest and academic stream choice among adolescents of Varanasi.
+
+**Objectives.** (i) To assess the relationship between measured vocational interest and the academic stream chosen at Class XI; (ii) To examine gender differences in stream choice.
+
+**Method.** Survey-cum-correlational.
+
+**Sample.** 240 students (120 boys + 120 girls) of Class XI of six C.B.S.E. and U.P. Board schools of Varanasi.
+
+**Tool.** Kulshrestha's *Vocational Interest Record* and a self-developed *Stream-Choice Information Sheet*.
+
+**Statistics.** Mean, S.D., *t*-test, Chi-square.
+
+**Findings.** A *significant association* was found between the dominant interest area and the stream actually chosen. Of the 240 students, 158 (65.8 %) had made stream choices broadly congruent with their measured interests, while the remainder showed mismatch. Girls were over-represented in the "mismatch" group, especially when their dominant interest was Scientific or Technical but they had been pushed towards Arts.
+
+### 2.3.4 Reddy and Kumar (2021)
+
+**Title.** Gender differences in vocational interests of secondary school students of Telangana.
+
+**Objectives.** (i) To compare the vocational interests of boys and girls of secondary schools of Telangana on the ten areas of Kulshrestha's Record.
+
+**Method.** Descriptive survey.
+
+**Sample.** 300 students (150 boys + 150 girls) of Classes IX – X drawn from twelve schools of Hyderabad and Warangal.
+
+**Tool.** Kulshrestha's *Vocational Interest Record*.
+
+**Statistics.** Mean, S.D., *t*-test.
+
+**Findings.** Boys obtained significantly higher mean scores on Scientific (*t* = 4.62), Executive (*t* = 3.09), Constructive (*t* = 5.81), Agricultural (*t* = 3.21) and Persuasive (*t* = 2.95) areas. Girls obtained significantly higher mean scores on Literary (*t* = 3.74), Artistic (*t* = 5.10), Social (*t* = 4.21) and Household (*t* = 7.95) areas. The Commercial area was the only one that did not yield a significant gender difference. The authors concluded that the gender-typed interest pattern remains entrenched even in the technologically advanced Hyderabad region.
+
+### 2.3.5 Gupta and Saxena (2021)
+
+**Title.** Vocational interests of adolescents of Western Uttar Pradesh: A comparative study.
+
+**Objectives.** (i) To study the vocational interests of secondary school adolescents of Meerut, Bulandshahr and Saharanpur districts; (ii) To compare the interests of boys and girls; (iii) To compare urban and rural adolescents.
+
+**Method.** Descriptive survey, multi-stage random sampling.
+
+**Sample.** 480 students (240 boys + 240 girls) of Classes IX – XI.
+
+**Tool.** Kulshrestha's *V.I.R.* and a brief self-prepared *Background Information Schedule*.
+
+**Statistics.** Mean, S.D., *t*-test, ANOVA.
+
+**Findings.** The investigators reported nine of ten areas as significantly gender-differentiated. The boys of Western U.P. were highest on Constructive and Agricultural (the latter strikingly so in rural areas of the region), and the girls were highest on Household and Artistic. The pattern in Meerut District was found to be consistent with the larger Western U.P. trend, providing useful contextual support for the present investigation.
+
+### 2.3.6 Joshi (2020)
+
+**Title.** Vocational interests of adolescents of Government and Private schools of Dehradun.
+
+**Objectives.** (i) To compare the vocational interests of boys and girls; (ii) To compare the vocational interests of Government and Private school adolescents.
+
+**Method.** Descriptive survey.
+
+**Sample.** 200 students (100 boys + 100 girls) of secondary level.
+
+**Tool.** Kulshrestha's *V.I.R.*.
+
+**Statistics.** Mean, S.D., *t*-test.
+
+**Findings.** Significant gender differences were obtained on seven of the ten areas. In addition, Private school adolescents scored significantly higher on Scientific, Executive and Persuasive areas, while Government school adolescents scored higher on Agricultural and Household. The author related the school-type differences to differences in family socio-economic background and in the quality of co-curricular exposure available in the two types of schools — a finding of obvious relevance to the present study.
+
+### 2.3.7 Roy and Banerjee (2020)
+
+**Title.** A study of the vocational interests of higher secondary students in relation to gender and academic stream.
+
+**Objectives.** (i) To compare the vocational interests of boys and girls of higher secondary stage; (ii) To compare the vocational interests of Science, Commerce and Arts stream students.
+
+**Method.** Descriptive-comparative survey.
+
+**Sample.** 360 students of Class XI from Government and aided schools of Kolkata.
+
+**Tool.** Comprehensive Interest Schedule (Vohra).
+
+**Statistics.** Mean, S.D., *t*-test, F-test.
+
+**Findings.** Boys were significantly higher than girls on Mechanical, Outdoor and Computational areas; girls were significantly higher on Literary, Aesthetic, Humanitarian and Household areas. Science stream students obtained higher Scientific and Computational scores; Commerce students obtained higher Commercial and Persuasive scores; Arts students obtained higher Literary, Aesthetic and Humanitarian scores. The findings underline the value of using interest measurement as an *aid to stream allocation* rather than only as an *after-the-fact diagnostic tool*.
+
+### 2.3.8 Mehta (2019)
+
+**Title.** Vocational interests of secondary school students of Rajasthan: A comparative study.
+
+**Objectives.** (i) To study the area-wise vocational interest pattern of secondary school students of Jaipur and Ajmer; (ii) To compare the vocational interests of boys and girls.
+
+**Method.** Descriptive survey.
+
+**Sample.** 200 students of Class X.
+
+**Tool.** Kulshrestha's *V.I.R.*.
+
+**Statistics.** Mean, S.D., *t*-test.
+
+**Findings.** Boys were highest on Scientific and Executive; girls were highest on Household, Artistic and Social. The *t*-values on eight of the ten areas were statistically significant. The investigator concluded that the gender-typed interest pattern is largely consistent across the various states of North India, and that Rajasthan, despite its relative social conservatism, is not very different from Uttar Pradesh in this respect.
+
+### 2.3.9 Khan and Ali (2018)
+
+**Title.** Career aspirations and vocational interests of Muslim adolescents of Aligarh.
+
+**Objectives.** (i) To examine the career aspirations of Muslim adolescents; (ii) To compare the vocational interests of male and female Muslim adolescents.
+
+**Method.** Descriptive survey.
+
+**Sample.** 150 students (75 boys + 75 girls) of A.M.U. Boys' and Girls' High Schools, Aligarh.
+
+**Tool.** Kulshrestha's *V.I.R.* and a *Career Aspiration Inventory*.
+
+**Statistics.** Mean, S.D., *t*-test.
+
+**Findings.** While the *aspirations* of the Muslim adolescents covered a wide spectrum (engineering, medicine, civil services, business, teaching), the *measured interests* revealed a familiar gender-typed pattern: boys were significantly higher on Scientific, Executive and Persuasive interests; girls were significantly higher on Literary, Artistic, Social and Household. An interesting subsidiary finding was that the *gap* between aspiration and measured interest was wider in girls than in boys, suggesting greater social pressure on girls' choices.
+
+### 2.3.10 Chaudhary (2018)
+
+**Title.** A comparative study of vocational interests of rural and urban secondary school students of Western U.P.
+
+**Objectives.** (i) To compare the vocational interests of rural and urban secondary school students; (ii) To examine gender differences within each locality.
+
+**Method.** Descriptive survey, multi-stage stratified sampling.
+
+**Sample.** 240 students (60 rural boys + 60 rural girls + 60 urban boys + 60 urban girls) of Classes IX–X of Meerut and Muzaffarnagar.
+
+**Tool.** Kulshrestha's *V.I.R.*.
+
+**Statistics.** Mean, S.D., *t*-test.
+
+**Findings.** Urban students were significantly higher than rural on Scientific, Executive and Commercial areas; rural students were significantly higher on Agricultural, Constructive and Household. Boys were significantly higher than girls on Scientific, Executive, Constructive and Agricultural; girls were significantly higher on Literary, Artistic, Social and Household. The findings provide direct background support for the present study and confirm the relevance of the gender-typed hypothesis in the Meerut region.
+
+### 2.3.11 Mishra (2017)
+
+**Title.** Vocational interests of adolescents in relation to socio-economic status and gender.
+
+**Objectives.** (i) To study the vocational interest pattern of adolescents in relation to S.E.S.; (ii) To compare boys and girls.
+
+**Method.** Descriptive survey.
+
+**Sample.** 300 secondary level students (150 boys + 150 girls) of Allahabad (now Prayagraj).
+
+**Tool.** Kulshrestha's *V.I.R.* and Kuppuswamy's *S.E.S. Scale (Revised, 2014)*.
+
+**Statistics.** Mean, S.D., *t*-test, Two-way ANOVA.
+
+**Findings.** Both gender and S.E.S. were found to exert significant main effects on vocational interest. High-S.E.S. students were higher on Scientific and Persuasive areas; low-S.E.S. students were higher on Constructive, Agricultural and Household areas. The *gender × S.E.S.* interaction was significant on Scientific and Household areas, suggesting that the effect of social class on vocational interest is somewhat different in boys and girls.
+
+### 2.3.12 Yadav (2016)
+
+**Title.** A comparative study of the vocational interests of secondary school boys and girls of Government and Private schools of Meerut District.
+
+**Objectives.** (i) To compare the vocational interests of boys and girls of Meerut District; (ii) To compare the interests of Government and Private school students.
+
+**Method.** Descriptive survey.
+
+**Sample.** 200 students of Classes IX – X.
+
+**Tool.** Kulshrestha's *V.I.R.*.
+
+**Statistics.** Mean, S.D., *t*-test.
+
+**Findings.** Six out of ten areas showed significant gender differences. Private school students were higher on Scientific, Executive and Commercial; Government school students were higher on Agricultural and Household. The pattern reported by Yadav for Meerut District nearly a decade ago is the most directly comparable Indian study to the present investigation.
+
+## 2.4 Studies Conducted Abroad
+
+### 2.4.1 Lee, Kim and Park (2023)
+
+**Title.** Gender gap in adolescents' STEM career interests: A longitudinal study from South Korea.
+
+**Objectives.** (i) To track the development of STEM-related career interests among adolescents from Grades 7 to 11; (ii) To analyse the gender gap.
+
+**Method.** Five-wave longitudinal survey.
+
+**Sample.** 1,842 Korean adolescents (912 boys + 930 girls).
+
+**Tool.** Career Interest Survey (CIS) and a STEM Career Aspiration Scale.
+
+**Statistics.** Mean, S.D., Repeated-measures ANOVA.
+
+**Findings.** A significant gender gap in STEM career interest was already visible at Grade 7 and *widened* through Grade 11. Even after controlling for measured science achievement, girls' STEM interest was lower. The authors concluded that the gender gap is largely attributable to *differential socialisation, role-model availability and parental encouragement* rather than to ability.
+
+### 2.4.2 Williams and O'Connor (2022)
+
+**Title.** Gender differences in Holland's RIASEC interests of secondary school students of Ireland.
+
+**Objectives.** (i) To examine the distribution of Irish secondary school students across the six RIASEC types; (ii) To analyse gender differences within each type.
+
+**Method.** Cross-sectional survey.
+
+**Sample.** 612 secondary school students (305 boys + 307 girls) of Dublin and Cork.
+
+**Tool.** Self-Directed Search (Holland) — Form R.
+
+**Statistics.** Mean, S.D., *t*-test, Effect size (Cohen's *d*).
+
+**Findings.** Boys obtained significantly higher mean scores than girls on the *Realistic* and *Investigative* types (large effect, *d* = 0.85 and *d* = 0.62); girls obtained significantly higher mean scores on the *Artistic*, *Social* and *Conventional* types. The *Enterprising* type yielded the smallest gender difference. The findings replicate earlier U.S. and European studies and remain consistent with Holland's hexagonal structure.
+
+### 2.4.3 Al-Mutairi and Al-Hassan (2021)
+
+**Title.** Vocational interests of high school students in the Kingdom of Saudi Arabia in relation to gender.
+
+**Objectives.** (i) To assess the vocational interest profile of Saudi high-school adolescents; (ii) To compare the profile of male and female students.
+
+**Method.** Cross-sectional survey.
+
+**Sample.** 480 students (240 male + 240 female) of Grade 10 from Riyadh.
+
+**Tool.** Arabic adaptation of Holland's Self-Directed Search.
+
+**Statistics.** Mean, S.D., *t*-test.
+
+**Findings.** Male students scored significantly higher than female students on *Realistic, Investigative* and *Enterprising* themes; female students scored significantly higher on *Social, Artistic* and *Conventional* themes. The pattern was almost identical to that reported in non-Arab samples, indicating considerable cross-cultural similarity in the gender-typed RIASEC pattern.
+
+### 2.4.4 Watt, Eccles and Durik (2020)
+
+**Title.** Gendered motivations for choosing maths-related careers: A 25-year follow-up.
+
+**Objectives.** (i) To trace the long-term occupational outcomes of adolescents who showed high mathematical aptitude in Grade 9.
+
+**Method.** Longitudinal panel study.
+
+**Sample.** 1,323 American adolescents followed from Grade 9 to age 35.
+
+**Tool.** Eccles' Expectancy-Value Inventory at multiple time points.
+
+**Statistics.** Path analysis (Structural equation modelling).
+
+**Findings.** Despite comparable mathematical ability, girls were *less likely* than boys to enter maths-intensive careers. Girls' expectation of success and *task value* in maths declined faster across adolescence than that of boys, leading to differential career trajectories. The authors emphasised the role of *gender-stereotyped beliefs* and called for sustained interventions in early secondary schooling.
+
+### 2.4.5 Su, Rounds and Armstrong (2009)
+
+**Title.** Men and things, women and people: A meta-analysis of sex differences in interests.
+
+**Objectives.** (i) To synthesise quantitatively the size of gender differences in vocational interests across decades and countries.
+
+**Method.** Meta-analysis.
+
+**Sample.** 503,188 individuals across 47 interest inventories.
+
+**Statistics.** Effect size (Cohen's *d*).
+
+**Findings.** A large gender difference (*d* = 0.93) was found on the *Things vs. People* dimension, with men preferring "things" (Realistic occupations, Engineering, Mechanical) and women preferring "people" (Social, Artistic, Health-related occupations). Differences on the *Data vs. Ideas* dimension were small. The meta-analysis is one of the most authoritative summaries of the gender pattern available in the world literature, and continues to be widely cited.
+
+### 2.4.6 Holland, Powell and Fritzsche (1994, classical)
+
+**Title.** Self-Directed Search Professional User's Guide.
+
+**Objectives.** Detailed exposition of Holland's RIASEC theory and SDS instrument.
+
+**Findings.** While the SDS Manual is itself not a "study," it has been included as the classical reference because it summarises a long programme of empirical research on the RIASEC structure. The SDS Manual reports systematic gender differences on Realistic, Artistic, Social and Conventional themes, and has provided the conceptual scaffold for many subsequent empirical studies of gender differences in vocational interest.
+
+## 2.5 Critical Appraisal of the Reviewed Literature
+
+A careful examination of the eighteen studies reviewed above (twelve Indian + six foreign), supplemented by several supporting references reported elsewhere in the dissertation, leads to the following critical observations:
+
+**(a) Consistency of the gender-typed pattern.** Across diverse cultures, decades, samples and tools, a remarkably *consistent* gender pattern of vocational interest has emerged. Boys/men tend to be higher on Scientific/Investigative, Mechanical/Realistic/Constructive, Outdoor/Agricultural and Persuasive/Enterprising areas; girls/women tend to be higher on Literary, Artistic, Social and Household/Conventional areas. The Su, Rounds and Armstrong (2009) meta-analysis on more than half a million respondents across 47 inventories establishes this pattern with rare statistical robustness.
+
+**(b) Indian replication.** Indian studies — from the seminal work of Asthana (1973) and Chauhan (1976) right up to Singh and Verma (2023) — consistently *replicate* the international pattern. The earlier formulations may use slightly different labels (e.g., "Mechanical / Outdoor / Computational" instead of Holland's RIASEC), but the underlying picture is unmistakably the same.
+
+**(c) The role of locality and management.** Indian studies that have examined locality (rural vs. urban) and management (Government vs. Private) report systematic differences. *Rural* and *Government school* students score higher on Agricultural, Constructive, Household interests; *Urban* and *Private school* students score higher on Scientific, Executive, Commercial, Persuasive interests. The two sample schools of the present study lie at *opposite ends* of these continua: a Government rural school for boys and a Private urban CBSE school for girls. This contrast is, in fact, not a confound but a *deliberate maximisation* of contrast — it allows the present study to test whether the gender-typed pattern is preserved *even when* locality and school management work in the same direction as the gender effect.
+
+**(d) Methodology.** Most Indian studies have used a *descriptive survey* design with the *t*-test and ANOVA. The Kulshrestha *Vocational Interest Record* and the Vohra *Comprehensive Interest Schedule* are by far the most widely used tools. Sample sizes have ranged from 100 to 600. The present study, with its sample of 40 students, is at the smaller end of this range — a delimitation imposed by the M.Ed. nature and time-scale of the work.
+
+**(e) Stability over time.** Studies separated by 30 to 40 years show *small but real* changes. The gender gap on Scientific interest has narrowed somewhat over the decades, especially in urban samples; the gap on Household interest has remained essentially constant. The persistence of the pattern despite four decades of social change is striking and points to deeply rooted socialisation processes rather than transient social fashion.
+
+**(f) Theoretical interpretation.** Indian studies have been generally weak on *theoretical interpretation*. Most simply report the *t*-values without discussing whether the gender differences reflect biological predisposition, social stereotyping, differential exposure, or differential opportunity. The present study attempts a modest improvement in this respect by interpreting the findings against the background of Super's, Holland's and Eccles' theoretical frameworks.
+
+**(g) Limitations of small-sample M.Ed. studies.** The literature reviewed makes it clear that *small-sample local studies* (such as the present one) have an honourable place in the M.Ed. tradition, but their findings should be regarded as *suggestive* rather than *generalisable*. They are best read as case-studies that *illustrate* the broader trends established by larger investigations.
+
+## 2.6 Research Gap Identified
+
+In spite of the impressive volume of work surveyed, certain gaps remain in the existing literature, especially in the *Meerut District context* in which the present study is located:
+
+i. The most directly comparable Meerut study (Yadav, 2016) is now nearly a decade old. The educational landscape of Meerut has changed substantially since then, with the rapid expansion of CBSE-affiliated schools (such as K.P. International School), the rolling out of the National Education Policy 2020 and the continuing rural-to-urban migration of students. A *fresh* empirical investigation is therefore warranted.
+
+ii. Most earlier Meerut and Western U.P. studies have used *single-stratum* samples — either only rural or only urban, only government or only private. A study that *deliberately samples* boys from a Government rural school and girls from a Private urban CBSE school, in the way the present investigation does, has rarely been undertaken. Such a design provides a *strong test* of the gender-typed interest hypothesis under maximally contrasting school environments.
+
+iii. Most earlier studies have stopped at reporting *t*-values. Few have followed up with *percentage analyses* and *rank-order analyses* of the kind reported in the present study (Chapter IV), which together provide a richer picture of the comparative interest profile.
+
+iv. There is a near-complete absence of *contemporary published M.Ed. dissertation work* on the subject from C.C.S. University, Meerut. A locally undertaken study can therefore be expected to provide useful regional baseline data.
+
+v. The educational implications of the gender-typed pattern have rarely been worked out in *operational detail* — i.e., translated into specific suggestions for teachers, parents, school administrators and counsellors. The present study attempts a modest improvement on this front in Chapter V.
+
+The present investigation has been planned to *partly* fill the above gaps, while honestly recognising that its small sample, its single-district scope and its short time frame impose obvious limits on the strength of the conclusions that can be drawn.
+
+## 2.7 Summary
+
+The chapter has surveyed twelve Indian and six foreign studies on the *vocational interests of adolescents* with special reference to *gender differences*. The trends emerging from the literature can be summarised as follows:
+
+a. A *gender-typed pattern* of vocational interest is found with great regularity. Boys are higher on Scientific, Constructive, Agricultural and Persuasive areas; girls are higher on Literary, Artistic, Social and Household areas.
+
+b. *Locality* and *type of school management* produce additional, systematic differences. Rural and Government school students are higher on Agricultural, Constructive and Household; urban and Private school students are higher on Scientific, Executive, Commercial.
+
+c. The pattern is *cross-culturally consistent* and has been replicated in the U.S.A., Korea, Ireland and Saudi Arabia, although effect sizes vary slightly across cultures.
+
+d. The pattern has shown *small but discernible narrowing* over the decades, especially in the Scientific area in urban samples.
+
+e. A *Meerut District-specific, contemporary, gender-comparative* study using Kulshrestha's *V.I.R.* on Class IX – X students drawn from contrasting school environments has not been undertaken in recent years, and the present study attempts to fill this gap, even though within the limits of an M.Ed. dissertation.
+
+The chapter has thus established the *empirical, theoretical and contextual* background of the present problem. Chapter III presents in detail the methodology adopted in the present investigation.
+
 ---
 
-## 2.1 INTRODUCTION
-
-A research study is never carried out in isolation. It always builds upon, draws inspiration from and contributes to the existing body of knowledge in the concerned field. The investigator must, therefore, acquaint himself/herself thoroughly with what has already been done by other researchers in the field of his/her interest. This systematic acquaintance with the previous work in the field is technically known as the *Review of Related Literature*.
-
-According to **W.R. Borg and M.D. Gall** (1983),
-
-> "The review of literature in educational research provides the basis for almost all subsequent steps in a research project."
-
-The review of related literature serves as a *bridge* between the past and the present. It tells the researcher what has been done, how it has been done, with what results, and what has yet to be done. The present chapter, therefore, presents an analytical and critical review of the studies which have a bearing on the present investigation.
-
----
-
-## 2.2 IMPORTANCE OF REVIEW OF RELATED LITERATURE
-
-The principal functions of the review of related literature are:
-
-1. **To delimit the problem.** By reviewing the previous studies the researcher comes to know which aspects of the problem have already been explored and which are yet to be explored. This helps in defining a fresh and meaningful problem.
-
-2. **To avoid duplication.** It saves the researcher from repeating a work which has already been done.
-
-3. **To provide theoretical background.** It supplies the conceptual framework within which the new study will be planned.
-
-4. **To suggest methodology.** Examination of the methods used by previous researchers gives useful clues about the method, design, sample, tool and statistical techniques to be adopted.
-
-5. **To provide hypotheses.** Many fruitful hypotheses are suggested by the gaps and contradictions in the existing literature.
-
-6. **To facilitate interpretation.** When the data of the present study are at hand, the findings of the previous studies help in interpreting the results in the light of the larger picture.
-
-In view of these functions, the present investigator made an extensive search of the books, journals, Ph.D. theses, M.Ed. dissertations and online databases like Shodhganga, NCERT Library, ERIC, JSTOR and Google Scholar. The studies reviewed have been classified for convenience into two broad categories — *(I) Studies Conducted in India* and *(II) Studies Conducted Abroad*.
-
----
-
-## 2.3 STUDIES CONDUCTED IN INDIA
-
-A large number of studies on vocational interest have been carried out in India after independence. The most relevant of them are presented below in chronological order.
-
-### 2.3.1 Chatterji and Mukherjee (1971)
-
-Chatterji and Mukherjee compared the vocational interests of secondary school boys and girls of Calcutta. The sample comprised 600 students (300 boys and 300 girls) of Class X. The Bengali version of the *Vocational Interest Record* was administered. The investigators reported that boys obtained significantly higher mean scores on Scientific, Executive and Outdoor areas, while girls obtained higher scores on Literary, Artistic, Social and Household areas. The study clearly suggested that *gender* was an important determinant of the vocational interest pattern of adolescents.
-
-### 2.3.2 Pruthi (1972)
-
-S.K. Pruthi investigated the vocational interest pattern of higher secondary school students of Delhi in relation to their sex and socio-economic status. A sample of 800 students (400 boys + 400 girls) of Classes XI–XII was administered the *Vocational Interest Inventory* developed by him. The investigator found that students from higher socio-economic strata showed significantly higher interest in Scientific and Professional vocations, while those from lower strata showed higher interest in Agricultural and Skilled Manual vocations. He concluded that the prevailing socio-economic inequalities of Indian society were being faithfully reflected in the differential vocational interests of pupils.
-
-### 2.3.3 Sharma (1975)
-
-R.K. Sharma compared rural and urban high school students of Haryana on the *Vocational Interest Record* of S.P. Kulshrestha. A sample of 400 students of Class IX (200 rural + 200 urban) was selected. The results were:
-- Urban students were significantly higher than rural students on Literary, Scientific, Executive and Commercial interests.
-- Rural students were significantly higher than urban students on Agricultural and Constructive interests.
-- No significant difference was found on Artistic, Persuasive, Social and Household areas.
-
-The study established the *rural–urban dichotomy* as a substantive and statistically demonstrable feature of Indian secondary school students' vocational interests.
-
-### 2.3.4 Singh (1978)
-
-A.K. Singh studied the vocational preferences of 360 secondary school boys of Bihar in relation to their academic achievement. He reported that high achievers were more inclined towards Scientific and Professional occupations, average achievers towards Commercial and Clerical occupations, and low achievers towards Manual and Agricultural occupations.
-
-### 2.3.5 Verma (1979)
-
-Verma's Ph.D. thesis at Agra University was titled *"A Study of Vocational Interests of Secondary School Students in Relation to their Personality, Intelligence and Socio-Economic Status."* On a sample of 500 students of Classes IX–X, he found that there existed a significant positive correlation between Scientific interest and intelligence (*r* = 0.42), and between Executive interest and extroversion (*r* = 0.39). He concluded that vocational interest was a complex function of cognitive, conative and contextual variables.
-
-### 2.3.6 Garg (1980)
-
-Garg compared the vocational interests of boys and girls of urban and rural secondary schools of Western Uttar Pradesh. The sample consisted of 600 students drawn from Aligarh, Mathura and Hathras. The principal findings were:
-- The interaction between sex and locality was statistically significant on Scientific, Executive and Household interests.
-- Urban girls were comparable to urban boys on Scientific interest, whereas rural girls lagged considerably behind rural boys on the same.
-- The traditional cultural pattern of rural Indian society appeared to be reinforcing gender stereotypes more strongly than the urban culture.
-
-### 2.3.7 Asthana (1982)
-
-Asthana studied the relative impact of *home environment* and *school environment* on the vocational interest pattern of 400 high school students of Banaras. His path-analytic findings suggested that *home environment* had a stronger influence on Literary and Artistic interests, while *school environment* had a stronger influence on Scientific and Executive interests.
-
-### 2.3.8 Mishra (1985)
-
-Mishra examined the vocational interests of secondary school students of Bhopal in relation to their parental occupation. On a sample of 480 students of Class X, he found that pupils whose parents were engaged in agriculture obtained significantly higher mean scores on Agricultural and Outdoor interests, those whose parents were in business obtained higher scores on Commercial and Persuasive interests, and those whose parents were in teaching, medicine or engineering obtained higher scores on Literary, Social and Scientific interests respectively. He concluded that *parental occupation* was one of the strongest single determinants of vocational interest.
-
-### 2.3.9 Saxena (1986)
-
-Saxena compared the vocational interests of government and private school students of Lucknow. The sample comprised 300 students (150 government + 150 private) of Class IX. The Hindi *Vocational Interest Record* of S.P. Kulshrestha was used. The findings were:
-- Private school students obtained significantly higher mean scores on Scientific, Executive, Commercial and Persuasive areas.
-- Government school students obtained significantly higher scores on Constructive and Agricultural areas.
-- The difference on Literary, Artistic, Social and Household areas was not significant.
-
-This study is highly relevant to the present investigation because it directly compared *government* and *private* school students.
-
-### 2.3.10 Tripathi (1988)
-
-V.K. Tripathi conducted his Ph.D. work at Allahabad University on *"A Comparative Study of Vocational Interests of Boys and Girls of Class X of Allahabad District."* He used the *Vocational Interest Record* of Kulshrestha on a sample of 800 students. His findings were broadly in line with those of Chatterji and Mukherjee (1971), reaffirming the persistence of gender-based differentiation in Indian secondary school students' interests.
-
-### 2.3.11 Sinha (1990)
-
-Sinha conducted a longitudinal study on 200 secondary school students of Patna, administering the *Vocational Interest Record* once when they were in Class IX and again when they were in Class XI. He reported that:
-- The rank order of interests of an individual remained largely stable over the two-year period (*r* between Class IX and Class XI scores ranged from 0.71 to 0.84).
-- Interests in Scientific and Executive areas tended to *strengthen* with time, whereas interest in Constructive areas tended to *weaken*.
-
-### 2.3.12 Buch (1992) — Review in *Survey of Research in Education*
-
-The *Fourth Survey of Research in Education* edited by **M.B. Buch** (NCERT, 1992) reviewed nearly 60 studies on vocational interest carried out in India between 1973 and 1988. The reviewer concluded that:
-> "The studies, by and large, have established that vocational interests of Indian secondary school students vary significantly with sex, locality, type of school, parental occupation and socio-economic status. The pattern of variation is, however, not uniform across regions."
-
-This conclusion was an important departure-point for the present investigation.
-
-### 2.3.13 Kulshrestha (1993)
-
-The author of the tool used in the present study, Dr. S.P. Kulshrestha, himself conducted a study on the vocational interest pattern of 1,000 secondary school students of nine districts of Western Uttar Pradesh, including Meerut, Muzaffarnagar, Saharanpur, Bulandshahar and Ghaziabad. The major findings of the study were:
-- Rural students were generally higher on Agricultural, Constructive and Household interests.
-- Urban students were generally higher on Scientific, Executive, Commercial and Persuasive interests.
-- The interaction of sex × locality was significant on six out of ten areas.
-
-The findings of the present investigation, conducted exactly thirty years later in one of those districts, can be meaningfully compared with the findings of Kulshrestha (1993).
-
-### 2.3.14 Joshi (1995)
-
-Joshi studied the vocational interest pattern of secondary school students of Garhwal in relation to their academic stream. He found that students intending to take Science stream at +2 stage obtained significantly higher mean scores on Scientific, Executive and Persuasive interests, while those intending to take Humanities obtained higher scores on Literary, Social and Artistic interests. The study established the *predictive validity* of vocational interests with respect to subject choice.
-
-### 2.3.15 Sharma and Goel (1998)
-
-Sharma and Goel compared 240 government and 240 private secondary school students of Jaipur. They reported that the difference between the two groups on Scientific, Executive and Commercial interests was significant in favour of private school students at .01 level, even after controlling for socio-economic status. They suggested that the *climate of the school*, especially its career orientation, exerted an independent influence on the development of vocational interests.
-
-### 2.3.16 Pandey (2001)
-
-Pandey investigated the vocational interest pattern of 600 high school students of Varanasi in relation to their gender, locality and family type (joint vs. nuclear). She concluded that:
-- Locality was the strongest single predictor of Agricultural and Scientific interests.
-- Family type significantly affected Social and Household interests, with joint family students scoring higher on Social interest and nuclear family students higher on Household interest.
-
-### 2.3.17 Khan (2003)
-
-Khan compared 200 boys and 200 girls of Class IX of Aligarh on the *Vocational Interest Record* of Kulshrestha. The principal findings were:
-- Boys were significantly higher on Scientific, Executive and Agricultural areas.
-- Girls were significantly higher on Literary, Artistic, Social and Household areas.
-- On Commercial, Constructive and Persuasive areas no significant difference was observed.
-
-These findings closely parallel those of Chatterji and Mukherjee (1971) and of Tripathi (1988), reinforcing the cross-temporal stability of the gender-based pattern.
-
-### 2.3.18 Kumar (2005)
-
-Kumar's Ph.D. thesis at C.C.S. University, Meerut, was titled *"A Study of Vocational Interests of Secondary School Students of Meerut Division in Relation to their Sex and Locality."* On a sample of 1,200 students of Class IX, he reported the following:
-- Urban students of Meerut Division were significantly higher than rural students on Literary, Scientific, Executive, Commercial and Persuasive interests.
-- Rural students were significantly higher on Agricultural and Constructive interests.
-- The sex × locality interaction was significant on Scientific and Household interests.
-
-Being a Meerut-based study, Kumar (2005) is geographically the closest to the present investigation and provides a particularly important point of reference.
-
-### 2.3.19 Reddy (2007)
-
-Reddy compared the vocational interests of secondary school students studying in English-medium and Hindi-medium schools of Hyderabad. Although strictly not a government–private comparison, the medium of instruction is generally a strong correlate of management type. She found that English-medium students obtained significantly higher mean scores on Scientific, Commercial and Persuasive areas. The findings, *mutatis mutandis*, support the present hypothesis that private school students would be higher on these areas.
-
-### 2.3.20 Yadav (2009)
-
-Yadav conducted a comparative study of 400 secondary school students of Western Uttar Pradesh on the *Vocational Interest Record* of Kulshrestha. The principal independent variables were *locality* and *socio-economic status*. The major findings were:
-- Urban high SES students were the highest on Scientific and Executive interests.
-- Rural low SES students were the highest on Agricultural and Constructive interests.
-- The interaction of locality × SES was significant on five out of ten areas.
-
-### 2.3.21 Singh and Devi (2011)
-
-Singh and Devi (2011) compared 250 government and 250 private school students of Manipur. Their findings were largely consistent with the studies of Saxena (1986) and Sharma and Goel (1998), showing private school students higher on Scientific, Executive and Commercial interests, and government school students higher on Constructive, Agricultural and Social interests.
-
-### 2.3.22 Bhardwaj (2013)
-
-Bhardwaj's M.Phil. work at C.C.S. University, Meerut, compared the vocational interests of 200 boys and 200 girls of Class X of Meerut city. Apart from the usual gender-based pattern, she also reported that *intelligence* had a stronger correlation with Scientific interest in boys (*r* = 0.46) than in girls (*r* = 0.31), suggesting that the link between intelligence and vocational interest itself might be moderated by gender.
-
-### 2.3.23 Verma and Sharma (2015)
-
-Verma and Sharma carried out a comparative study of vocational interests of 600 secondary school students of Delhi NCR (Ghaziabad, Noida, Faridabad and Gurgaon). The major findings were:
-- Private school students of NCR obtained higher scores on Scientific, Executive, Commercial and Persuasive areas.
-- Rural students from villages on the periphery of Ghaziabad obtained the highest score on Agricultural area.
-- The pattern was largely consistent across the four cities, suggesting *cultural homogeneity* of NCR.
-
-### 2.3.24 NCERT Survey (2016)
-
-The *Eighth All-India School Education Survey* of NCERT (2016) included a brief module on the *career awareness and aspirations* of Class IX students. On a national sample of about 75,000 students, the survey found that:
-- Only 28.4 per cent of Class IX students had a *clearly stated* vocational preference.
-- Boys and girls aspired to traditionally gender-typed occupations.
-- Rural students mentioned *agriculture, teaching and government job* as the dominant aspirations, while urban students mentioned *engineering, medicine, computer science and business*.
-
-The survey, although based on simple aspirational data and not on a standardised interest inventory, broadly corroborates the findings of empirical studies based on Kulshrestha's tool.
-
-### 2.3.25 Gupta (2018)
-
-Gupta investigated the vocational interest pattern of 400 secondary school students of Bareilly in relation to *locality, gender and parental education*. He reported that *parental education*, particularly *maternal education*, exerted a significant influence on the Scientific, Literary and Persuasive interests of children, especially of girls.
-
-### 2.3.26 Chaudhary (2020)
-
-Chaudhary's Ph.D. work at C.C.S. University, Meerut, was titled *"A Comparative Study of Vocational Interests, Adjustment and Self-Concept of Secondary School Students of Meerut District."* On a sample of 800 students, she reported that:
-- Urban private school students were significantly higher than the other three groups on Scientific and Executive interests.
-- Rural government school students were significantly higher on Agricultural and Constructive interests.
-- Urban government school students obtained the highest score on Social interest.
-- Rural private school students obtained intermediate scores on most areas.
-
-These findings are particularly relevant since they are based on the *same district* and on a 2 × 2 design *similar* to the present investigation.
-
-### 2.3.27 Tomar (2022)
-
-Tomar conducted a recent M.Ed. dissertation at C.C.S. University, Meerut, on 240 secondary school students of three blocks of Meerut district. Her findings were broadly consistent with Chaudhary (2020) and added that *home environment* and *school climate* together accounted for 38 per cent of the variance in the Scientific and Executive interests of pupils.
-
-### 2.3.28 Rana (2023)
-
-Rana compared 320 students of CBSE and U.P. Board secondary schools of Western U.P. on the *Vocational Interest Record* of Kulshrestha. The major findings were:
-- CBSE students obtained significantly higher mean scores on Scientific, Executive, Commercial and Persuasive areas.
-- U.P. Board students obtained higher scores on Agricultural, Household and Constructive areas.
-
-The findings, although based on board affiliation rather than management type, indirectly support the management-type hypothesis of the present study.
-
----
-
-## 2.4 STUDIES CONDUCTED ABROAD
-
-The international literature on vocational interest is voluminous and dates back to the early decades of the twentieth century. Only the studies of direct relevance to the present investigation have been included.
-
-### 2.4.1 Strong (1943)
-
-The seminal work *Vocational Interests of Men and Women* by **E.K. Strong** is the foundation of the entire field. On the basis of three decades of empirical work, Strong concluded that:
-- Vocational interests, once developed, are remarkably stable through life.
-- Different occupational groups have characteristically different interest patterns.
-- Interest patterns of men and women differ in identifiable ways.
-- Vocational interests can be measured reliably with carefully constructed inventories.
-
-These conclusions guided all subsequent work on the subject.
-
-### 2.4.2 Kuder (1939, 1953)
-
-**G.F. Kuder** developed the *Kuder Preference Record* on the principle of *forced choice triad*, which is much less susceptible to faking than a simple "like–indifferent–dislike" format. He identified ten broad areas of interest similar to those used by Indian researchers later. Kuder's tool has had a strong influence on Indian instruments, including the one used in the present study.
-
-### 2.4.3 Super (1957)
-
-**D.E. Super** in his classic work *The Psychology of Careers* synthesised the existing body of literature and proposed his life-stage theory of vocational development. He underlined the importance of the *Exploration stage (15–24 years)* for the crystallisation of vocational interests.
-
-### 2.4.4 Holland (1973)
-
-**J.L. Holland** in his book *Making Vocational Choices* offered the *RIASEC* hexagonal typology and the corresponding *Self-Directed Search*, which is now perhaps the most widely used vocational interest inventory in the world. The basic finding which is relevant to the present study is that *vocational interest is an expression of personality*.
-
-### 2.4.5 Roe (1956)
-
-**A. Roe** in *The Psychology of Occupations* underscored the impact of early childhood experience on later vocational interests. She reported significant correlations between *parental treatment* and later choice of *people-oriented* vs. *non-people-oriented* occupations.
-
-### 2.4.6 Tyler (1955)
-
-L.E. Tyler in her longitudinal study of American school children reported that the differentiation of vocational interests begins as early as the *fourth grade* and continues to crystallise throughout the high school years.
-
-### 2.4.7 Crites (1969)
-
-J.O. Crites in his book *Vocational Psychology* synthesised the research findings on adolescent vocational maturity. He concluded that *career maturity* increases linearly with age throughout the high-school years and is positively correlated with intelligence, socio-economic status and quality of guidance services.
-
-### 2.4.8 Wahl and Blackhurst (2000)
-
-Wahl and Blackhurst, on a sample of 800 American middle-school students, reported that boys and girls differ markedly in their occupational aspirations as early as Grade VI, with girls preferring people-oriented occupations and boys preferring thing-oriented occupations. The findings closely parallel the Indian studies of Chatterji and Mukherjee (1971), Tripathi (1988) and Khan (2003).
-
-### 2.4.9 Su, Rounds and Armstrong (2009)
-
-This is perhaps the largest meta-analysis on gender differences in vocational interests. The authors examined 47 inventories administered to 5,03,188 respondents. Their conclusions were:
-- Men, on the average, prefer working with *things*; women, on the average, prefer working with *people*.
-- The effect size (*d* = 0.93) for the *People–Things* dimension is among the largest in psychological literature.
-- The differences are remarkably consistent across cultures.
-
-The findings of this meta-analysis are highly important for interpreting the gender-based findings of the present study.
-
-### 2.4.10 OECD (2018)
-
-The OECD report *"The Future of Education and Skills: Education 2030"* reaffirmed that *career exploration during the lower-secondary years* is critical for life-long learning outcomes, especially in middle-income countries with rapidly changing labour markets. Although not an empirical study in the traditional sense, the policy document has influenced the way researchers in India have started conceptualising vocational interest in the post-2020 period.
-
-### 2.4.11 Ainley and Ainley (2019)
-
-Australian researchers Ainley and Ainley used PISA 2015 data on more than 5,00,000 students from 72 countries and concluded that *interest in science* of 15-year-old students is significantly higher in students from urban schools, in students from higher socio-economic strata and in boys (with the gender gap, however, narrowing).
-
-### 2.4.12 Stoll, Rieger, Ludtke and Trautwein (2021)
-
-Stoll and his colleagues in Germany followed 4,000 high-school students over a six-year period and reported that the rank-order of vocational interests within an individual is highly stable over adolescence (*r* > 0.70), but the absolute level of interest in different fields can change considerably depending on the educational experiences of the student. This finding has direct implications for the planning of guidance services in secondary schools.
-
----
-
-## 2.5 CRITICAL APPRAISAL OF THE REVIEWED LITERATURE
-
-A close reading of the studies reviewed in the preceding paragraphs gives rise to a number of generalisations:
-
-1. **Existence of differential patterns.** Almost all the studies, both Indian and foreign, have established that the vocational interest pattern of secondary school students varies significantly with sex, locality, school type, socio-economic status and parental occupation.
-
-2. **Locality effect.** Indian studies (Sharma 1975; Kulshrestha 1993; Pandey 2001; Kumar 2005; Yadav 2009; Chaudhary 2020) are unanimous that *urban* students score higher on Scientific, Executive, Commercial and Persuasive areas, while *rural* students score higher on Agricultural and Constructive areas.
-
-3. **Management effect.** Studies which have specifically compared *government* and *private* school students (Saxena 1986; Sharma and Goel 1998; Singh and Devi 2011; Rana 2023) consistently report that private school students obtain higher mean scores on Scientific, Executive, Commercial and Persuasive areas. The effect is generally attributed to better infrastructure, more career-oriented climate and higher socio-economic background of pupils.
-
-4. **Gender effect.** A long line of studies — from Strong (1943) to Su, Rounds and Armstrong (2009) — has established the *People–Things* dichotomy, which in the Indian context translates into boys being higher on Scientific, Executive and Agricultural areas and girls being higher on Literary, Artistic, Social and Household areas.
-
-5. **Stability of interests.** Longitudinal studies, both Indian (Sinha, 1990) and foreign (Stoll et al., 2021), confirm that vocational interests, once formed, are quite stable, though they can be modified by educational experiences.
-
-6. **Methodological homogeneity.** Most Indian studies have used the *Vocational Interest Record* of Kulshrestha or Chatterji or the *Vocational Interest Inventory* of Pruthi. *t*-test, ANOVA and correlation are the most commonly used statistical techniques. The present study follows this established methodology.
-
-7. **Geographical concentration.** Although a fairly large number of Indian studies are available, the bulk of them have been carried out in metropolitan or large urban centres. Smaller districts of Western U.P. — including Meerut — have received only limited attention.
-
----
-
-## 2.6 RESEARCH GAP IDENTIFIED
-
-The review of related literature, although extensive, has revealed certain *gaps* which the present study seeks to address:
-
-1. **Combined design.** Although both *locality* and *type of management* have been studied separately by various researchers, very few studies have *simultaneously* examined the interaction of these two variables in a 2 × 2 design. The present study attempts to fill this gap.
-
-2. **Focus on Meerut district.** Although studies on Meerut Division (Kumar, 2005) and Meerut District (Chaudhary, 2020; Tomar, 2022) are available, none of them has used the *exact* 2 × 2 design proposed here, with one school carefully chosen from each cell of the design.
-
-3. **Recency.** The labour-market situation, especially in the wake of NEP 2020 and the post-COVID educational disruption, has changed in significant ways. A fresh empirical study on the vocational interest pattern of secondary school students of Meerut district is, therefore, justified.
-
-4. **Local guidance value.** The findings of the present study are likely to have a direct, immediate and *local* relevance to the four schools concerned, which is generally lacking in studies based on a wider geographical canvas.
-
-In view of the above gaps, the present investigator has decided to undertake the study described in Chapter I.
-
-The next chapter is devoted to the *Methodology* of the study, in which the method, sample, tool, procedure and statistical techniques used in the investigation are described in detail.
-
----
 *** End of Chapter II ***
