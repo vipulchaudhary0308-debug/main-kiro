@@ -2,21 +2,29 @@
 """
 Build the M.Ed. Dissertation as a single Microsoft Word (.docx) file
 in CCS University format:
-    - Times New Roman 12 pt
-    - Double-line spacing (1.5 used here for body, double-equivalent feel)
-    - 1.5" left margin, 1" right/top/bottom
-    - Justified body text
-    - Page numbers (bottom-center)
-    - Page breaks between major sections
+  - Times New Roman 12 pt body
+  - 1.5-line spacing for body, 1.15 for tables
+  - 1.5" left margin, 1" right / top / bottom
+  - Justified body text
+  - Centred page numbers in footer
+  - Hard page-breaks between major sections
 """
 
 import os
 import pypandoc
+from docx import Document
+from docx.shared import Pt, Inches
+from docx.enum.text import WD_LINE_SPACING, WD_ALIGN_PARAGRAPH
+from docx.oxml.ns import qn
+from docx.oxml import OxmlElement
 
-DISS_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "dissertation")
-OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "Dissertation_Final.docx")
+# ── paths ──────────────────────────────────────────────────────────────────
+BASE = os.path.dirname(os.path.abspath(__file__))
+DISS = os.path.join(BASE, "dissertation")
+OUT  = os.path.join(BASE, "Dissertation_Final.docx")
+TMP  = os.path.join(DISS, "_combined.md")
 
-# Order of files (front matter first, then chapters)
+# ── ordered source files ───────────────────────────────────────────────────
 FILES = [
     "00_front_matter.md",
     "01_chapter1_introduction.md",
@@ -28,57 +36,53 @@ FILES = [
     "07_appendices.md",
 ]
 
-# Concatenate the markdown into one big buffer with hard page breaks between chapters
-combined_md_path = os.path.join(DISS_DIR, "_combined.md")
-with open(combined_md_path, "w", encoding="utf-8") as out:
-    for i, f in enumerate(FILES):
-        full = os.path.join(DISS_DIR, f)
-        with open(full, "r", encoding="utf-8") as src:
-            txt = src.read()
-        out.write(txt)
-        # Hard page break (Pandoc raw block) before next file
+PAGE_BREAK = '\n\n```{=openxml}\n<w:p><w:r><w:br w:type="page"/></w:r></w:p>\n```\n\n'
+
+
+def strip_yaml_front_matter(text: str) -> str:
+    """Remove a leading YAML front-matter block (--- ... ---) if present."""
+    stripped = text.lstrip()
+    if stripped.startswith("---"):
+        # find the closing ---
+        end = stripped.find("\n---", 3)
+        if end != -1:
+            return stripped[end + 4:].lstrip()
+    return text
+
+
+# ── 1. concatenate markdown ────────────────────────────────────────────────
+print("Concatenating markdown files …")
+with open(TMP, "w", encoding="utf-8") as out:
+    for i, fname in enumerate(FILES):
+        path = os.path.join(DISS, fname)
+        with open(path, "r", encoding="utf-8") as src:
+            content = src.read()
+        content = strip_yaml_front_matter(content)
+        out.write(content)
         if i < len(FILES) - 1:
-            out.write('\n\n```{=openxml}\n<w:p><w:r><w:br w:type="page"/></w:r></w:p>\n```\n\n')
+            out.write(PAGE_BREAK)
 
-# Run pandoc
-extra_args = [
-    "--from=markdown+pipe_tables+raw_attribute",
-    "--to=docx",
-    f"--output={OUT}",
-    "--standalone",
-    "-V", "geometry:left=1.5in,right=1in,top=1in,bottom=1in",
-]
-
+# ── 2. pandoc → docx ──────────────────────────────────────────────────────
+print("Running pandoc …")
 pypandoc.convert_file(
-    combined_md_path,
+    TMP,
     "docx",
     format="markdown-yaml_metadata_block+pipe_tables+raw_attribute",
     outputfile=OUT,
-    extra_args=[
-        "-V", "geometry:left=1.5in,right=1in,top=1in,bottom=1in",
-    ],
+    extra_args=["--standalone", "--wrap=none"],
 )
 
-# Now post-process the docx to apply CCS-Univ. formatting:
-#  - All body paragraphs: Times New Roman 12, line-spacing 2.0, justified
-#  - Headings: Times New Roman bold (sizes by level)
-#  - Page numbers in footer (centered)
-from docx import Document
-from docx.shared import Pt, Inches
-from docx.enum.text import WD_LINE_SPACING, WD_ALIGN_PARAGRAPH
-from docx.oxml.ns import qn
-from docx.oxml import OxmlElement
-
+# ── 3. post-process with python-docx ──────────────────────────────────────
+print("Post-processing formatting …")
 doc = Document(OUT)
 
-# Set page margins on all sections (CCS U: 1.5 left, 1 elsewhere)
+# — page margins —
 for section in doc.sections:
-    section.left_margin = Inches(1.5)
-    section.right_margin = Inches(1.0)
-    section.top_margin = Inches(1.0)
+    section.left_margin   = Inches(1.5)
+    section.right_margin  = Inches(1.0)
+    section.top_margin    = Inches(1.0)
     section.bottom_margin = Inches(1.0)
 
-# Apply font + line spacing to every run / paragraph
 HEADING_SIZES = {
     "Heading 1": 16,
     "Heading 2": 14,
@@ -88,79 +92,83 @@ HEADING_SIZES = {
     "Heading 6": 12,
 }
 
+def set_tnr(run, pt):
+    run.font.name = "Times New Roman"
+    run.font.size = Pt(pt)
+    rPr = run._element.get_or_add_rPr()
+    rFonts = rPr.find(qn("w:rFonts"))
+    if rFonts is None:
+        rFonts = OxmlElement("w:rFonts")
+        rPr.insert(0, rFonts)
+    for attr in ("w:ascii", "w:hAnsi", "w:cs", "w:eastAsia"):
+        rFonts.set(qn(attr), "Times New Roman")
+
+# — paragraphs —
 for para in doc.paragraphs:
-    style_name = para.style.name if para.style else ""
-    if style_name in HEADING_SIZES:
-        size_pt = HEADING_SIZES[style_name]
-        para.alignment = WD_ALIGN_PARAGRAPH.CENTER if style_name in ("Heading 1", "Heading 2") else WD_ALIGN_PARAGRAPH.LEFT
-        para.paragraph_format.line_spacing = 1.5
+    sname = para.style.name if para.style else ""
+    if sname in HEADING_SIZES:
+        pt = HEADING_SIZES[sname]
+        para.alignment = (
+            WD_ALIGN_PARAGRAPH.CENTER
+            if sname in ("Heading 1", "Heading 2")
+            else WD_ALIGN_PARAGRAPH.LEFT
+        )
+        pf = para.paragraph_format
+        pf.line_spacing_rule = WD_LINE_SPACING.ONE_POINT_FIVE
+        for run in para.runs:
+            set_tnr(run, pt)
+            run.bold = True
     else:
-        size_pt = 12
+        pt = 12
         if para.alignment is None:
             para.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
-        para.paragraph_format.line_spacing = 2.0
-        para.paragraph_format.space_after = Pt(6)
+        pf = para.paragraph_format
+        pf.line_spacing_rule = WD_LINE_SPACING.ONE_POINT_FIVE
+        pf.space_after = Pt(6)
+        for run in para.runs:
+            set_tnr(run, pt)
 
-    for run in para.runs:
-        run.font.name = "Times New Roman"
-        # Ensure East-Asian font is also TNR (some systems otherwise fall back)
-        rPr = run._element.get_or_add_rPr()
-        rFonts = rPr.find(qn("w:rFonts"))
-        if rFonts is None:
-            rFonts = OxmlElement("w:rFonts")
-            rPr.insert(0, rFonts)
-        rFonts.set(qn("w:ascii"), "Times New Roman")
-        rFonts.set(qn("w:hAnsi"), "Times New Roman")
-        rFonts.set(qn("w:cs"), "Times New Roman")
-        rFonts.set(qn("w:eastAsia"), "Times New Roman")
-        run.font.size = Pt(size_pt)
-        if style_name in HEADING_SIZES:
-            run.bold = True
-
-# Apply font to table cells too
+# — tables —
 for table in doc.tables:
-    table.alignment = WD_ALIGN_PARAGRAPH.CENTER
     for row in table.rows:
         for cell in row.cells:
             for para in cell.paragraphs:
-                para.paragraph_format.line_spacing = 1.15
+                pf = para.paragraph_format
+                pf.space_after = Pt(2)
+                pf.space_before = Pt(2)
                 for run in para.runs:
-                    run.font.name = "Times New Roman"
-                    rPr = run._element.get_or_add_rPr()
-                    rFonts = rPr.find(qn("w:rFonts"))
-                    if rFonts is None:
-                        rFonts = OxmlElement("w:rFonts")
-                        rPr.insert(0, rFonts)
-                    rFonts.set(qn("w:ascii"), "Times New Roman")
-                    rFonts.set(qn("w:hAnsi"), "Times New Roman")
-                    rFonts.set(qn("w:cs"), "Times New Roman")
-                    rFonts.set(qn("w:eastAsia"), "Times New Roman")
-                    run.font.size = Pt(11)
+                    set_tnr(run, 11)
 
-# Add a centered page-number field in the footer
+# — centred page numbers in footer —
 def add_page_number(footer):
     para = footer.paragraphs[0] if footer.paragraphs else footer.add_paragraph()
     para.alignment = WD_ALIGN_PARAGRAPH.CENTER
     run = para.add_run()
-    fldChar1 = OxmlElement("w:fldChar")
-    fldChar1.set(qn("w:fldCharType"), "begin")
-    instrText = OxmlElement("w:instrText")
-    instrText.set(qn("xml:space"), "preserve")
-    instrText.text = "PAGE"
-    fldChar2 = OxmlElement("w:fldChar")
-    fldChar2.set(qn("w:fldCharType"), "end")
-    run._r.append(fldChar1)
-    run._r.append(instrText)
-    run._r.append(fldChar2)
-    run.font.name = "Times New Roman"
-    run.font.size = Pt(11)
+    for tag, text in [
+        ("w:fldChar",   {"w:fldCharType": "begin"}),
+        ("w:instrText", " PAGE "),
+        ("w:fldChar",   {"w:fldCharType": "end"}),
+    ]:
+        el = OxmlElement(tag)
+        if isinstance(text, dict):
+            for k, v in text.items():
+                el.set(qn(k), v)
+            if tag == "w:instrText":
+                el.set(qn("xml:space"), "preserve")
+                el.text = " PAGE "
+        else:
+            el.set(qn("xml:space"), "preserve")
+            el.text = text
+        run._r.append(el)
+    set_tnr(run, 11)
 
 for section in doc.sections:
     add_page_number(section.footer)
 
 doc.save(OUT)
 size_kb = os.path.getsize(OUT) / 1024
-print(f"OK -> {OUT}  ({size_kb:.1f} KB)")
+print(f"\n✓  Saved → {OUT}  ({size_kb:.1f} KB)")
 
-# Cleanup the combined markdown file
-os.remove(combined_md_path)
+# — cleanup —
+os.remove(TMP)
+print("Temporary combined file removed.")
