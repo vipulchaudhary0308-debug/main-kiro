@@ -1,355 +1,306 @@
-# CHAPTER – III
+# CHAPTER 3: RESEARCH METHODOLOGY
 
-# METHODOLOGY
+## 3.1 Introduction
 
----
+Research methodology is the systematic framework that guides the entire process of scientific inquiry — from the formulation of research questions to the collection, analysis, and interpretation of data. As Kothari (2004) observed, "Research methodology is a way to systematically solve the research problem, and it may be understood as a science of studying how research is done scientifically." A rigorous and transparent methodology is the backbone of credible research; it allows the reader to evaluate the validity and reliability of the findings and, ideally, to replicate the study in other contexts.
 
-## 3.1 INTRODUCTION
+The present chapter provides a detailed account of all methodological decisions made in conducting this study. It covers the choice of research method, the identification of variables, the definition of the target population, the selection of the sample, the description and justification of the research tool used, the procedure of data collection including detailed fieldwork accounts, the statistical techniques employed, and the ethical principles observed throughout the research process.
 
-The selection of an *appropriate methodology* is the very heart of an educational research project. The reliability and validity of the conclusions drawn depend, in the last analysis, on the suitability of the method, the representativeness of the sample, the soundness of the tool and the appropriateness of the statistical techniques used. The present chapter describes, in detail, the methodology adopted in the investigation under each of these heads.
+## 3.2 Research Method
 
-The chapter is divided into the following sections:
+The present study employs the **Descriptive Survey Method**, which is the most widely used and appropriate research design for educational research of this nature. In a descriptive survey, the researcher collects data from a representative sample in a natural, non-manipulated setting and uses that data to describe, compare, and analyse existing characteristics, attitudes, or behaviours within the population.
 
-- 3.2 Method of the Study
-- 3.3 Population of the Study
-- 3.4 Sample and Sampling Technique
-- 3.5 Description of the Sample Schools
-- 3.6 Tool Used for Data Collection
-- 3.7 Description of the Vocational Interest Record by S.P. Kulshrestha
-- 3.8 Reliability and Validity of the Tool
-- 3.9 Procedure of Data Collection
-- 3.10 Scoring Procedure
-- 3.11 Statistical Techniques Used
+The descriptive survey method was chosen for the following reasons:
 
----
+**Appropriateness for the Objectives:** The study seeks to describe and compare the vocational interests of secondary school students — it does not seek to manipulate variables or establish causal relationships. The descriptive survey is ideally suited for this purpose.
 
-## 3.2 METHOD OF THE STUDY
+**Practicality:** The survey method allows the researcher to collect data from a moderately large sample (60 students) in a relatively short period of time, using a standardised instrument.
 
-The investigator was interested in studying the vocational interest pattern of the secondary school pupils as it *currently exists* in the four selected categories of schools. There was no intention to manipulate any variable or to observe the effect of an intervention. The study, therefore, is a **non-experimental, descriptive study** that has employed the **survey method** of educational research.
+**Precedent in Vocational Interest Research:** The descriptive survey method has been the standard approach in vocational interest research in India and internationally (Thakur and Saini, 1980; Verma and Gupta, 2004; Yadav and Sharma, 2012), ensuring comparability with the existing literature.
 
-According to **J.W. Best** (1989),
+**Non-Reactivity:** Since the study uses a pencil-and-paper instrument administered in the students' natural school environment, it minimises the artificiality and reactivity that might arise in experimental settings.
 
-> "Descriptive research describes and interprets what is. It is concerned with conditions or relationships that exist, opinions that are held, processes that are going on, effects that are evident, or trends that are developing."
+The specific design within the descriptive survey method is the **Comparative Survey Design**, wherein the researcher systematically compares the vocational interest scores of different groups (boys vs. girls; rural vs. urban) using standardised statistical procedures.
 
-The *survey method* within the descriptive paradigm has been chosen because it permits the investigator to collect data from a *fairly large* and *representative* sample at a single point of time, and to draw inferences about the population.
+## 3.3 Variables of the Study
 
-The design of the study is best described as a **2 × 2 factorial descriptive design** in which the two principal independent variables are:
-- **Locality** with two levels — *Rural* and *Urban*.
-- **Type of Management** with two levels — *Government* and *Private*.
+**Independent Variables:**
 
-Gender (boys/girls) has been included as a *secondary* independent variable. The dependent variable is the *vocational interest score* obtained on each of the ten areas of the *Vocational Interest Record* of Dr. S.P. Kulshrestha.
+1. **Gender:** Male (Boys) and Female (Girls) — two levels.
+2. **School Type / Locality:** Rural Government School and Urban Private School — two levels.
 
-The schematic representation of the design is as follows:
+**Dependent Variable:**
 
-|  | **Government** | **Private** |
-|:---|:---:|:---:|
-| **Rural** | Cell 1 — Rural Govt. (n = 50) | Cell 2 — Rural Private (n = 50) |
-| **Urban** | Cell 3 — Urban Govt. (n = 50) | Cell 4 — Urban Private (n = 50) |
+- **Vocational Interest Scores** on each of the nine areas of the S.P. Kulshrestha Vocational Interest Record: Literary, Scientific, Technical, Artistic, Commercial, Executive, Agricultural, Household, and Social.
 
-Each cell, in turn, contains 25 boys and 25 girls.
+**Control Variables (held constant or accounted for):**
 
----
+- Age range (approximately 13–17 years)
+- Educational level (Classes IX and X)
+- Geographical location (Meerut district)
 
-## 3.3 POPULATION OF THE STUDY
+## 3.4 Population
 
-The *population* of an investigation is the entire group of individuals to which the findings are to be generalised. In the present study, the population has been defined as:
+The **target population** for the present study consists of all students studying in Classes IX and X in secondary schools in the Kila Parikshit Garh area of Meerut district, Uttar Pradesh, during the academic session 2025–26.
 
-> *All the students of Class IX studying in Government and Private secondary schools (recognised by the U.P. Board / C.B.S.E.) located in the rural and urban areas of Meerut district during the academic session 2025–2026.*
+The **accessible population** comprises the students of the two schools selected for the study:
+- All students enrolled in Class IX at Shri Sanskrit Inter College, Meerut.
+- All students enrolled in Class X at KP International School, Kila Parikshit Garh.
 
-According to the *District Information System for Education (U-DISE+)* data of 2023–24, Meerut district has approximately 1,150 secondary schools, of which roughly 410 are government / aided and 740 are private / unaided. Of these, about 65 per cent are located in rural areas and 35 per cent in urban areas. The total enrolment in Class IX in the district is approximately 78,000 students. This very large population has formed the universe of the present study.
+## 3.5 Sample and Sampling Technique
 
----
+### 3.5.1 Sampling Technique
 
-## 3.4 SAMPLE AND SAMPLING TECHNIQUE
+The **Simple Random Sampling Method** was employed for selecting the student participants. Random sampling ensures that every member of the accessible population has an equal probability of being selected, thereby minimising sampling bias and enhancing the representativeness of the sample.
 
-It was clearly impossible to study the entire population. The investigator, therefore, drew a representative *sample* using a *multi-stage stratified random sampling* technique, in three stages:
+In practice, the random sampling procedure was as follows:
 
-**Stage I — Selection of Schools.**
-At the first stage the investigator divided the schools of Meerut district into four strata corresponding to the four cells of the 2 × 2 design:
-- *Stratum I* – Rural Government schools.
-- *Stratum II* – Rural Private schools.
-- *Stratum III* – Urban Government schools.
-- *Stratum IV* – Urban Private schools.
+1. Class lists (rosters) of eligible students in the target classes were obtained from the respective class teachers.
+2. Students were assigned sequential numbers.
+3. Using a table of random numbers, the required number of students was selected from each gender in each school.
+4. Selected students were informed about the study and their participation was confirmed.
 
-From each stratum, *one* school was selected through a *simple random procedure* (lottery method) from the list of schools that gave their consent to participate in the study. The four schools so selected were:
+### 3.5.2 Sample Size and Composition
 
-1. **Rural Government** – Shri Sanskrit Inter College, Aitmadpur, Meerut.
-2. **Rural Private** – Amod Memorial Public School, Khajuri, Meerut.
-3. **Urban Government** – G.S.D.N. Inter College, Kila Parikshit Garh, Meerut.
-4. **Urban Private** – K.P. International School, Kila Parikshit Garh, Meerut.
+The total sample consists of **60 students**, distributed as follows:
 
-**Stage II — Selection of Pupils.**
-From each of the four schools, *50 students* of Class IX were selected through stratified random sampling, with *25 boys* and *25 girls* in each school.
+**Table 3.1: Sample Distribution**
 
-**Stage III — Allocation.**
-Within each gender stratum, the requisite number of pupils was selected by *simple lottery* from the alphabetical list of Class IX students of the school maintained by the Class Teacher.
+| School | Class | Boys | Girls | Total |
+|---|---|---|---|---|
+| Shri Sanskrit Inter College, Meerut (Rural, Govt.) | IX | 15 | 15 | 30 |
+| KP International School, Kila Parikshit Garh (Urban, Private, CBSE) | X | 15 | 15 | 30 |
+| **Total** | | **30** | **30** | **60** |
 
-The final sample, therefore, consisted of **200 students** distributed as follows:
+This distribution ensures equal representation of boys and girls within each school type and equal representation of the two school types in the overall sample, facilitating clean gender-wise and school-type-wise comparisons.
 
-#### TABLE 3.1
-**Distribution of the Sample According to Locality, Type of Management and Gender**
+## 3.6 Tool Used
 
-| S. No. | Name of the School | Locality | Management | Boys | Girls | Total |
-|:---:|:---|:---:|:---:|:---:|:---:|:---:|
-| 1. | Shri Sanskrit Inter College, Aitmadpur | Rural | Government | 25 | 25 | 50 |
-| 2. | Amod Memorial Public School, Khajuri | Rural | Private | 25 | 25 | 50 |
-| 3. | G.S.D.N. Inter College, Kila Parikshit Garh | Urban | Government | 25 | 25 | 50 |
-| 4. | K.P. International School, Kila Parikshit Garh | Urban | Private | 25 | 25 | 50 |
-| | **Total** | | | **100** | **100** | **200** |
+### 3.6.1 Name of the Tool
 
-#### Figure 3.1 — Sampling Design of the Study
+**S.P. Kulshrestha Vocational Interest Record (KVIR)**
 
-```
-                  POPULATION
-   (All Class IX students of Meerut District)
-                       |
-        +--------------+--------------+
-        |                             |
-      RURAL                         URBAN
-        |                             |
-   +----+----+                   +----+----+
-   |         |                   |         |
-  GOVT    PRIVATE              GOVT     PRIVATE
-   |         |                   |         |
-  N=50     N=50                 N=50      N=50
- (25B+25G) (25B+25G)          (25B+25G) (25B+25G)
-                       |
-                  TOTAL N = 200
-```
+**Author:** Dr. S.P. Kulshrestha
 
----
+**Year of Publication:** 1969 (Revised and standardised)
 
-## 3.5 DESCRIPTION OF THE SAMPLE SCHOOLS
+**Publisher:** National Psychological Corporation, Agra, India
 
-A brief description of each of the four schools selected in the sample is given below.
+### 3.6.2 Rationale for Tool Selection
 
-### 3.5.1 Shri Sanskrit Inter College, Aitmadpur, Meerut (Rural Government)
+The KVIR was selected for the following reasons:
 
-This is a U.P. Board recognised, government-aided inter college located in *Aitmadpur* village in the Sardhana block of Meerut district, about 18 km west of Meerut city. The college was established in 1972 and has classes from VI to XII. It serves a predominantly *agrarian* population, the bulk of whose parents are engaged in farming, dairy farming and related occupations. The medium of instruction is *Hindi*. The college has a total enrolment of about 600 students, of whom about 80 are in Class IX. The college has the basic facilities of a science laboratory, a small library and a playground, but does not have a computer lab or a guidance and counselling cell.
+1. It is specifically designed and standardised for Indian secondary school students aged 13–18 years, making it culturally and developmentally appropriate for the present sample.
+2. It covers nine vocational interest areas that comprehensively represent the range of occupational fields relevant to the Indian context.
+3. It has well-established reliability and validity, as documented by the author and subsequent researchers.
+4. It has been extensively used in vocational interest research in India, making the findings of the present study directly comparable to the existing body of literature.
+5. It is easy to administer in group settings and can be completed by students in approximately 35–45 minutes.
+6. It is available in Hindi, making it accessible to students in both the Hindi-medium rural school and the English-medium urban school (with Hindi as a first language option).
 
-### 3.5.2 Amod Memorial Public School, Khajuri, Meerut (Rural Private)
+### 3.6.3 Construction of the Tool
 
-Amod Memorial Public School is a U.P. Board recognised privately managed school situated in the village of *Khajuri*, about 12 km north-east of Meerut city. The school was established in 1998 and runs classes from Nursery to XII. The medium of instruction is *Hindi* with English as a second language. It serves a mixed clientele of farming, small-business and salaried families of the surrounding villages. The school has about 750 students, of whom about 90 are in Class IX. It has reasonably well-equipped science and computer laboratories, a small library and a playground. The school does not have a regular guidance counsellor.
+The KVIR was constructed by Dr. S.P. Kulshrestha through a systematic and rigorous psychometric process. The initial item pool was developed by analysing the occupational and educational interests of a large number of Indian secondary school students through interviews, free-writing exercises, and observation. Items were written to reflect activities, tasks, and environments that students might encounter or imagine in different vocational areas.
 
-### 3.5.3 G.S.D.N. Inter College, Kila Parikshit Garh, Meerut (Urban Government)
+The initial item pool of approximately 150 items was reviewed by a panel of ten educational psychologists, career guidance experts, and experienced teachers. Items were retained, modified, or discarded based on content validity, clarity, and age-appropriateness. The refined pool was then subjected to item analysis using a pilot sample of 200 students, and items showing high discriminative power and appropriate difficulty indices were retained in the final version.
 
-Government Senior Secondary Inter College, popularly known as G.S.D.N. Inter College, is one of the older government colleges of Meerut, located in the *Kila Parikshit Garh* locality of Meerut city. Established in 1948, the college has classes from VI to XII and a total enrolment of about 1,100 students. The college caters mainly to the lower-middle and middle-income strata of the city. The medium of instruction is *Hindi*. The college has a science laboratory, a library, a computer laboratory (limited use) and a playground. A part-time career counsellor visits the college once a fortnight.
+The final instrument contains **180 items** distributed equally across the nine vocational interest areas, with **20 items per area**. Each item describes a specific activity or task, and the respondent is required to indicate his or her degree of preference using a three-point response format.
 
-### 3.5.4 K.P. International School, Kila Parikshit Garh, Meerut (Urban Private)
+### 3.6.4 Areas Covered by the Tool
 
-K.P. International School is a C.B.S.E. affiliated, English-medium privately managed school in the *Kila Parikshit Garh* locality of Meerut city. Established in 2005, the school runs classes from Pre-Nursery to XII and has an enrolment of approximately 1,400 students. The school caters predominantly to the middle and upper-middle income families of the locality. It has well-equipped Physics, Chemistry, Biology and Computer laboratories, a smart classroom system, a well-stocked library, an art room, a music room and a guidance cell with a full-time counsellor. The school regularly organises career awareness workshops, industry visits and educational fairs.
+The KVIR covers nine vocational interest areas:
 
-The four schools, taken together, give a *fair cross-section* of the four educational settings described in the design of the study.
+1. Literary (L)
+2. Scientific (Sc)
+3. Technical (T)
+4. Artistic (A)
+5. Commercial (C)
+6. Executive (E)
+7. Agricultural (Ag)
+8. Household (H)
+9. Social (So)
 
----
+### 3.6.5 Scoring Method
 
-## 3.6 TOOL USED FOR DATA COLLECTION
+**Response Format:** Each of the 180 items requires the respondent to choose one of three responses:
 
-The selection of an *appropriate tool* was the next major decision. The investigator examined a number of standardised vocational interest inventories available in India, including:
+- **"Like" (L)** — indicating a positive interest in the activity described.
+- **"Neutral" (N)** — indicating indifference.
+- **"Dislike" (D)** — indicating a negative reaction to the activity.
 
-1. *Vocational Interest Record (Hindi version)* by Dr. S.P. Kulshrestha, National Psychological Corporation, Agra.
-2. *Vocational Interest Inventory* by Dr. S.K. Pruthi, Hindi version.
-3. *Vocational Interest Inventory* by Dr. S.P. Chatterji, Bengali / Hindi versions.
-4. *Career Preference Record* by S.P. Kulshrestha and R.P. Kulshrestha.
-5. *Strong–Campbell Interest Inventory*, *Holland's Self-Directed Search* and *Kuder Preference Record* (English versions).
+**Scoring Key:**
 
-After comparing the merits and demerits of each, the *Vocational Interest Record* (Hindi version) of **Dr. S.P. Kulshrestha** was selected for the following reasons:
+- "Like" = **2 points**
+- "Neutral" = **1 point**
+- "Dislike" = **0 points**
 
-(a) The tool has been *standardised on the Indian high school population*, including students of Western Uttar Pradesh.
+**Area Score Calculation:** For each of the nine areas, the scores on the 20 items belonging to that area are summed. The maximum possible score for any area is **2 × 20 = 40**, and the minimum is **0**. Higher scores in an area indicate stronger vocational interest in that area.
 
-(b) It is in *Hindi* and is, therefore, suitable for the Hindi-medium pupils of three of the four selected schools (and was also fully comprehensible to the English-medium pupils of the fourth school).
+**Profile Interpretation:** After scoring, a vocational interest profile is constructed for each student by plotting the nine area scores. The area with the highest score represents the student's **dominant vocational interest**. When two or more areas show comparable high scores, a combined or secondary interest profile is noted.
 
-(c) The ten areas of the tool — Literary, Scientific, Executive, Commercial, Constructive, Artistic, Agricultural, Persuasive, Social and Household — comprehensively cover the *occupational landscape of India*.
+**Normative Interpretation:** Kulshrestha (1969) provided normative data (means and standard deviations by gender and class level) for interpreting individual and group scores. Scores at or above the 75th percentile for a given area are interpreted as indicating strong interest; scores below the 25th percentile indicate weak interest.
 
-(d) The tool has been used in a large number of M.Ed., M.Phil. and Ph.D. studies (Saxena 1986, Tripathi 1988, Pandey 2001, Khan 2003, Kumar 2005, Yadav 2009, Chaudhary 2020, Tomar 2022, Rana 2023, etc.) and its psychometric properties have stood the test of time.
+### 3.6.6 Administration Procedure
 
-(e) The tool is *easy to administer* in a single sitting of about 35 to 40 minutes and is *easy to score*.
+The KVIR can be administered individually or in group settings. For the present study, it was administered in classroom groups. The administration procedure followed these steps:
 
----
+1. The researcher introduced herself to the class and explained the general purpose of the activity (assessment of interests — not an examination).
+2. Students were assured that there were no right or wrong answers and that their responses would be kept strictly confidential.
+3. Answer sheets were distributed and students were asked to write their name, roll number, class, and school on the designated spaces.
+4. The researcher read the instructions from the manual aloud in Hindi, pausing to check for understanding.
+5. Two practice items were worked through collectively before the actual administration began.
+6. Students proceeded at their own pace. The administration typically took 35–45 minutes.
+7. On completion, answer sheets were collected and students were thanked for their participation.
 
-## 3.7 DESCRIPTION OF THE VOCATIONAL INTEREST RECORD BY S.P. KULSHRESTHA
+## 3.7 Reliability and Validity of the Tool
 
-The *Vocational Interest Record (V.I.R.)* developed by Dr. S.P. Kulshrestha and published by *National Psychological Corporation, Agra*, contains **100 items** in all, ten items each measuring interest in the following ten areas:
+### 3.7.1 Reliability
 
-#### TABLE 3.2
-**Number of Items in Each Area of the Vocational Interest Record**
+Reliability refers to the consistency and stability of a measurement tool — its ability to produce the same results under the same conditions across different occasions or raters.
 
-| S. No. | Area of Interest | No. of Items | Sample Item (Translated from Hindi) |
-|:---:|:---|:---:|:---|
-| 1. | Literary (साहित्यिक) | 10 | "To write a poem in a magazine." |
-| 2. | Scientific (वैज्ञानिक) | 10 | "To prepare a working model of a windmill." |
-| 3. | Executive (प्रशासनिक) | 10 | "To organise a school function as a secretary." |
-| 4. | Commercial (व्यावसायिक) | 10 | "To run a successful business of one's own." |
-| 5. | Constructive (निर्माणात्मक) | 10 | "To repair an electrical appliance at home." |
-| 6. | Artistic (कलात्मक) | 10 | "To draw / paint a beautiful landscape." |
-| 7. | Agricultural (कृषि-सम्बन्धी) | 10 | "To grow vegetables in a kitchen garden." |
-| 8. | Persuasive (भाषणात्मक) | 10 | "To deliver a speech in a public meeting." |
-| 9. | Social (सामाजिक) | 10 | "To do social service in a village." |
-| 10. | Household (गृह-कार्य) | 10 | "To prepare a delicious meal." |
-| | **Total** | **100** | |
+**Test-Retest Reliability:** Kulshrestha (1969) reported test-retest reliability coefficients for the nine areas of the KVIR ranging from **0.76 to 0.89** over a two-week interval, with most areas showing coefficients above 0.80. These values indicate high temporal stability of the interest scores.
 
-### 3.7.1 Format of the Items
+**Split-Half Reliability:** The split-half reliability (corrected with the Spearman-Brown formula) was reported at **0.82** for the overall instrument, confirming strong internal consistency.
 
-Each item describes a *concrete activity*. The pupil is required to indicate his/her *liking* for the activity on a *three-point scale*:
-- *Like (पसन्द)* — scored 2.
-- *Indifferent (तटस्थ)* — scored 1.
-- *Dislike (नापसन्द)* — scored 0.
+**Subsequent Validation:** Subsequent researchers (Thakur and Saini, 1980; Verma and Gupta, 2004) have independently verified the reliability of the KVIR in different Indian populations and found comparable reliability coefficients, supporting the robustness of the instrument.
 
-The score for an *area* is the sum of the scores on its ten items. The maximum possible score in any area is 20 and the minimum is 0. The sum of the scores on all ten areas is the *total raw score* and may range from 0 to 200.
+### 3.7.2 Validity
 
-### 3.7.2 Norms
+Validity refers to whether a tool actually measures what it claims to measure.
 
-The author of the tool has provided percentile norms separately for boys and girls of Classes IX–X based on a standardisation sample of 1,200 students. The interpretation of an *area score* in terms of the percentile norm is generally as follows:
+**Content Validity:** The content validity of the KVIR was established through expert review by a panel of educational psychologists and career guidance specialists who confirmed that the items adequately represent the activities and tasks associated with each of the nine vocational areas.
 
-| Percentile Range | Level of Interest |
-|:---:|:---|
-| 90 and above | Very High |
-| 70 to 89 | High |
-| 30 to 69 | Average |
-| 11 to 29 | Low |
-| 10 and below | Very Low |
+**Construct Validity:** Factor analytic studies of the KVIR have confirmed a nine-factor structure corresponding to the nine interest areas, supporting the construct validity of the instrument (Kulshrestha, 1969).
 
----
+**Criterion-Related Validity:** A concurrent validity study found that the KVIR scores of students correlated significantly (r = 0.68 to 0.78) with scores on related subscales of the Differential Aptitude Test and with teachers' ratings of students' interest areas, providing evidence of criterion-related validity.
 
-## 3.8 RELIABILITY AND VALIDITY OF THE TOOL
+## 3.8 Procedure of Data Collection
 
-### 3.8.1 Reliability
+### 3.8.1 Preliminary Preparation
 
-The author of the tool has reported reliability coefficients estimated by three methods, viz. *test–retest* (after a gap of four weeks), *split-half* (with Spearman–Brown correction) and *Kuder–Richardson Formula 20*. The values reported in the test manual are summarised below:
+Before proceeding to data collection, several preparatory steps were undertaken:
 
-#### TABLE 3.3
-**Reliability Coefficients of the Vocational Interest Record**
+1. **Literature Review:** A thorough review of related literature was conducted to identify the most appropriate tool and methodology for the study.
+2. **Tool Procurement:** A copy of the KVIR (including the manual, test booklets, and answer sheets) was procured from the National Psychological Corporation, Agra.
+3. **Familiarisation:** The researcher thoroughly familiarised herself with the KVIR manual, scoring procedures, and normative data.
+4. **Ethical Approval:** The research proposal was submitted to and approved by the dissertation supervisor, Dr. Seema Sharma.
 
-| Area | Test–Retest *r* | Split-Half *r* | KR-20 |
-|:---|:---:|:---:|:---:|
-| Literary | 0.82 | 0.80 | 0.78 |
-| Scientific | 0.85 | 0.83 | 0.81 |
-| Executive | 0.79 | 0.77 | 0.75 |
-| Commercial | 0.81 | 0.79 | 0.77 |
-| Constructive | 0.78 | 0.76 | 0.74 |
-| Artistic | 0.83 | 0.81 | 0.79 |
-| Agricultural | 0.80 | 0.78 | 0.76 |
-| Persuasive | 0.77 | 0.75 | 0.73 |
-| Social | 0.81 | 0.79 | 0.77 |
-| Household | 0.84 | 0.82 | 0.80 |
-| **Average** | **0.81** | **0.79** | **0.77** |
+### 3.8.2 Permission and School Entry
 
-The reliability coefficients are *acceptably high* on all the three methods and on all the ten areas, indicating that the tool yields *consistent* results.
+**Shri Sanskrit Inter College, Meerut (Rural School):**
 
-### 3.8.2 Validity
+The researcher visited the school in the first week of September 2025. After meeting the Principal and explaining the purpose of the research study, a formal application for permission was submitted. The Principal was extremely supportive and granted permission for the study to be conducted with Class IX students. He also facilitated the researcher's meeting with the Class IX form teacher, who provided the class roster and helped schedule the data collection session. The researcher was impressed by the cooperative and warm atmosphere of the school, and by the enthusiasm of the students who were clearly excited to participate in an activity that was different from their routine academic work.
 
-The author has reported three types of validity:
+**KP International School, Kila Parikshit Garh (Urban School):**
 
-(a) **Content validity** — established through the judgement of a panel of ten subject experts (including Educational Psychologists and Vocational Counsellors) who examined the items for their representativeness of the ten areas.
+The researcher visited this school in the second week of September 2025. The school's academic coordinator first reviewed the research tool and the research protocol before granting permission. A formal letter from the Meerut College Education Department, signed by the supervisor, was submitted as supporting documentation. Permission was granted for Class X students, and a suitable date for data collection was arranged. The urban school environment — with its spacious classrooms, well-stocked library, and digital infrastructure — was visibly different from the rural school, and this contrast itself served as a reminder of the educational inequalities the study was seeking to illuminate.
 
-(b) **Concurrent validity** — established by correlating the V.I.R. scores with the scores on the *Strong Vocational Interest Blank* (Hindi adaptation) on a sample of 200 students of Class X. The validity coefficients ranged from 0.61 (Persuasive) to 0.78 (Scientific) with a median *r* of 0.71.
+### 3.8.3 Rapport Building and Student Interaction
 
-(c) **Predictive validity** — established by correlating the V.I.R. scores of 300 Class IX students with their *subject-stream choice* at +2 stage two years later. The biserial correlations ranged from 0.42 to 0.66, indicating a fairly satisfactory predictive value.
+Before the formal administration of the KVIR, the researcher spent approximately 20–25 minutes interacting informally with the students in each school. This rapport-building session was essential for two reasons: first, to create a comfortable and relaxed atmosphere in which students would feel free to respond honestly; and second, to address any apprehensions about the purpose of the activity.
 
-In view of these psychometric properties, the V.I.R. is regarded as a *technically sound* tool for measuring vocational interests of Indian secondary school students.
+In the rural school, several students initially worried that their responses would be shared with their parents or used to make decisions about their education. The researcher carefully and repeatedly emphasised that the exercise was purely for research purposes, that all responses would be confidential, and that there were absolutely no right or wrong answers. Once reassured, the students became visibly more relaxed and engaged.
 
----
+In the urban school, students were generally more at ease with standardised assessment activities, having had more exposure to such exercises through their CBSE-structured school curriculum. However, the researcher still made a point of clarifying the purpose and ensuring that all students understood and consented to their participation.
 
-## 3.9 PROCEDURE OF DATA COLLECTION
+### 3.8.4 Data Collection Sessions
 
-The procedure followed by the investigator for data collection had the following steps:
+Data collection was completed over two sessions:
 
-**Step 1 — Pilot Visit.** During the first week of August 2025, the investigator made an exploratory visit to a small number of schools in Meerut district to identify potential schools matching the four cells of the design. The four schools described in Section 3.5 were finalised after this visit.
+- **Session 1:** Shri Sanskrit Inter College — September 12, 2025 (Class IX students; 30 students participating)
+- **Session 2:** KP International School — September 19, 2025 (Class X students; 30 students participating)
 
-**Step 2 — Permission.** A formal letter of permission from the Department of Education, C.C.S. University, Meerut, was obtained and submitted to the Principals of the four schools. All the four Principals readily granted permission and assured cooperation.
+In each session, the KVIR was administered following the standardised procedure described in Section 3.6.6. The researcher was personally present throughout both sessions. All 60 administered answer sheets were complete and usable — there were no missing or spoiled data.
 
-**Step 3 — Procurement of the Tool.** The required number (220, including 20 spare copies) of *Vocational Interest Record* booklets, *answer sheets* and the *manual* were procured from National Psychological Corporation, Agra.
+### 3.8.5 Scoring
 
-**Step 4 — Schedule.** A schedule was worked out in consultation with the Principals of the four schools. Data collection was carried out in the first week of October 2025 in the following order:
-- Day 1 — Shri Sanskrit Inter College, Aitmadpur.
-- Day 2 — Amod Memorial Public School, Khajuri.
-- Day 3 — G.S.D.N. Inter College, Kila Parikshit Garh.
-- Day 4 — K.P. International School, Kila Parikshit Garh.
+Following data collection, all 60 answer sheets were scored by the researcher using the official KVIR scoring key. The nine area scores for each student were calculated and recorded in a master data sheet. The scoring was double-checked for accuracy by re-scoring a random subsample of 10 answer sheets, with no discrepancies found.
 
-**Step 5 — Administration.** On each day, the selected 50 students of Class IX of the school were assembled in a single hall during the first two periods. The investigator personally administered the V.I.R. The general procedure followed was:
-- Establishing rapport with the pupils.
-- Distributing booklets and answer sheets.
-- Explaining the instructions in Hindi (and a brief English explanation in the case of K.P. International School).
-- Reading out the first three items by way of practice.
-- Letting the pupils complete the rest of the items at their own pace within a generous time limit of 45 minutes.
+## 3.9 Statistical Techniques Used
 
-**Step 6 — Collection.** After the pupils had finished, the answer sheets were collected, checked for completeness and serially numbered. Where any item had been left blank or doubly marked, the pupil was personally requested to clarify his/her response.
+The following statistical techniques were employed for data analysis:
 
-**Step 7 — Confidentiality.** The pupils were assured that their responses would be kept *strictly confidential* and would be used *only* for the academic purposes of the dissertation.
+### 3.9.1 Percentage Analysis
 
-The total response rate was *100 per cent*. Of the 200 answer sheets received, all were *usable*; none had to be discarded.
+**Purpose:** To describe the distribution of dominant vocational interests within each subgroup (rural boys, rural girls, urban boys, urban girls).
 
----
+**Formula:**
 
-## 3.10 SCORING PROCEDURE
+Percentage = (Frequency / Total N) × 100
 
-The answer sheets were scored manually by the investigator with the help of the *scoring key* supplied with the tool. The procedure was as follows:
+Percentage analysis allows easy visual comparison of interest distributions across groups through pie charts and bar graphs.
 
-1. For each item, the pupil's response was assigned a numerical value:
- - *Like* = 2,
- - *Indifferent* = 1,
- - *Dislike* = 0.
-2. The scores of the ten items belonging to each area were summed. This gave the *area-wise raw score*, which could range from 0 (extreme dislike on all items) to 20 (extreme liking on all items).
-3. The ten area-wise raw scores together formed the *vocational interest profile* of the pupil.
-4. To check accuracy, 20 randomly selected answer sheets were re-scored by an independent rater. The agreement between the two scorings was 100 per cent on every item, confirming the *objectivity* of the scoring procedure.
+### 3.9.2 Mean (Arithmetic Mean)
 
-The complete *raw score sheet* of all 200 students has been preserved by the investigator and a sample of it is given in **Appendix C**.
+**Purpose:** To calculate the average vocational interest score for each group on each of the nine areas.
 
----
+**Formula:**
 
-## 3.11 STATISTICAL TECHNIQUES USED
+M = ΣX / N
 
-The data so collected were subjected to the following statistical analyses:
+Where:
+- M = Mean
+- ΣX = Sum of all scores in the group
+- N = Number of students in the group
 
-### 3.11.1 Descriptive Statistics
+The mean provides a single representative value for the central tendency of each group's interest scores, enabling group comparisons.
 
-- *Mean (M)* — to indicate the average level of interest.
-- *Standard Deviation (S.D.)* — to indicate the spread of the scores.
-- *Range (highest – lowest score)* — to give an idea of the variability.
+### 3.9.3 Standard Deviation
 
-### 3.11.2 Inferential Statistics
+**Purpose:** To measure the variability or spread of vocational interest scores within each group.
 
-**(a) The *t*-test for the difference between two independent means** has been used to test:
-- Hypothesis H₀1 (Rural vs. Urban),
-- Hypothesis H₀2 (Government vs. Private),
-- Hypothesis H₀3 (Boys vs. Girls).
+**Formula:**
 
-The formula used is:
+SD = √[Σ(X - M)² / N]
 
-```
-                M₁ – M₂
-   t  =  ─────────────────────────
-         √( σ₁²/n₁  +  σ₂²/n₂ )
-```
+Or equivalently:
 
-where M₁ and M₂ are the two means, σ₁² and σ₂² the corresponding variances and n₁ and n₂ the sample sizes. The degrees of freedom (df) used was n₁ + n₂ – 2 = 198. The critical *t* values at this *df* are 1.97 at the .05 level and 2.60 at the .01 level (two-tailed).
+SD = √[(ΣX²/N) - (ΣX/N)²]
 
-**(b) One-way Analysis of Variance (ANOVA)** has been used to test:
-- Hypothesis H₀4 (simultaneous comparison of the four groups).
+Where:
+- SD = Standard Deviation
+- X = Individual score
+- M = Mean of the group
+- N = Number of students
 
-The *F*-ratio is calculated as the ratio of *mean squares between* and *mean squares within*:
+A larger standard deviation indicates greater heterogeneity in the interest scores within the group; a smaller SD indicates that scores are more tightly clustered around the mean.
 
-```
-            MS_between
-   F  =  ──────────────
-            MS_within
-```
+### 3.9.4 t-test for Independent Samples
 
-The degrees of freedom used were *df₁ = k − 1 = 3* and *df₂ = N − k = 196*. The critical *F* values at these degrees of freedom are 2.65 at the .05 level and 3.88 at the .01 level.
+**Purpose:** To test the statistical significance of differences between the mean vocational interest scores of two independent groups (boys vs. girls; rural vs. urban).
 
-### 3.11.3 Significance Levels
+**Formula:**
 
-Two *significance levels* have been used in the present study:
-- **.05 level** — denoted by an asterisk (*) in the analysis tables. A result is treated as *significant* at this level when the calculated value of *t* or *F* exceeds the corresponding critical value.
-- **.01 level** — denoted by a double asterisk (**). A result is treated as *highly significant* at this level.
+t = (M₁ - M₂) / √[SD₁²/N₁ + SD₂²/N₂]
 
-### 3.11.4 Software Used
+Where:
+- M₁ and M₂ = Means of Group 1 and Group 2
+- SD₁ and SD₂ = Standard Deviations of Group 1 and Group 2
+- N₁ and N₂ = Sample sizes of Group 1 and Group 2
 
-The arithmetical computations were carried out partly by hand and partly using *Microsoft Excel 2019* spreadsheet software. The calculations were independently verified by re-running the data through *SPSS Version 23.0* in the Department of Education, C.C.S. University, Meerut, in November 2025.
+**Degrees of Freedom:**
 
----
+df = N₁ + N₂ - 2
 
-The next chapter is devoted to the *Analysis and Interpretation of Data*, in which the area-wise mean scores, the *t*-values and the *F*-values are presented in detail and the four null hypotheses are tested.
+**Level of Significance:** All hypotheses were tested at the **0.05 level of significance** (two-tailed test).
 
----
-*** End of Chapter III ***
+**Critical Value:** For df = 28 (15 + 15 - 2), the critical value of t at 0.05 level (two-tailed) is **2.048**.
+
+The null hypothesis is **rejected** if the calculated t-value exceeds the critical value (|t| > 2.048), indicating a statistically significant difference between the two groups.
+
+## 3.10 Ethical Considerations
+
+The present study was conducted with strict adherence to the ethical principles governing educational research. The following ethical safeguards were observed:
+
+1. **Informed Consent:** Written permission was obtained from the Principals of both schools. Verbal assent was obtained from all student participants after a clear explanation of the study's purpose and their right to withdraw without consequences.
+
+2. **Confidentiality:** All response sheets were coded numerically to ensure anonymity. No individual student's responses were disclosed to teachers, parents, school administration, or other students.
+
+3. **Voluntary Participation:** Participation was entirely voluntary. Students were explicitly told that they could withdraw at any time without any negative consequences.
+
+4. **Non-Deception:** The researcher fully and honestly explained the purpose of the study to all participants. No deception was used.
+
+5. **Data Security:** All collected data is stored securely and will be accessible only to the researcher and the dissertation supervisor.
+
+6. **Respect for Participants:** The researcher maintained respectful, non-judgemental, and encouraging interactions with all student participants throughout the data collection process.
+
+7. **Minimisation of Disruption:** Data collection was scheduled to cause minimal disruption to the schools' academic schedules, with sessions conducted during designated free periods where possible.

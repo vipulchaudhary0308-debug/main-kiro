@@ -1,275 +1,290 @@
-# A COMPARATIVE STUDY OF VOCATIONAL INTERESTS OF SECONDARY SCHOOL STUDENTS OF RURAL AND URBAN AREAS IN GOVERNMENT AND PRIVATE SCHOOLS OF MEERUT DISTRICT
+# A COMPARATIVE STUDY OF THE VOCATIONAL INTERESTS OF BOYS AND GIRLS STUDYING AT SECONDARY LEVEL
 
 ---
 
-**A DISSERTATION**
-
-Submitted to the
-
-**CHAUDHARY CHARAN SINGH UNIVERSITY, MEERUT**
-
-In Partial Fulfilment of the Requirements for the Degree of
+**Submitted in Partial Fulfilment of the Requirements for the Degree of**
 
 **MASTER OF EDUCATION (M.Ed.)**
 
-**Session 2025–2026**
+**Session: 2024–2026**
 
 ---
 
-**Submitted By:**
-[Name of the Researcher]
-M.Ed. Roll No. _______________
-Enrolment No. _______________
+**Submitted by:**
+
+**VIPUL CHAUDHARY**
+
+Roll No.: 230557023
+
+Father's Name: Shri Rajesh Kumar
+
+Mother's Name: Smt. Asha Chaudhary
+
+---
 
 **Under the Supervision of:**
-[Name of the Supervisor]
-Designation
-Department of Education
+
+**DR. SEEMA SHARMA**
+
+Associate Professor, Department of Education
 
 ---
 
 **DEPARTMENT OF EDUCATION**
-**CHAUDHARY CHARAN SINGH UNIVERSITY**
-**MEERUT – 250004 (U.P.)**
 
-**2025–2026**
+**MEERUT COLLEGE, MEERUT**
+
+**(Affiliated to Chaudhary Charan Singh University, Meerut)**
+
+**2024–2026**
 
 ---
----
 
-## CERTIFICATE OF THE SUPERVISOR
+\newpage
 
-This is to certify that the dissertation entitled **"A Comparative Study of Vocational Interests of Secondary School Students of Rural and Urban Areas in Government and Private Schools of Meerut District"** submitted by **Shri/Kumari ____________________**, a bonafide M.Ed. student of the Department of Education, Chaudhary Charan Singh University, Meerut, is the original work carried out by the candidate under my supervision and guidance for the partial fulfilment of the requirement for the award of the degree of Master of Education (M.Ed.) of Chaudhary Charan Singh University, Meerut.
+## SUPERVISOR'S CERTIFICATE
 
-The work embodied in this dissertation has not been submitted to any other University or Institution for the award of any degree, diploma or any other similar title.
+This is to certify that the dissertation entitled **"A Comparative Study of the Vocational Interests of Boys and Girls Studying at Secondary Level"** has been prepared by **Vipul Chaudhary**, Roll No. 230557023, under my direct supervision and guidance. The work is original and has not been submitted elsewhere, either in whole or in part, for the award of any degree or diploma.
 
-The candidate has fulfilled all the requirements of the regulations for the M.Ed. dissertation laid down by the University.
+To the best of my knowledge and belief, the dissertation fulfils the requirements prescribed by Chaudhary Charan Singh University, Meerut, for the award of the degree of **Master of Education (M.Ed.)**.
 
-I recommend the dissertation for evaluation.
+I recommend it for submission and evaluation.
 
-Place: Meerut
-Date: __________
+&nbsp;
 
-(Signature)
-**(Supervisor)**
-[Name of the Supervisor]
-Designation
+**Date:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Place:** Meerut
+
+&nbsp;
+
+&nbsp;
+
+**(Dr. Seema Sharma)**
+
+Associate Professor
+
 Department of Education
-C.C.S. University, Meerut
+
+Meerut College, Meerut
+
+Chaudhary Charan Singh University, Meerut
 
 ---
+
+\newpage
+
+## DECLARATION BY THE RESEARCH SCHOLAR
+
+I, **Vipul Chaudhary**, Roll No. 230557023, a student of M.Ed. (Session 2024–2026), Department of Education, Meerut College, Meerut, affiliated to Chaudhary Charan Singh University, Meerut, hereby solemnly declare that the dissertation entitled **"A Comparative Study of the Vocational Interests of Boys and Girls Studying at Secondary Level"** has been independently prepared by me under the supervision of **Dr. Seema Sharma**, Associate Professor, Department of Education, Meerut College, Meerut.
+
+I further declare that:
+
+1. This dissertation is an original piece of research work carried out by me and is based on data collected personally from the field during the academic session 2024–2026.
+
+2. This work has not been submitted, either in whole or in part, for the award of any other degree, diploma, or certificate to any university or institution.
+
+3. All references, citations, and sources used in this dissertation have been duly acknowledged in accordance with APA 7th Edition guidelines.
+
+4. The data presented in this dissertation is authentic and has been collected with the consent of the concerned school authorities and participants.
+
+5. I take full responsibility for the originality and authenticity of the content presented herein.
+
+&nbsp;
+
+**Date:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Place:** Meerut
+
+&nbsp;
+
+&nbsp;
+
+**(Vipul Chaudhary)**
+
+M.Ed. Research Scholar
+
+Roll No.: 230557023
+
+Department of Education
+
+Meerut College, Meerut
+
 ---
 
-## DECLARATION OF THE CANDIDATE
-
-I, **____________________**, hereby declare that the dissertation entitled **"A Comparative Study of Vocational Interests of Secondary School Students of Rural and Urban Areas in Government and Private Schools of Meerut District"** submitted by me to the Department of Education, Chaudhary Charan Singh University, Meerut, in partial fulfilment of the requirements for the award of the Degree of Master of Education (M.Ed.) is the result of my own original investigation. I further declare that this work has been carried out under the supervision and guidance of **____________________**, Department of Education, C.C.S. University, Meerut.
-
-I further declare that this dissertation, or any part of it, has not been previously submitted to any university or institution for the award of any degree, diploma or any other similar title.
-
-Place: Meerut
-Date: __________
-
-(Signature of the Candidate)
-**Name:** ____________________
-**M.Ed. Roll No.** ____________________
-**Enrolment No.** ____________________
-
----
----
+\newpage
 
 ## ACKNOWLEDGEMENT
 
-The completion of this dissertation has been a journey of immense learning, perseverance and personal growth. It would not have been possible without the inspiration, encouragement and active cooperation of a number of persons whose contribution I gratefully acknowledge.
+*"Gratitude is not only the greatest of virtues, but the parent of all others."*
+— Cicero
 
-First and foremost, I bow my head before the **Almighty God** whose divine grace has enabled me to bring this work to a meaningful conclusion.
+It is with a deeply humble and grateful heart that I pen down these words of acknowledgement, for behind every piece of research work stand countless individuals whose support, encouragement, and blessings make it possible.
 
-I take this opportunity to express my deep sense of gratitude and indebtedness to my esteemed supervisor **____________________**, Department of Education, Chaudhary Charan Singh University, Meerut, for his/her invaluable guidance, constructive criticism, scholarly suggestions and constant encouragement at every step of the present investigation. His/Her sincere interest in the problem and untiring efforts have been a great source of inspiration to me throughout the course of this study.
+First and foremost, I bow before the **Almighty God**, whose infinite grace and divine blessings have given me the strength, clarity of thought, and perseverance to complete this dissertation. Every step of this academic journey has been guided by His invisible hand, and I am eternally grateful.
 
-I am extremely thankful to the **Head of the Department of Education**, C.C.S. University, Meerut, and to all the **respected teachers** of the Department for their academic support and the rich learning environment they provided.
+I owe a profound debt of gratitude to my respected supervisor, **Dr. Seema Sharma**, Associate Professor, Department of Education, Meerut College, Meerut. Her scholarly guidance, constructive criticism, unwavering support, and patient mentorship have been the cornerstone of this dissertation. She not only guided me academically but also inspired me to think critically and approach research with integrity and dedication. Her encouraging words during moments of self-doubt gave me the confidence to move forward. I consider myself truly fortunate to have been her student.
 
-I extend my heartfelt thanks to **Dr. S.P. Kulshrestha** whose standardised *Vocational Interest Record* has been the principal tool of measurement in the present investigation. The scholarly contribution of the author has provided a strong empirical foundation to this study.
+I extend my heartfelt thanks to the **Head and faculty members of the Department of Education, Meerut College, Meerut**, for their academic support and for providing all necessary facilities during the course of this research work. The intellectual environment of the department has been immensely enriching.
 
-I am sincerely thankful to the **Principals, teachers and students** of the following institutions for their wholehearted cooperation during the data collection phase of the study:
+My deepest and most heartfelt gratitude goes to my beloved **father, Shri Rajesh Kumar**, whose silent sacrifices, relentless hard work, and unwavering belief in my education have been the greatest motivation of my life. He has always been my first teacher and my strongest pillar of strength. Every achievement I attain is a tribute to his dreams and efforts.
 
-1. Shri Sanskrit Inter College, Aitmadpur, Meerut (Rural Government)
-2. Amod Memorial Public School, Khajuri, Meerut (Rural Private)
-3. G.S.D.N. Inter College, Kila Parikshit Garh, Meerut (Urban Government)
-4. K.P. International School, Kila Parikshit Garh, Meerut (Urban Private)
+Words fall short when I try to express my gratitude towards my **mother, Smt. Asha Chaudhary**, whose unconditional love, prayers, and endless blessings have been my greatest source of strength throughout this journey. Her warmth, patience, and constant encouragement have made even the most difficult phases of this research bearable and meaningful.
 
-The administration and the students of these institutions extended every possible facility, without which the data of this study could never have been collected.
+I also wish to sincerely thank my dear **brother, Yash Chaudhary**, for his constant moral support, encouragement, and his cheerful presence that lightened many stressful moments. His faith in my capabilities has always motivated me to push my limits.
 
-I am thankful to the **Library Staff** of the Department of Education, the **Central Library, C.C.S. University**, the **N.C.E.R.T. Library, New Delhi** and the **Maulana Azad Library, A.M.U., Aligarh**, for their kind cooperation in providing relevant material for the review of literature.
+I am sincerely grateful to the **Principals and Teachers of Shri Sanskrit Inter College, Meerut** and **KP International School, Kila Parikshit Garh, Meerut**, for granting me permission to conduct this study in their esteemed institutions and for their wholehearted cooperation. The students who willingly participated in this study deserve special appreciation — their honest responses form the foundation of this research.
 
-I cannot forget the silent prayers, blessings, sacrifices and endless support of my **parents** and other family members. Their faith in me has been the greatest motivating force.
+I also thank all my **friends and classmates** of the M.Ed. programme for their companionship, constructive discussions, and emotional support throughout this academic journey.
 
-Finally, I extend my thanks to my **friends and colleagues** for their valuable suggestions, useful discussions and emotional support during the course of this work. I am also thankful to **Shri ____________________** of __________________ for the neat typing, formatting and binding of the dissertation.
+This dissertation is my sincere effort to contribute, however modestly, to the field of educational research. All limitations and shortcomings in this work are entirely my own.
 
-Any errors or shortcomings that may have remained in this work are entirely my own responsibility.
+&nbsp;
 
-Place: Meerut
-Date: __________
+**Date:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-(Signature of the Candidate)
-**Name:** ____________________
+**Place:** Meerut
+
+&nbsp;
+
+**(Vipul Chaudhary)**
+
+Research Scholar, M.Ed. (2024–2026)
+
+Department of Education
+
+Meerut College, Meerut
 
 ---
+
+\newpage
+
+## PREFACE
+
+The present dissertation entitled **"A Comparative Study of the Vocational Interests of Boys and Girls Studying at Secondary Level"** has been undertaken as a partial fulfilment of the requirements for the degree of Master of Education (M.Ed.) from Chaudhary Charan Singh University, Meerut, during the academic session 2024–2026.
+
+The secondary stage of education is widely acknowledged as one of the most psychologically significant phases in the life of an adolescent. It is during this formative period — roughly spanning the ages of 13 to 17 years — that young learners begin to develop a clearer sense of self, form lasting attitudes, and, perhaps most importantly, begin to contemplate their future vocational roles in society. Yet, despite the critical nature of this stage, formal vocational guidance in Indian secondary schools remains alarmingly inadequate. Many students enter higher education without any conscious understanding of their own vocational interests, often making career choices under parental pressure, social expectations, or sheer chance.
+
+It was this observed gap between the vocational guidance needs of students and the reality of our school system that inspired the present study. The researcher, having spent time interacting with students at both rural and urban schools in the Kila Parikshit Garh region of Meerut district, noticed strikingly different patterns in how boys and girls perceived their vocational futures. Boys often gravitated towards technical and executive fields, while girls exhibited greater inclinations towards social, artistic, and household-related vocations. This observation raised a pertinent question: Are these differences the product of genuine interest, or are they reflections of deeply embedded social conditioning?
+
+Attempting to answer this question through a systematic, empirical study became the central purpose of this dissertation. The study uses the **S.P. Kulshrestha Vocational Interest Record** — a well-standardised tool developed specifically for Indian secondary school students — to measure and compare the vocational interests of boys and girls across rural government and urban private schools.
+
+The study is structured across five major chapters. **Chapter One** provides a detailed introduction to the concept of vocational interest, its theoretical foundations, and the context of secondary education in India. **Chapter Two** presents a comprehensive review of related literature, drawing on both Indian and international studies. **Chapter Three** describes the research methodology adopted for the study. **Chapter Four** is devoted to data analysis and interpretation, supported by statistical techniques and visual representations. **Chapter Five** summarises the findings, draws conclusions, and offers suggestions for educators, parents, counsellors, and future researchers.
+
+It is the researcher's sincere hope that this dissertation will serve as a small but meaningful contribution to the growing body of educational research on vocational guidance and career counselling in India.
+
+&nbsp;
+
+**(Vipul Chaudhary)**
+
+Meerut, 2026
+
 ---
+
+\newpage
 
 ## TABLE OF CONTENTS
 
-| | | Page |
-|:---|:---|---:|
-| | Certificate of the Supervisor | i |
-| | Declaration of the Candidate | ii |
-| | Acknowledgement | iii–iv |
-| | Table of Contents | v–vi |
-| | List of Tables | vii–ix |
-| | List of Figures | x |
-| | Abstract | xi–xii |
-| | | |
-| **CHAPTER – I** | **INTRODUCTION** | **1–18** |
+| **S.No.** | **Content** | **Page No.** |
+|---|---|---|
+| — | Supervisor's Certificate | i |
+| — | Declaration by Research Scholar | ii |
+| — | Acknowledgement | iii |
+| — | Preface | v |
+| — | Table of Contents | vii |
+| — | List of Tables | ix |
+| — | List of Graphs and Charts | x |
+| **Chapter 1** | **Introduction** | **1** |
 | 1.1 | Introduction | 1 |
-| 1.2 | Concept of Interest | 3 |
-| 1.3 | Concept of Vocational Interest | 5 |
-| 1.4 | Theories of Vocational Interest | 7 |
-| 1.5 | Importance of Vocational Interest at Secondary Stage | 10 |
-| 1.6 | Rural–Urban Differences in Indian Education | 12 |
-| 1.7 | Government vs. Private School Education | 14 |
-| 1.8 | Need and Significance of the Study | 15 |
-| 1.9 | Statement of the Problem | 16 |
-| 1.10 | Operational Definitions of the Terms Used | 16 |
-| 1.11 | Objectives of the Study | 17 |
-| 1.12 | Hypotheses of the Study | 17 |
-| 1.13 | Delimitations of the Study | 18 |
-| | | |
-| **CHAPTER – II** | **REVIEW OF RELATED LITERATURE** | **19–42** |
-| 2.1 | Introduction | 19 |
-| 2.2 | Importance of Review of Related Literature | 20 |
-| 2.3 | Studies Conducted in India | 21 |
-| 2.4 | Studies Conducted Abroad | 33 |
-| 2.5 | Critical Appraisal of Reviewed Literature | 39 |
-| 2.6 | Research Gap Identified | 41 |
-| | | |
-| **CHAPTER – III** | **METHODOLOGY** | **43–56** |
-| 3.1 | Introduction | 43 |
-| 3.2 | Method of the Study | 43 |
-| 3.3 | Population of the Study | 44 |
-| 3.4 | Sample and Sampling Technique | 44 |
-| 3.5 | Description of the Sample Schools | 46 |
-| 3.6 | Tool Used for Data Collection | 48 |
-| 3.7 | Description of the Vocational Interest Record by S.P. Kulshrestha | 49 |
-| 3.8 | Reliability and Validity of the Tool | 52 |
-| 3.9 | Procedure of Data Collection | 53 |
-| 3.10 | Scoring Procedure | 54 |
-| 3.11 | Statistical Techniques Used | 55 |
-| | | |
-| **CHAPTER – IV** | **ANALYSIS AND INTERPRETATION OF DATA** | **57–86** |
-| 4.1 | Introduction | 57 |
-| 4.2 | Descriptive Analysis of the Data | 58 |
-| 4.3 | Area-wise Mean Scores of the Four Groups | 60 |
-| 4.4 | Comparison between Rural and Urban Students | 66 |
-| 4.5 | Comparison between Government and Private School Students | 71 |
-| 4.6 | Comparison between Boys and Girls | 76 |
-| 4.7 | Comparison among the Four Groups (ANOVA) | 80 |
-| 4.8 | Discussion of the Results | 84 |
-| | | |
-| **CHAPTER – V** | **SUMMARY, FINDINGS, CONCLUSIONS AND SUGGESTIONS** | **87–96** |
-| 5.1 | Summary of the Study | 87 |
-| 5.2 | Major Findings | 89 |
-| 5.3 | Conclusions | 92 |
-| 5.4 | Educational Implications | 93 |
-| 5.5 | Suggestions for Further Research | 95 |
-| 5.6 | Limitations of the Study | 96 |
-| | | |
-| | **BIBLIOGRAPHY** | **97–101** |
-| | **APPENDICES** | **102–106** |
+| 1.2 | Meaning and Concept of Vocational Interest | 2 |
+| 1.3 | Definitions of Vocational Interest | 4 |
+| 1.4 | Areas of Vocational Interest (Kulshrestha) | 6 |
+| 1.5 | Importance of Vocational Interest | 9 |
+| 1.6 | Secondary Education in India | 11 |
+| 1.7 | Adolescence and Career Choice | 13 |
+| 1.8 | Gender Differences in Career Aspirations | 15 |
+| 1.9 | Rural and Urban Educational Context | 17 |
+| 1.10 | Need and Significance of the Study | 19 |
+| 1.11 | Statement of the Problem | 21 |
+| 1.12 | Objectives of the Study | 21 |
+| 1.13 | Hypotheses of the Study | 22 |
+| 1.14 | Delimitations of the Study | 23 |
+| 1.15 | Assumptions of the Study | 24 |
+| 1.16 | Operational Definitions | 24 |
+| 1.17 | Organization of the Study | 25 |
+| **Chapter 2** | **Review of Related Literature** | **26** |
+| 2.1 | Introduction | 26 |
+| 2.2 | Indian Studies | 26 |
+| 2.3 | Foreign Studies | 34 |
+| 2.4 | Critical Review of Literature | 38 |
+| 2.5 | Research Gap | 39 |
+| 2.6 | Summary | 40 |
+| **Chapter 3** | **Research Methodology** | **41** |
+| 3.1 | Introduction | 41 |
+| 3.2 | Research Method | 41 |
+| 3.3 | Variables of the Study | 42 |
+| 3.4 | Population | 43 |
+| 3.5 | Sample and Sampling Technique | 43 |
+| 3.6 | Tool Used | 44 |
+| 3.7 | Reliability and Validity | 46 |
+| 3.8 | Procedure of Data Collection | 47 |
+| 3.9 | Statistical Techniques Used | 48 |
+| 3.10 | Ethical Considerations | 51 |
+| **Chapter 4** | **Data Analysis and Interpretation** | **52** |
+| 4.1 | Introduction | 52 |
+| 4.2 | Percentage Analysis of Vocational Interests | 53 |
+| 4.3 | Gender-wise Mean Score Comparison | 60 |
+| 4.4 | Rural vs. Urban Comparison | 67 |
+| 4.5 | t-test Analysis | 73 |
+| 4.6 | Major Observations | 79 |
+| **Chapter 5** | **Summary, Findings, Conclusions and Suggestions** | **81** |
+| 5.1 | Summary of the Study | 81 |
+| 5.2 | Major Findings | 82 |
+| 5.3 | Educational Implications | 85 |
+| 5.4 | Conclusions | 86 |
+| 5.5 | Suggestions | 87 |
+| 5.6 | Limitations of the Study | 90 |
+| 5.7 | Scope for Future Research | 91 |
+| — | **Bibliography / References** | **92** |
+| — | **Appendices** | **98** |
 
 ---
----
+
+\newpage
 
 ## LIST OF TABLES
 
-| Table No. | Title of the Table | Page |
-|:---:|:---|---:|
-| 3.1 | Distribution of the Sample According to Locality, Type of Management and Gender | 45 |
-| 3.2 | Number of Items in Each Area of the Vocational Interest Record | 50 |
-| 3.3 | Reliability Coefficients of the Vocational Interest Record | 52 |
-| 4.1 | Mean and Standard Deviation of the Total Sample on Ten Areas of Vocational Interest | 58 |
-| 4.2 | Area-wise Mean and S.D. of Rural Government School Students (N = 50) | 60 |
-| 4.3 | Area-wise Mean and S.D. of Rural Private School Students (N = 50) | 61 |
-| 4.4 | Area-wise Mean and S.D. of Urban Government School Students (N = 50) | 62 |
-| 4.5 | Area-wise Mean and S.D. of Urban Private School Students (N = 50) | 63 |
-| 4.6 | Rank Order of Vocational Interest Areas of Four Groups | 64 |
-| 4.7 | Comparison of Rural and Urban Students on Literary Interest | 66 |
-| 4.8 | Comparison of Rural and Urban Students on Scientific Interest | 66 |
-| 4.9 | Comparison of Rural and Urban Students on Executive Interest | 67 |
-| 4.10 | Comparison of Rural and Urban Students on Commercial Interest | 67 |
-| 4.11 | Comparison of Rural and Urban Students on Constructive Interest | 68 |
-| 4.12 | Comparison of Rural and Urban Students on Artistic Interest | 68 |
-| 4.13 | Comparison of Rural and Urban Students on Agricultural Interest | 69 |
-| 4.14 | Comparison of Rural and Urban Students on Persuasive Interest | 69 |
-| 4.15 | Comparison of Rural and Urban Students on Social Interest | 70 |
-| 4.16 | Comparison of Rural and Urban Students on Household Interest | 70 |
-| 4.17 | Comparison of Government and Private School Students on Literary Interest | 71 |
-| 4.18 | Comparison of Government and Private School Students on Scientific Interest | 71 |
-| 4.19 | Comparison of Government and Private School Students on Executive Interest | 72 |
-| 4.20 | Comparison of Government and Private School Students on Commercial Interest | 72 |
-| 4.21 | Comparison of Government and Private School Students on Constructive Interest | 73 |
-| 4.22 | Comparison of Government and Private School Students on Artistic Interest | 73 |
-| 4.23 | Comparison of Government and Private School Students on Agricultural Interest | 74 |
-| 4.24 | Comparison of Government and Private School Students on Persuasive Interest | 74 |
-| 4.25 | Comparison of Government and Private School Students on Social Interest | 75 |
-| 4.26 | Comparison of Government and Private School Students on Household Interest | 75 |
-| 4.27 | Comparison of Boys and Girls on Ten Areas of Vocational Interest | 76 |
-| 4.28 | Summary of ANOVA on Literary Interest among Four Groups | 80 |
-| 4.29 | Summary of ANOVA on Scientific Interest among Four Groups | 80 |
-| 4.30 | Summary of ANOVA on Executive Interest among Four Groups | 81 |
-| 4.31 | Summary of ANOVA on Commercial Interest among Four Groups | 81 |
-| 4.32 | Summary of ANOVA on Constructive Interest among Four Groups | 81 |
-| 4.33 | Summary of ANOVA on Artistic Interest among Four Groups | 82 |
-| 4.34 | Summary of ANOVA on Agricultural Interest among Four Groups | 82 |
-| 4.35 | Summary of ANOVA on Persuasive Interest among Four Groups | 82 |
-| 4.36 | Summary of ANOVA on Social Interest among Four Groups | 83 |
-| 4.37 | Summary of ANOVA on Household Interest among Four Groups | 83 |
-| 4.38 | Consolidated F-values of Four Groups on Ten Areas | 84 |
-| 5.1 | Consolidated Picture of the Major Findings of the Study | 90 |
+| **Table No.** | **Title** | **Page No.** |
+|---|---|---|
+| 4.1 | Distribution of Sample by School Type and Gender | 53 |
+| 4.2 | Percentage Distribution of Dominant Vocational Interest Area – Boys (Rural) | 54 |
+| 4.3 | Percentage Distribution of Dominant Vocational Interest Area – Girls (Rural) | 55 |
+| 4.4 | Percentage Distribution of Dominant Vocational Interest Area – Boys (Urban) | 56 |
+| 4.5 | Percentage Distribution of Dominant Vocational Interest Area – Girls (Urban) | 57 |
+| 4.6 | Mean Scores of Boys and Girls on All Nine Vocational Interest Areas | 61 |
+| 4.7 | Standard Deviation of Vocational Interest Scores – Boys vs. Girls | 63 |
+| 4.8 | Mean Scores: Rural Boys vs. Urban Boys | 68 |
+| 4.9 | Mean Scores: Rural Girls vs. Urban Girls | 70 |
+| 4.10 | t-test Results: Boys vs. Girls on Technical Interest | 74 |
+| 4.11 | t-test Results: Boys vs. Girls on Scientific Interest | 75 |
+| 4.12 | t-test Results: Boys vs. Girls on Social Interest | 76 |
+| 4.13 | t-test Results: Boys vs. Girls on Artistic Interest | 77 |
+| 4.14 | t-test Results: Rural vs. Urban Students on Agricultural Interest | 78 |
+| 4.15 | Consolidated t-test Summary Table | 79 |
 
 ---
----
 
-## LIST OF FIGURES
+## LIST OF GRAPHS AND CHARTS
 
-| Figure No. | Title of the Figure | Page |
-|:---:|:---|---:|
-| 3.1 | Sampling Design of the Study | 46 |
-| 4.1 | Bar Diagram showing Mean Scores of Four Groups on Ten Areas of Vocational Interest | 65 |
-| 4.2 | Comparative Profile of Rural and Urban Students | 70 |
-| 4.3 | Comparative Profile of Government and Private School Students | 76 |
-
----
----
-
-## ABSTRACT
-
-The present investigation is entitled **"A Comparative Study of Vocational Interests of Secondary School Students of Rural and Urban Areas in Government and Private Schools of Meerut District"**. The study has been conducted in the district of Meerut (Uttar Pradesh) under the academic jurisdiction of Chaudhary Charan Singh University, Meerut, during the session 2025–2026.
-
-The adolescent stage is the crucial period during which an individual begins to crystallise his/her vocational choices. The Secondary School stage in Indian schools coincides with this period of vocational exploration. The choices made at this stage have far reaching consequences, not only on the academic future of the learner but also on his/her later occupational adjustment, personal happiness and contribution to society. Hence, the systematic and scientific identification of vocational interests at this stage assumes a great educational and social significance.
-
-In the present study an attempt has been made to investigate and compare the vocational interest pattern of students belonging to four educational settings, namely (i) rural government school, (ii) rural private school, (iii) urban government school and (iv) urban private school. The settings differ from one another in terms of locality (rural/urban) and type of management (government/private), and these two variables have been treated as the principal independent variables of the study. Gender has been treated as a secondary variable.
-
-**Objectives.** The study has been planned with five major objectives, the most important of which are: (a) to study the area-wise vocational interests of secondary school students of the four selected groups, (b) to compare the vocational interests of rural and urban secondary school students, (c) to compare the vocational interests of government and private secondary school students, (d) to compare the vocational interests of boys and girls, and (e) to compare the vocational interests of all the four groups simultaneously.
-
-**Hypotheses.** Four null hypotheses have been formulated, which postulate that no significant difference exists between rural and urban, government and private, boys and girls, and across the four groups, on the ten areas of vocational interest.
-
-**Method and Sample.** The investigation is *descriptive* in nature and has employed the *survey method* of educational research. A total of **200 students** of Class IX have been selected through the *stratified random sampling technique* from four schools, **fifty students from each school**, with equal representation of boys and girls (25 + 25). The four schools selected are (i) Shri Sanskrit Inter College, Aitmadpur, Meerut, (ii) Amod Memorial Public School, Khajuri, Meerut, (iii) G.S.D.N. Inter College, Kila Parikshit Garh, Meerut, and (iv) K.P. International School, Kila Parikshit Garh, Meerut.
-
-**Tool.** The *Vocational Interest Record (Hindi version)* developed and standardised by **Dr. S.P. Kulshrestha** has been used. The Record measures interest in ten well-defined vocational areas, viz. Literary, Scientific, Executive, Commercial, Constructive, Artistic, Agricultural, Persuasive, Social and Household.
-
-**Statistical Techniques.** Mean, Standard Deviation, *t*-test for the difference between two independent means, and One-way Analysis of Variance (ANOVA) have been used.
-
-**Major Findings.** The data analysis revealed that (i) urban students were found to be significantly higher than rural students on Scientific, Executive, Commercial and Persuasive areas of interest; (ii) rural students surpassed their urban counterparts in Agricultural, Constructive and Household areas; (iii) private school students obtained significantly higher mean scores than government school students on Scientific, Executive and Commercial areas; (iv) government school students obtained higher mean scores on Agricultural and Social areas; (v) boys were significantly higher than girls on Scientific, Executive and Agricultural areas, whereas girls obtained higher mean scores on Literary, Artistic, Social and Household areas; and (vi) one-way ANOVA disclosed significant differences among the four groups on eight out of the ten areas, the urban private school being highest on Scientific and Executive areas and the rural government school highest on Agricultural area.
-
-**Implications.** On the basis of the findings, certain educational implications have been drawn. Career guidance services in the secondary schools of Meerut, especially in the rural and government sector, need substantial strengthening. Career awareness programmes, exposure visits to industries and exhibitions, and trained guidance personnel are some of the important measures suggested. Suggestions for further research and limitations of the study have also been incorporated in the last chapter.
-
----
-*** End of Front Matter ***
+| **Figure No.** | **Title** | **Page No.** |
+|---|---|---|
+| 4.1 | Pie Chart – Dominant Vocational Interests of Rural Boys | 54 |
+| 4.2 | Pie Chart – Dominant Vocational Interests of Rural Girls | 56 |
+| 4.3 | Pie Chart – Dominant Vocational Interests of Urban Boys | 58 |
+| 4.4 | Pie Chart – Dominant Vocational Interests of Urban Girls | 59 |
+| 4.5 | Bar Graph – Mean Score Comparison: Boys vs. Girls (All Areas) | 62 |
+| 4.6 | Bar Graph – Standard Deviation Comparison: Boys vs. Girls | 64 |
+| 4.7 | Comparative Bar Graph – Rural Boys vs. Urban Boys | 69 |
+| 4.8 | Comparative Bar Graph – Rural Girls vs. Urban Girls | 71 |
+| 4.9 | Line Graph – Gender-wise Interest Profiles Across Nine Areas | 72 |
+| 4.10 | Bar Graph – t-values for All Hypotheses | 80 |
