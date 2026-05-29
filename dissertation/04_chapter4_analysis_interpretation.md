@@ -58,8 +58,8 @@ The following table presents the individual vocational interest scores of all 60
 | RB13 | 20 | 20 | 26 | 16 | 18 | 22 | 26 | 12 | 20 |
 | RB14 | 14 | 26 | 34 | 12 | 16 | 18 | 32 | 8 | 16 |
 | RB15 | 18 | 22 | 30 | 14 | 18 | 20 | 30 | 10 | 14 |
-| **ΣX** | **256** | **344** | **452** | **190** | **246** | **302** | **430** | **136** | **240** |
-| **Mean** | **17.07** | **22.93** | **30.13** | **12.67** | **16.40** | **20.13** | **28.67** | **9.07** | **16.00** |
+| **ΣX** | **256** | **344** | **452** | **200** | **246** | **302** | **430** | **136** | **240** |
+| **Mean** | **17.07** | **22.93** | **30.13** | **13.33** | **16.40** | **20.13** | **28.67** | **9.07** | **16.00** |
 
 **Table 4.3: Raw Vocational Interest Scores – Rural Girls (Shri Sanskrit Inter College, Class IX)**
 
@@ -102,8 +102,8 @@ The following table presents the individual vocational interest scores of all 60
 | UB13 | 20 | 30 | 32 | 18 | 26 | 28 | 14 | 10 | 20 |
 | UB14 | 22 | 32 | 34 | 16 | 24 | 26 | 12 | 8 | 18 |
 | UB15 | 20 | 28 | 30 | 20 | 24 | 28 | 14 | 10 | 22 |
-| **ΣX** | **314** | **452** | **480** | **270** | **370** | **418** | **198** | **136** | **302** |
-| **Mean** | **20.93** | **30.13** | **32.00** | **18.00** | **24.67** | **27.87** | **13.20** | **9.07** | **20.13** |
+| **ΣX** | **314** | **450** | **480** | **270** | **366** | **418** | **198** | **136** | **302** |
+| **Mean** | **20.93** | **30.00** | **32.00** | **18.00** | **24.40** | **27.87** | **13.20** | **9.07** | **20.13** |
 
 **Table 4.5: Raw Vocational Interest Scores – Urban Girls (KP International School, Class X)**
 
@@ -124,8 +124,8 @@ The following table presents the individual vocational interest scores of all 60
 | UG13 | 28 | 26 | 14 | 32 | 24 | 24 | 10 | 22 | 30 |
 | UG14 | 26 | 28 | 12 | 30 | 22 | 22 | 8 | 20 | 32 |
 | UG15 | 28 | 26 | 14 | 32 | 24 | 22 | 10 | 22 | 30 |
-| **ΣX** | **418** | **392** | **208** | **476** | **370** | **332** | **136** | **316** | **452** |
-| **Mean** | **27.87** | **26.13** | **13.87** | **31.73** | **24.67** | **22.13** | **9.07** | **21.07** | **30.13** |
+| **ΣX** | **418** | **392** | **208** | **478** | **370** | **332** | **136** | **316** | **452** |
+| **Mean** | **27.87** | **26.13** | **13.87** | **31.87** | **24.67** | **22.13** | **9.07** | **21.07** | **30.13** |
 
 
 ---
@@ -138,27 +138,25 @@ For each student, the area with the highest KVIR score was identified as the dom
 
 | Vocational Area | No. of Students | Percentage |
 |---|---|---|
-| Technical | 7 | 46.67% |
-| Agricultural | 5 | 33.33% |
-| Scientific | 2 | 13.33% |
-| Executive | 1 | 6.67% |
+| Technical (sole dominant) | 9 | 60.00% |
+| Technical/Agricultural (tied) | 6 | 40.00% |
 | **Total** | **15** | **100%** |
+
+*Note: When considering the single highest-scoring area, all 15 rural boys show Technical as their dominant (or co-dominant) vocational interest. Six students also show Agricultural interest tied at the same level as Technical.*
 
 **Figure 4.1 – Pie Chart: Dominant Vocational Interests of Rural Boys**
 
 ```
 PIE CHART — RURAL BOYS DOMINANT VOCATIONAL INTERESTS
 =====================================================
-  Technical      ████████████████████  46.67%
-  Agricultural   ██████████████        33.33%
-  Scientific     █████                 13.33%
-  Executive      ██                     6.67%
+  Technical (sole)       ████████████████████████  60.00%
+  Technical/Agricultural ████████████████          40.00%
 ```
 
-*[Note for Word document: Insert colourful pie chart here. Suggested colours — Technical: Steel Blue, Agricultural: Forest Green, Scientific: Orange, Executive: Purple]*
+*[Note for Word document: Insert colourful pie chart here. Suggested colours — Technical: Steel Blue, Technical/Agricultural: Forest Green]*
 
 **Interpretation of Table 4.6 and Figure 4.1:**
-The data reveals a clear dominance of technical interest among rural boys, with nearly half (46.67%) identifying it as their strongest vocational area. Agricultural interest ranked second (33.33%), reflecting the agrarian background of many families in the rural Meerut area. Scientific interest was present but relatively weak (13.33%), and only one student (6.67%) showed dominant executive interest. This pattern suggests that rural boys' vocational aspirations are strongly shaped by the occupational environment they observe at home and in their community — farming and technical trades being the most visible and familiar vocational pathways in a semi-rural setting.
+The data reveals an overwhelming dominance of technical interest among rural boys, with all 15 students (100%) showing Technical as their highest or co-highest vocational area. For 9 students (60%), Technical was the sole dominant area, while for 6 students (40%), Technical and Agricultural interests were tied at equal scores. This pattern suggests that rural boys' vocational aspirations are extremely strongly shaped by two dominant occupational pathways — technical trades and farming — which are the most visible and familiar vocational options in a semi-rural setting. The complete unanimity of Technical interest as the top-ranked area among rural boys is a striking finding.
 
 ---
 
@@ -166,54 +164,52 @@ The data reveals a clear dominance of technical interest among rural boys, with 
 
 | Vocational Area | No. of Students | Percentage |
 |---|---|---|
-| Household | 6 | 40.00% |
-| Social | 5 | 33.33% |
-| Artistic | 3 | 20.00% |
-| Literary | 1 | 6.67% |
+| Household (sole dominant) | 8 | 53.33% |
+| Household (tied with other areas) | 5 | 33.33% |
+| Social | 2 | 13.33% |
 | **Total** | **15** | **100%** |
+
+*Note: When ties are counted, 13 out of 15 rural girls (86.67%) show Household as their dominant or co-dominant area. Two students had Social as their sole highest area. Tied areas include Artistic, Literary, and Social alongside Household.*
 
 **Figure 4.2 – Pie Chart: Dominant Vocational Interests of Rural Girls**
 
 ```
 PIE CHART — RURAL GIRLS DOMINANT VOCATIONAL INTERESTS
 ======================================================
-  Household      ████████████████████  40.00%
-  Social         ████████████████      33.33%
-  Artistic       ████████              20.00%
-  Literary       ██                     6.67%
+  Household (sole)         ████████████████████████  53.33%
+  Household (tied)         ████████████████          33.33%
+  Social                   █████                     13.33%
 ```
 
-*[Note for Word document: Insert colourful pie chart here. Suggested colours — Household: Coral/Pink, Social: Teal, Artistic: Gold/Yellow, Literary: Lavender]*
+*[Note for Word document: Insert colourful pie chart here. Suggested colours — Household: Coral/Pink, Household tied: Light Pink, Social: Teal]*
 
 **Interpretation of Table 4.7 and Figure 4.2:**
-The dominant interests of rural girls are concentrated in household (40%), social (33.33%), and artistic (20%) areas. Not a single rural girl showed technical, scientific, agricultural, commercial, or executive interest as her dominant area. This striking pattern reflects the powerful influence of gender socialisation in rural communities, where girls are primarily prepared for domestic roles and community service. The high household interest (40%) is particularly telling — it suggests that for a significant proportion of rural girls, the domestic sphere is not just a social expectation but has become genuinely internalised as a preferred vocational orientation. The absence of scientific and technical dominant interests among rural girls is a finding with important educational policy implications.
+The dominant interests of rural girls are overwhelmingly concentrated in the household area, with 13 out of 15 students (86.67%) showing Household as their highest or co-highest interest. Only 2 students (13.33%) had Social as their sole dominant area. Not a single rural girl showed technical, scientific, agricultural, commercial, or executive interest as her dominant area. This striking pattern reflects the powerful influence of gender socialisation in rural communities, where girls are primarily prepared for domestic roles. The extremely high concentration of household interest among rural girls is a finding with important educational policy implications — it suggests that for rural girls, the domestic sphere has become deeply internalised as a preferred vocational orientation due to limited exposure to other possibilities.
 
 
 **Table 4.8: Dominant Vocational Interest – Urban Boys (N=15)**
 
 | Vocational Area | No. of Students | Percentage |
 |---|---|---|
-| Technical | 6 | 40.00% |
-| Scientific | 5 | 33.33% |
-| Executive | 3 | 20.00% |
-| Commercial | 1 | 6.67% |
+| Technical (sole dominant) | 11 | 73.33% |
+| Technical/Executive (tied) | 4 | 26.67% |
 | **Total** | **15** | **100%** |
+
+*Note: All 15 urban boys show Technical as their dominant or co-dominant area. Four students had Technical and Executive interests tied at the same level.*
 
 **Figure 4.3 – Pie Chart: Dominant Vocational Interests of Urban Boys**
 
 ```
 PIE CHART — URBAN BOYS DOMINANT VOCATIONAL INTERESTS
 =====================================================
-  Technical      ████████████████████  40.00%
-  Scientific     ████████████████      33.33%
-  Executive      ████████              20.00%
-  Commercial     ██                     6.67%
+  Technical (sole)          █████████████████████████████  73.33%
+  Technical/Executive (tied) ██████████                    26.67%
 ```
 
-*[Note for Word document: Insert colourful pie chart. Suggested colours — Technical: Dark Blue, Scientific: Orange-Red, Executive: Dark Green, Commercial: Gold]*
+*[Note for Word document: Insert colourful pie chart. Suggested colours — Technical: Dark Blue, Technical/Executive: Purple]*
 
 **Interpretation of Table 4.8 and Figure 4.3:**
-Urban boys show a considerably more diversified vocational interest profile than rural boys. While technical interest remains dominant (40%), scientific interest has emerged as a strong second (33.33%), and executive interest (20%) is notably higher than in the rural sample. The appearance of commercial interest (6.67%), absent entirely in rural boys' dominant areas, further underscores the broader vocational exposure available to urban students. The significant presence of scientific interest among urban boys — compared to just 13.33% among rural boys — likely reflects the stronger science education, better laboratory facilities, and greater awareness of science-based career pathways in the CBSE-affiliated urban school.
+Like their rural counterparts, all 15 urban boys (100%) show Technical interest as their dominant or co-dominant vocational area. However, the co-dominant area for urban boys is Executive (rather than Agricultural for rural boys), reflecting the greater exposure to management, leadership, and corporate role models in the urban environment. The difference in secondary interests between rural boys (Agricultural) and urban boys (Executive) confirms that while technical interest is universal among boys regardless of location, the secondary vocational orientation is strongly shaped by the socioeconomic environment.
 
 ---
 
@@ -221,11 +217,8 @@ Urban boys show a considerably more diversified vocational interest profile than
 
 | Vocational Area | No. of Students | Percentage |
 |---|---|---|
-| Artistic | 5 | 33.33% |
-| Social | 4 | 26.67% |
-| Scientific | 3 | 20.00% |
-| Literary | 2 | 13.33% |
-| Commercial | 1 | 6.67% |
+| Artistic | 10 | 66.67% |
+| Social | 5 | 33.33% |
 | **Total** | **15** | **100%** |
 
 **Figure 4.4 – Pie Chart: Dominant Vocational Interests of Urban Girls**
@@ -233,17 +226,14 @@ Urban boys show a considerably more diversified vocational interest profile than
 ```
 PIE CHART — URBAN GIRLS DOMINANT VOCATIONAL INTERESTS
 ======================================================
-  Artistic       ████████████████      33.33%
-  Social         █████████████         26.67%
-  Scientific     ██████████            20.00%
-  Literary       ██████                13.33%
-  Commercial     ██                     6.67%
+  Artistic       ████████████████████████████  66.67%
+  Social         ██████████████                33.33%
 ```
 
-*[Note for Word document: Insert colourful pie chart. Suggested colours — Artistic: Magenta/Pink, Social: Teal, Scientific: Orange, Literary: Purple, Commercial: Gold]*
+*[Note for Word document: Insert colourful pie chart. Suggested colours — Artistic: Magenta/Pink, Social: Teal]*
 
 **Interpretation of Table 4.9 and Figure 4.4:**
-Urban girls show the most diverse dominant interest profile of all four groups. While artistic (33.33%) and social (26.67%) interests dominate — consistent with the broad gender pattern — the emergence of scientific interest as a third-ranked dominant area (20%) among urban girls is a particularly noteworthy finding. Three urban girls identified science as their primary vocational interest, compared to zero rural girls. Similarly, commercial interest (6.67%) appears in urban girls' profiles but not in rural girls'. This pattern strongly suggests that the urban private school environment — with its better science infrastructure, exposure to female role models in non-traditional fields, and generally more progressive culture — is expanding the vocational horizons of girls in meaningful ways.
+Urban girls show a two-pronged dominant interest profile concentrated in Artistic (66.67%) and Social (33.33%) areas. While this is less diverse than might be expected, the mean score analysis (Section 4.3) reveals that urban girls have substantially higher secondary interests in scientific, commercial, and executive areas compared to rural girls — even though these do not emerge as the single *dominant* area. The concentration of artistic dominant interest among urban girls (compared to household dominant interest among rural girls) represents an important shift: urban girls' vocational energies are channelled toward creative and professional domains rather than purely domestic ones. It is also notable that while no urban girl shows Scientific as her dominant area, their scientific mean score (M=26.13) is substantially higher than rural girls' (M=14.93), suggesting that science is a strong *secondary* interest for urban girls.
 
 ---
 
@@ -258,10 +248,10 @@ The following tables present the mean vocational interest scores for all boys (N
 | Vocational Area | Boys Mean (N=30) | Girls Mean (N=30) | Difference (B-G) |
 |---|---|---|---|
 | Literary | 19.00 | 26.53 | -7.53 |
-| Scientific | 26.53 | 20.53 | +6.00 |
+| Scientific | 26.47 | 20.53 | +5.94 |
 | Technical | 31.07 | 12.67 | +18.40 |
-| Artistic | 15.33 | 30.27 | -14.93 |
-| Commercial | 20.53 | 20.07 | +0.47 |
+| Artistic | 15.67 | 30.33 | -14.67 |
+| Commercial | 20.40 | 20.07 | +0.33 |
 | Executive | 24.00 | 18.20 | +5.80 |
 | Agricultural | 20.93 | 13.53 | +7.40 |
 | Household | 9.07 | 25.93 | -16.87 |
@@ -276,8 +266,8 @@ Area        Boys  Girls
 Literary    19.0  26.5   ████████████░░░░░░░░░░░░░░ (Boys=Blue, Girls=Pink)
 Scientific  26.5  20.5   ████████████████████░░░░░░
 Technical   31.1  12.7   ████████████████████████░░ (Largest male advantage)
-Artistic    15.3  30.3   ████████░░░░░░░░░░░░░░░░░░ (Largest female advantage)
-Commercial  20.5  20.1   ████████████████░░░░░░░░░░
+Artistic    15.7  30.3   ████████░░░░░░░░░░░░░░░░░░ (Largest female advantage)
+Commercial  20.4  20.1   ████████████████░░░░░░░░░░
 Executive   24.0  18.2   ████████████████████░░░░░░
 Agricultural 20.9 13.5   ████████████████░░░░░░░░░░
 Household    9.1  25.9   █████░░░░░░░░░░░░░░░░░░░░░
@@ -292,11 +282,11 @@ The mean score comparison reveals striking and consistent gender differences acr
 **Areas where Boys score substantially higher:**
 - **Technical:** Boys (M=31.07) vs. Girls (M=12.67) — difference of 18.40 points. This is by far the largest difference between the genders and confirms technical interest as an overwhelmingly male-dominated vocational domain in this sample.
 - **Household:** Girls (M=25.93) vs. Boys (M=9.07) — difference of 16.87 points in girls' favour. The household domain shows the second-largest gender disparity, with girls scoring dramatically higher.
-- **Artistic:** Girls (M=30.27) vs. Boys (M=15.33) — difference of 14.93 points in girls' favour.
+- **Artistic:** Girls (M=30.33) vs. Boys (M=15.67) — difference of 14.67 points in girls' favour.
 - **Social:** Girls (M=29.07) vs. Boys (M=18.07) — difference of 11.00 points in girls' favour.
 
 **Areas of relative similarity:**
-- **Commercial** shows the smallest gender difference (0.47 points), suggesting that commercial/business interests are relatively gender-neutral in this sample — an interesting finding in the context of growing awareness of entrepreneurship and business careers among Indian youth.
+- **Commercial** shows the smallest gender difference (0.33 points), suggesting that commercial/business interests are relatively gender-neutral in this sample — an interesting finding in the context of growing awareness of entrepreneurship and business careers among Indian youth.
 
 These patterns align closely with the established international literature (Holland, 1966; Su et al., 2009; Lippa, 1998) and with Indian research (Thakur and Saini, 1980; Bhatnagar, 1993; Yadav and Sharma, 2012), confirming the robustness of gender-differentiated vocational interest patterns.
 
@@ -307,15 +297,15 @@ These patterns align closely with the established international literature (Holl
 
 | Vocational Area | SD Boys | SD Girls | Observation |
 |---|---|---|---|
-| Literary | 3.12 | 2.34 | Boys more variable |
-| Scientific | 4.18 | 4.82 | Girls slightly more variable |
-| Technical | 2.06 | 1.88 | Both low; scores tightly clustered |
-| Artistic | 3.24 | 2.16 | Boys more variable |
-| Commercial | 4.46 | 4.98 | Both high; wide range |
-| Executive | 4.32 | 4.18 | Comparable variability |
-| Agricultural | 6.24 | 2.12 | Boys much more variable |
-| Household | 1.04 | 4.86 | Girls more variable |
-| Social | 3.68 | 2.44 | Boys more variable |
+| Literary | 3.09 | 2.31 | Boys more variable |
+| Scientific | 4.19 | 5.89 | Girls more variable |
+| Technical | 2.29 | 1.96 | Both low; scores tightly clustered |
+| Artistic | 3.10 | 2.31 | Boys more variable |
+| Commercial | 4.51 | 4.99 | Both high; wide range |
+| Executive | 4.32 | 4.21 | Comparable variability |
+| Agricultural | 7.96 | 4.67 | Boys much more variable |
+| Household | 1.44 | 5.10 | Girls more variable |
+| Social | 2.94 | 1.84 | Boys more variable |
 
 **Figure 4.6 – Bar Graph: Standard Deviation – Boys vs. Girls**
 
@@ -323,15 +313,15 @@ These patterns align closely with the established international literature (Holl
 SD COMPARISON — BOYS (Blue) vs. GIRLS (Pink)
 =============================================
 Area          SD_Boys  SD_Girls
-Literary        3.12     2.34
-Scientific      4.18     4.82
-Technical       2.06     1.88   ← Both tight: consensus in tech interest
-Artistic        3.24     2.16
-Commercial      4.46     4.98
-Executive       4.32     4.18
-Agricultural    6.24     2.12   ← Boys very spread; girls uniform low
-Household       1.04     4.86   ← Boys uniform low; girls varied
-Social          3.68     2.44
+Literary        3.09     2.31
+Scientific      4.19     5.89   ← Girls more spread (rural vs urban effect)
+Technical       2.29     1.96   ← Both tight: consensus in tech interest
+Artistic        3.10     2.31
+Commercial      4.51     4.99
+Executive       4.32     4.21
+Agricultural    7.96     4.67   ← Boys very spread; rural vs urban effect
+Household       1.44     5.10   ← Boys uniform low; girls varied
+Social          2.94     1.84
 ```
 
 *[Note for Word document: Insert 3D grouped bar chart comparing SD values. Boys in Navy Blue, Girls in Coral. Add note pointing out the Agricultural and Household outlier SDs.]*
@@ -339,10 +329,11 @@ Social          3.68     2.44
 **Interpretation of Table 4.11 and Figure 4.6:**
 The standard deviation values reveal important information about the homogeneity of interest patterns within each gender group. Several notable observations emerge:
 
-- **Technical interest** shows low SDs for both boys (2.06) and girls (1.88), indicating that most students within each gender cluster around similar scores — boys uniformly high, girls uniformly low.
-- **Agricultural interest** shows very high SD among boys (6.24) but low SD among girls (2.12). This reflects that while girls' agricultural scores are uniformly low and close together, boys' scores are spread widely — some rural boys have very high agricultural interest while some urban boys have very low scores. This makes geographic location (rural/urban) a significant moderator of boys' agricultural interest.
-- **Household interest** shows a reverse pattern — boys have very low, uniform scores (SD=1.04) while girls show considerable variability (SD=4.86). This indicates that while all boys are consistent in their low household interest, girls' household interest varies substantially, likely related to rural vs. urban background.
-- **Commercial interest** shows the highest variability for both groups (SDs of 4.46 and 4.98), suggesting the widest range of individual differences in commercial interest among both boys and girls.
+- **Technical interest** shows low SDs for both boys (2.29) and girls (1.96), indicating that most students within each gender cluster around similar scores — boys uniformly high, girls uniformly low.
+- **Agricultural interest** shows very high SD among boys (7.96) but moderate SD among girls (4.67). This reflects that boys' agricultural scores are spread very widely — rural boys have very high agricultural interest while urban boys have very low scores. This makes geographic location (rural/urban) a significant moderator of boys' agricultural interest. Girls also show some variability in agricultural interest across rural and urban settings.
+- **Household interest** shows a low SD among boys (1.44) but high SD among girls (5.10). This indicates that while all boys are consistent in their low household interest, girls' household interest varies substantially — rural girls scoring much higher than urban girls.
+- **Scientific interest** shows notable variability among girls (SD=5.89), reflecting the large gap between rural girls (M=14.93) and urban girls (M=26.13). Boys' scientific interest also shows moderate variability (SD=4.19).
+- **Commercial interest** shows the highest variability for both groups (SDs of 4.51 and 4.99), suggesting the widest range of individual differences in commercial interest among both boys and girls.
 
 ---
 
@@ -355,10 +346,10 @@ The standard deviation values reveal important information about the homogeneity
 | Vocational Area | Rural Boys Mean | Urban Boys Mean | Difference (U-R) |
 |---|---|---|---|
 | Literary | 17.07 | 20.93 | +3.87 |
-| Scientific | 22.93 | 30.13 | +7.20 |
+| Scientific | 22.93 | 30.00 | +7.07 |
 | Technical | 30.13 | 32.00 | +1.87 |
-| Artistic | 12.67 | 18.00 | +5.33 |
-| Commercial | 16.40 | 24.67 | +8.27 |
+| Artistic | 13.33 | 18.00 | +4.67 |
+| Commercial | 16.40 | 24.40 | +8.00 |
 | Executive | 20.13 | 27.87 | +7.73 |
 | Agricultural | 28.67 | 13.20 | -15.47 |
 | Household | 9.07 | 9.07 | 0.00 |
@@ -371,10 +362,10 @@ The standard deviation values reveal important information about the homogeneity
 =========================================================
 Area          Rural  Urban
 Literary       17.1   20.9  ▓▓▓▓▓▓▓▓▓░░░░░ Urban higher
-Scientific     22.9   30.1  ▓▓▓▓▓▓▓▓▓▓▓░░░ Urban much higher
+Scientific     22.9   30.0  ▓▓▓▓▓▓▓▓▓▓▓░░░ Urban much higher
 Technical      30.1   32.0  ▓▓▓▓▓▓▓▓▓▓▓▓░░ Both very high
-Artistic       12.7   18.0  ▓▓▓▓▓░░░░░░░░░ Urban higher
-Commercial     16.4   24.7  ▓▓▓▓▓▓░░░░░░░░ Urban much higher
+Artistic       13.3   18.0  ▓▓▓▓▓░░░░░░░░░ Urban higher
+Commercial     16.4   24.4  ▓▓▓▓▓▓░░░░░░░░ Urban much higher
 Executive      20.1   27.9  ▓▓▓▓▓▓▓▓░░░░░░ Urban much higher
 Agricultural   28.7   13.2  ▓▓▓▓▓▓▓▓▓▓▓░░░ Rural MUCH higher
 Household       9.1    9.1  ▓▓▓▓░░░░░░░░░░ Identical
@@ -387,8 +378,8 @@ Social         16.0   20.1  ▓▓▓▓▓▓░░░░░░░░ Urban sli
 The rural-urban comparison for boys reveals important patterns driven by the very different socioeconomic and educational environments of the two groups:
 
 - **Agricultural interest** shows the most dramatic difference — rural boys (M=28.67) score an extraordinary 15.47 points higher than urban boys (M=13.20). This is the single most striking rural-urban finding in the entire study and confirms that agricultural interest is strongly tied to rural occupational culture and family background.
-- **Commercial and Executive interests** are substantially higher among urban boys (differences of 8.27 and 7.73 respectively), reflecting the greater exposure to business, management, and leadership role models in the urban environment.
-- **Scientific interest** is notably higher among urban boys (M=30.13 vs. M=22.93, difference of 7.20), consistent with the superior science education infrastructure available in the urban CBSE school.
+- **Commercial and Executive interests** are substantially higher among urban boys (differences of 8.00 and 7.73 respectively), reflecting the greater exposure to business, management, and leadership role models in the urban environment.
+- **Scientific interest** is notably higher among urban boys (M=30.00 vs. M=22.93, difference of 7.07), consistent with the superior science education infrastructure available in the urban CBSE school.
 - **Technical interest** is the most similar area between rural and urban boys (difference of only 1.87), confirming that technical interest is broadly shared across boys regardless of school type.
 - **Household interest** is identical (M=9.07) for both groups, suggesting that this area has no rural-urban differentiation among boys.
 
@@ -402,7 +393,7 @@ The rural-urban comparison for boys reveals important patterns driven by the ver
 | Literary | 25.20 | 27.87 | +2.67 |
 | Scientific | 14.93 | 26.13 | +11.20 |
 | Technical | 11.47 | 13.87 | +2.40 |
-| Artistic | 28.80 | 31.73 | +2.93 |
+| Artistic | 28.80 | 31.87 | +3.07 |
 | Commercial | 15.47 | 24.67 | +9.20 |
 | Executive | 14.27 | 22.13 | +7.87 |
 | Agricultural | 18.00 | 9.07 | -8.93 |
@@ -418,7 +409,7 @@ Area           Rural  Urban
 Literary        25.2   27.9  ▓▓▓▓▓▓▓▓▓░░ Both high; Urban slightly higher
 Scientific      14.9   26.1  ▓▓▓▓▓░░░░░░ Urban MUCH higher ★
 Technical       11.5   13.9  ▓▓▓▓░░░░░░░ Both low; slight urban edge
-Artistic        28.8   31.7  ▓▓▓▓▓▓▓▓▓▓▓ Both very high; Urban slightly higher
+Artistic        28.8   31.9  ▓▓▓▓▓▓▓▓▓▓▓ Both very high; Urban slightly higher
 Commercial      15.5   24.7  ▓▓▓▓▓░░░░░░ Urban much higher
 Executive       14.3   22.1  ▓▓▓▓▓░░░░░░ Urban much higher
 Agricultural    18.0    9.1  ▓▓▓▓▓▓░░░░░ Rural higher
@@ -486,31 +477,31 @@ The t-test for independent samples was applied to test the seven null hypotheses
 **Step-by-step Calculation:**
 
 - M₁ (Boys) = 31.07; M₂ (Girls) = 12.67
-- SD₁ (Boys) = 2.06; SD₂ (Girls) = 1.88
+- SD₁ (Boys) = 2.29; SD₂ (Girls) = 1.96
 - N₁ = N₂ = 30
 
 SE (Standard Error of Difference) = √[(SD₁²/N₁) + (SD₂²/N₂)]
-= √[(2.06²/30) + (1.88²/30)]
-= √[(4.2436/30) + (3.5344/30)]
-= √[0.1415 + 0.1178]
-= √0.2593
-= 0.509
+= √[(2.29²/30) + (1.96²/30)]
+= √[(5.2441/30) + (3.8416/30)]
+= √[0.1748 + 0.1281]
+= √0.3029
+= 0.550
 
 t = (M₁ - M₂) / SE
-= (31.07 - 12.67) / 0.509
-= 18.40 / 0.509
-= **36.15**
+= (31.07 - 12.67) / 0.550
+= 18.40 / 0.550
+= **33.44**
 
 **Table 4.14: t-test Results – Technical Interest: Boys vs. Girls**
 
 | Group | N | Mean | SD | df | Calculated t | Critical t (0.05) | Result |
 |---|---|---|---|---|---|---|---|
-| Boys | 30 | 31.07 | 2.06 | 58 | 36.15 | 2.002 | **Significant** |
-| Girls | 30 | 12.67 | 1.88 | | | | |
+| Boys | 30 | 31.07 | 2.29 | 58 | 33.44 | 2.002 | **Significant** |
+| Girls | 30 | 12.67 | 1.96 | | | | |
 
-**Decision:** Since calculated t (36.15) > critical t (2.002), **H₀₁ is REJECTED.**
+**Decision:** Since calculated t (33.44) > critical t (2.002), **H₀₁ is REJECTED.**
 
-**Interpretation:** There is a highly significant difference in the technical vocational interest scores of boys and girls at the secondary level. Boys score dramatically higher than girls in technical interest. The t-value of 36.15 is one of the highest possible values in a t-test for this sample size, indicating that the difference is not merely statistically significant but practically enormous. Technical interest is unambiguously the most gender-differentiated vocational area in this study. This finding calls for urgent action in career guidance to either actively encourage girls towards technical fields or to ensure that girls who genuinely prefer technical careers are not discouraged by social stereotyping.
+**Interpretation:** There is a highly significant difference in the technical vocational interest scores of boys and girls at the secondary level. Boys score dramatically higher than girls in technical interest. The t-value of 33.44 is extremely large for this sample size, indicating that the difference is not merely statistically significant but practically enormous. Technical interest is unambiguously the most gender-differentiated vocational area in this study. This finding calls for urgent action in career guidance to either actively encourage girls towards technical fields or to ensure that girls who genuinely prefer technical careers are not discouraged by social stereotyping.
 
 
 ### Hypothesis 2: Scientific Interest – Boys vs. Girls
@@ -519,27 +510,27 @@ t = (M₁ - M₂) / SE
 
 **Calculation:**
 
-- M₁ (Boys) = 26.53; M₂ (Girls) = 20.53
-- SD₁ (Boys) = 4.18; SD₂ (Girls) = 4.82
+- M₁ (Boys) = 26.47; M₂ (Girls) = 20.53
+- SD₁ (Boys) = 4.19; SD₂ (Girls) = 5.89
 - N₁ = N₂ = 30
 
-SE = √[(4.18²/30) + (4.82²/30)]
-= √[(17.47/30) + (23.23/30)]
-= √[0.5824 + 0.7744]
-= √1.3568 = 1.165
+SE = √[(4.19²/30) + (5.89²/30)]
+= √[(17.56/30) + (34.69/30)]
+= √[0.5853 + 1.1564]
+= √1.7417 = 1.320
 
-t = (26.53 - 20.53) / 1.165 = 6.00 / 1.165 = **5.15**
+t = (26.47 - 20.53) / 1.320 = 5.94 / 1.320 = **4.50**
 
 **Table 4.15: t-test Results – Scientific Interest: Boys vs. Girls**
 
 | Group | N | Mean | SD | df | Calculated t | Critical t (0.05) | Result |
 |---|---|---|---|---|---|---|---|
-| Boys | 30 | 26.53 | 4.18 | 58 | 5.15 | 2.002 | **Significant** |
-| Girls | 30 | 20.53 | 4.82 | | | | |
+| Boys | 30 | 26.47 | 4.19 | 58 | 4.50 | 2.002 | **Significant** |
+| Girls | 30 | 20.53 | 5.89 | | | | |
 
-**Decision:** Calculated t (5.15) > critical t (2.002). **H₀₂ is REJECTED.**
+**Decision:** Calculated t (4.50) > critical t (2.002). **H₀₂ is REJECTED.**
 
-**Interpretation:** A significant difference exists in scientific vocational interest between boys and girls, with boys scoring higher (M=26.53 vs. M=20.53). However, the magnitude of this difference is considerably smaller than that for technical interest (t=5.15 vs. t=36.15). This suggests that while boys still have a noticeable edge in scientific interest overall, the gender gap in science is far less severe than in technical fields. Notably, urban girls (M=26.13) have scientific interest scores nearly equal to urban boys (M=30.13), suggesting that in supportive educational environments, the science gender gap can narrow significantly.
+**Interpretation:** A significant difference exists in scientific vocational interest between boys and girls, with boys scoring higher (M=26.47 vs. M=20.53). However, the magnitude of this difference is considerably smaller than that for technical interest (t=4.50 vs. t=33.44). This suggests that while boys still have a noticeable edge in scientific interest overall, the gender gap in science is far less severe than in technical fields. Notably, urban girls (M=26.13) have scientific interest scores nearly equal to urban boys (M=30.00), suggesting that in supportive educational environments, the science gender gap can narrow significantly.
 
 ---
 
@@ -550,28 +541,28 @@ t = (26.53 - 20.53) / 1.165 = 6.00 / 1.165 = **5.15**
 **Calculation:**
 
 - M₁ (Boys) = 18.07; M₂ (Girls) = 29.07
-- SD₁ (Boys) = 3.68; SD₂ (Girls) = 2.44
+- SD₁ (Boys) = 2.94; SD₂ (Girls) = 1.84
 - N₁ = N₂ = 30
 
-SE = √[(3.68²/30) + (2.44²/30)]
-= √[(13.54/30) + (5.95/30)]
-= √[0.4514 + 0.1984]
-= √0.6498 = 0.806
+SE = √[(2.94²/30) + (1.84²/30)]
+= √[(8.6436/30) + (3.3856/30)]
+= √[0.2881 + 0.1129]
+= √0.4010 = 0.634
 
-t = (18.07 - 29.07) / 0.806 = -11.00 / 0.806 = **-13.65**
+t = (18.07 - 29.07) / 0.634 = -11.00 / 0.634 = **-17.35**
 
-(Taking absolute value: |t| = **13.65**)
+(Taking absolute value: |t| = **17.35**)
 
 **Table 4.16: t-test Results – Social Interest: Boys vs. Girls**
 
 | Group | N | Mean | SD | df | Calculated t | Critical t (0.05) | Result |
 |---|---|---|---|---|---|---|---|
-| Boys | 30 | 18.07 | 3.68 | 58 | 13.65 | 2.002 | **Significant** |
-| Girls | 30 | 29.07 | 2.44 | | | | |
+| Boys | 30 | 18.07 | 2.94 | 58 | 17.35 | 2.002 | **Significant** |
+| Girls | 30 | 29.07 | 1.84 | | | | |
 
-**Decision:** |t| (13.65) > critical t (2.002). **H₀₃ is REJECTED.**
+**Decision:** |t| (17.35) > critical t (2.002). **H₀₃ is REJECTED.**
 
-**Interpretation:** Girls score significantly higher than boys in social vocational interest. The t-value of 13.65, though smaller than that for technical interest, is still very large, confirming that social interest is a strongly gender-differentiated vocational area. Girls' higher social interest aligns with the well-documented tendency for females to show greater orientation towards helping, caring, and community-oriented occupations — what Lippa (1998) called the "people dimension" of interest differentiation. Career pathways in social work, teaching, healthcare, and counselling are likely areas of natural strength and preference for the majority of girls in this sample, and guidance counsellors should actively leverage this inclination to encourage girls towards professional careers in these fields.
+**Interpretation:** Girls score significantly higher than boys in social vocational interest. The t-value of 17.35 is very large, confirming that social interest is a strongly gender-differentiated vocational area. Girls' higher social interest aligns with the well-documented tendency for females to show greater orientation towards helping, caring, and community-oriented occupations — what Lippa (1998) called the "people dimension" of interest differentiation. Career pathways in social work, teaching, healthcare, and counselling are likely areas of natural strength and preference for the majority of girls in this sample, and guidance counsellors should actively leverage this inclination to encourage girls towards professional careers in these fields.
 
 ---
 
@@ -581,27 +572,27 @@ t = (18.07 - 29.07) / 0.806 = -11.00 / 0.806 = **-13.65**
 
 **Calculation:**
 
-- M₁ (Boys) = 15.33; M₂ (Girls) = 30.27
-- SD₁ (Boys) = 3.24; SD₂ (Girls) = 2.16
+- M₁ (Boys) = 15.67; M₂ (Girls) = 30.33
+- SD₁ (Boys) = 3.10; SD₂ (Girls) = 2.31
 
-SE = √[(3.24²/30) + (2.16²/30)]
-= √[(10.50/30) + (4.67/30)]
-= √[0.3498 + 0.1555]
-= √0.5053 = 0.711
+SE = √[(3.10²/30) + (2.31²/30)]
+= √[(9.61/30) + (5.3361/30)]
+= √[0.3203 + 0.1779]
+= √0.4982 = 0.706
 
-t = (15.33 - 30.27) / 0.711 = -14.94 / 0.711 = **-21.01**
-|t| = **21.01**
+t = (15.67 - 30.33) / 0.706 = -14.67 / 0.706 = **-20.77**
+|t| = **20.77**
 
 **Table 4.17: t-test Results – Artistic Interest: Boys vs. Girls**
 
 | Group | N | Mean | SD | df | Calculated t | Critical t (0.05) | Result |
 |---|---|---|---|---|---|---|---|
-| Boys | 30 | 15.33 | 3.24 | 58 | 21.01 | 2.002 | **Significant** |
-| Girls | 30 | 30.27 | 2.16 | | | | |
+| Boys | 30 | 15.67 | 3.10 | 58 | 20.77 | 2.002 | **Significant** |
+| Girls | 30 | 30.33 | 2.31 | | | | |
 
-**Decision:** |t| (21.01) > critical t (2.002). **H₀₄ is REJECTED.**
+**Decision:** |t| (20.77) > critical t (2.002). **H₀₄ is REJECTED.**
 
-**Interpretation:** Girls score significantly higher than boys in artistic vocational interest (t=21.01, p<0.05). Artistic interest is the second most gender-differentiated area in this study, after technical interest. Girls' strong artistic inclination — reflecting interests in visual art, crafts, music, dance, and design — suggests rich potential for careers in the creative industries, which are among the fastest-growing sectors of India's economy. Schools and parents who channel girls' artistic interests constructively (rather than dismissing them as impractical hobbies) could help many of these students find deeply satisfying and economically viable careers.
+**Interpretation:** Girls score significantly higher than boys in artistic vocational interest (t=20.77, p<0.05). Artistic interest is the second most gender-differentiated area in this study, after technical interest. Girls' strong artistic inclination — reflecting interests in visual art, crafts, music, dance, and design — suggests rich potential for careers in the creative industries, which are among the fastest-growing sectors of India's economy. Schools and parents who channel girls' artistic interests constructively (rather than dismissing them as impractical hobbies) could help many of these students find deeply satisfying and economically viable careers.
 
 ---
 
@@ -611,26 +602,25 @@ t = (15.33 - 30.27) / 0.711 = -14.94 / 0.711 = **-21.01**
 
 **Calculation (all students combined by location):**
 
-- M₁ (Rural) = (28.67 + 18.00)/2 = 23.33 approx. [Using per-area data for full group]
 - Rural students (N=30): ΣAgri = 430 + 270 = 700; M₁ = 700/30 = **23.33**
 - Urban students (N=30): ΣAgri = 198 + 136 = 334; M₂ = 334/30 = **11.13**
-- SD₁ (Rural) = 5.84; SD₂ (Urban) = 2.06
+- SD₁ (Rural) = 5.71; SD₂ (Urban) = 2.35
 
-SE = √[(5.84²/30) + (2.06²/30)]
-= √[(34.11/30) + (4.24/30)]
-= √[1.1370 + 0.1415]
-= √1.2785 = 1.131
+SE = √[(5.71²/30) + (2.35²/30)]
+= √[(32.60/30) + (5.5225/30)]
+= √[1.0868 + 0.1841]
+= √1.2709 = 1.128
 
-t = (23.33 - 11.13) / 1.131 = 12.20 / 1.131 = **10.79**
+t = (23.33 - 11.13) / 1.128 = 12.20 / 1.128 = **10.82**
 
 **Table 4.18: t-test Results – Agricultural Interest: Rural vs. Urban**
 
 | Group | N | Mean | SD | df | Calculated t | Critical t (0.05) | Result |
 |---|---|---|---|---|---|---|---|
-| Rural | 30 | 23.33 | 5.84 | 58 | 10.79 | 2.002 | **Significant** |
-| Urban | 30 | 11.13 | 2.06 | | | | |
+| Rural | 30 | 23.33 | 5.71 | 58 | 10.82 | 2.002 | **Significant** |
+| Urban | 30 | 11.13 | 2.35 | | | | |
 
-**Decision:** t (10.79) > critical t (2.002). **H₀₅ is REJECTED.**
+**Decision:** t (10.82) > critical t (2.002). **H₀₅ is REJECTED.**
 
 **Interpretation:** Rural students score significantly higher than urban students in agricultural vocational interest (t=10.79). This is a straightforward and expected finding — students from rural backgrounds are far more likely to have been exposed to agricultural activities at home, to have family members engaged in farming, and to perceive agriculture as a natural and familiar vocational pathway. The practical significance of this finding is considerable: agricultural colleges, agribusiness programmes, and rural development courses should actively recruit from rural secondary schools, where the student population has genuine affinity for agriculture-related vocations.
 
@@ -641,31 +631,32 @@ t = (23.33 - 11.13) / 1.131 = 12.20 / 1.131 = **10.79**
 
 **Calculation:**
 
-Overall mean = average of all nine area scores.
+Overall mean = average of all nine area scores for each student, then group mean computed.
 
-- Boys overall mean = (19.00 + 26.53 + 31.07 + 15.33 + 20.53 + 24.00 + 20.93 + 9.07 + 18.07) / 9 = 184.53 / 9 = **20.50**
-- Girls overall mean = (26.53 + 20.53 + 12.67 + 30.27 + 20.07 + 18.20 + 13.53 + 25.93 + 29.07) / 9 = 196.80 / 9 = **21.87**
+- Boys overall mean = (sum of all 9 area means) / 9 = (19.00 + 26.47 + 31.07 + 15.67 + 20.40 + 24.00 + 20.93 + 9.07 + 18.07) / 9 = 184.67 / 9 = **20.52**
+- Girls overall mean = (26.53 + 20.53 + 12.67 + 30.33 + 20.07 + 18.20 + 13.53 + 25.93 + 29.07) / 9 = 196.87 / 9 = **21.87**
 
-- SD_Boys = 6.89; SD_Girls = 6.24
+- SD_Boys (computed from individual students' average scores) = 1.29
+- SD_Girls (computed from individual students' average scores) = 1.18
 
-SE = √[(6.89²/30) + (6.24²/30)]
-= √[(47.47/30) + (38.94/30)]
-= √[1.582 + 1.298]
-= √2.880 = 1.697
+SE = √[(1.29²/30) + (1.18²/30)]
+= √[(1.6641/30) + (1.3924/30)]
+= √[0.05547 + 0.04641]
+= √0.10188 = 0.319
 
-t = (20.50 - 21.87) / 1.697 = -1.37 / 1.697 = **-0.807**
-|t| = **0.807**
+t = (20.52 - 21.87) / 0.319 = -1.35 / 0.319 = **-4.23**
+|t| = **4.23**
 
 **Table 4.19: t-test Results – Overall Vocational Interest: Boys vs. Girls**
 
 | Group | N | Overall Mean | SD | df | Calculated t | Critical t (0.05) | Result |
 |---|---|---|---|---|---|---|---|
-| Boys | 30 | 20.50 | 6.89 | 58 | 0.807 | 2.002 | **Not Significant** |
-| Girls | 30 | 21.87 | 6.24 | | | | |
+| Boys | 30 | 20.52 | 1.29 | 58 | 4.23 | 2.002 | **Significant** |
+| Girls | 30 | 21.87 | 1.18 | | | | |
 
-**Decision:** |t| (0.807) < critical t (2.002). **H₀₆ is RETAINED.**
+**Decision:** |t| (4.23) > critical t (2.002). **H₀₆ is REJECTED.**
 
-**Interpretation:** There is no statistically significant difference in the overall vocational interest score between boys and girls. This finding indicates that while boys and girls differ dramatically in *specific* areas of vocational interest, their overall level of interest engagement — their total vocational energy, so to speak — is essentially the same. Both genders show equal intensity of vocational interests; they simply channel that interest into different areas. This is an important nuance: gender differences in vocational interests are directional (towards different areas), not motivational (not one gender being more or less interested in work generally).
+**Interpretation:** There is a statistically significant difference in the overall vocational interest score between boys and girls, with girls showing slightly higher overall interest scores (M=21.87 vs. M=20.52). This finding indicates that girls, on average, report marginally higher overall engagement across the vocational interest spectrum. However, the practical significance of this difference is small (1.35 points on a 40-point scale). The more meaningful finding remains that boys and girls channel their vocational interest into very different areas — the direction of interest is far more gender-differentiated than its overall intensity.
 
 ---
 
@@ -673,34 +664,35 @@ t = (20.50 - 21.87) / 1.697 = -1.37 / 1.697 = **-0.807**
 
 **H₀₇:** There is no significant difference in the overall mean vocational interest scores of rural and urban students at the secondary level.
 
-- Rural overall mean = [all 9 rural area means summed] / 9
-  Rural: Literary=21.13, Sci=18.93, Tech=20.80, Art=20.73, Com=15.93, Exec=17.20, Agri=23.33, HH=19.93, Soc=22.00
-  Sum = 179.99; Mean = **20.00**
+- Rural overall mean = (sum of all 9 rural area means) / 9
+  Rural area means: Literary=21.13, Sci=18.93, Tech=20.80, Art=21.07, Com=15.93, Exec=17.20, Agri=23.33, HH=19.93, Soc=22.00
+  Sum = 180.33; Mean = **20.04**
 
 - Urban overall mean:
-  Urban: Literary=24.40, Sci=28.13, Tech=22.93, Art=24.87, Com=24.67, Exec=25.00, Agri=11.13, HH=15.07, Soc=25.13
-  Sum = 201.33; Mean = **22.37**
+  Urban area means: Literary=24.40, Sci=28.07, Tech=22.93, Art=24.93, Com=24.53, Exec=25.00, Agri=11.13, HH=15.07, Soc=25.13
+  Sum = 201.20; Mean = **22.36**
 
-- SD_Rural = 2.28; SD_Urban = 5.64
+- SD_Rural (computed from individual students' average scores) = 0.90
+- SD_Urban (computed from individual students' average scores) = 0.69
 
-SE = √[(2.28²/30) + (5.64²/30)]
-= √[(5.20/30) + (31.81/30)]
-= √[0.1733 + 1.060]
-= √1.2333 = 1.110
+SE = √[(0.90²/30) + (0.69²/30)]
+= √[(0.81/30) + (0.4761/30)]
+= √[0.0270 + 0.01587]
+= √0.04287 = 0.207
 
-t = (20.00 - 22.37) / 1.110 = -2.37 / 1.110 = **-2.135**
-|t| = **2.135**
+t = (20.04 - 22.36) / 0.207 = -2.32 / 0.207 = **-11.21**
+|t| = **11.21**
 
 **Table 4.20: t-test Results – Overall Vocational Interest: Rural vs. Urban**
 
 | Group | N | Overall Mean | SD | df | Calculated t | Critical t (0.05) | Result |
 |---|---|---|---|---|---|---|---|
-| Rural | 30 | 20.00 | 2.28 | 58 | 2.135 | 2.002 | **Significant** |
-| Urban | 30 | 22.37 | 5.64 | | | | |
+| Rural | 30 | 20.04 | 0.90 | 58 | 11.21 | 2.002 | **Significant** |
+| Urban | 30 | 22.36 | 0.69 | | | | |
 
-**Decision:** |t| (2.135) > critical t (2.002). **H₀₇ is REJECTED.**
+**Decision:** |t| (11.21) > critical t (2.002). **H₀₇ is REJECTED.**
 
-**Interpretation:** There is a significant (though modest) difference in overall vocational interest scores between rural and urban students, with urban students showing slightly higher overall interest scores. This finding suggests that urban students, on average, show slightly higher engagement with the full range of vocational possibilities presented in the KVIR. This is likely a function of the broader educational environment, greater career awareness, and more diverse vocational exposure available in urban private schools. The difference is statistically significant but its practical magnitude is small (2.37 points), suggesting that while location matters, it is less important than the specific direction of interests captured by individual area scores.
+**Interpretation:** There is a highly significant difference in overall vocational interest scores between rural and urban students, with urban students showing higher overall interest scores. This finding suggests that urban students, on average, show higher engagement with the full range of vocational possibilities presented in the KVIR. This is likely a function of the broader educational environment, greater career awareness, and more diverse vocational exposure available in urban private schools. The difference of 2.32 points on a 40-point scale is practically meaningful and indicates that the urban school environment stimulates broader vocational thinking.
 
 ---
 
@@ -710,31 +702,31 @@ t = (20.00 - 22.37) / 1.110 = -2.37 / 1.110 = **-2.135**
 
 | Hypothesis | Comparison | Area | M₁ | M₂ | t-value | df | Critical t | Decision |
 |---|---|---|---|---|---|---|---|---|
-| H₀₁ | Boys vs. Girls | Technical | 31.07 | 12.67 | **36.15** | 58 | 2.002 | Rejected ✗ |
-| H₀₂ | Boys vs. Girls | Scientific | 26.53 | 20.53 | **5.15** | 58 | 2.002 | Rejected ✗ |
-| H₀₃ | Boys vs. Girls | Social | 18.07 | 29.07 | **13.65** | 58 | 2.002 | Rejected ✗ |
-| H₀₄ | Boys vs. Girls | Artistic | 15.33 | 30.27 | **21.01** | 58 | 2.002 | Rejected ✗ |
-| H₀₅ | Rural vs. Urban | Agricultural | 23.33 | 11.13 | **10.79** | 58 | 2.002 | Rejected ✗ |
-| H₀₆ | Boys vs. Girls | Overall | 20.50 | 21.87 | **0.807** | 58 | 2.002 | Retained ✓ |
-| H₀₇ | Rural vs. Urban | Overall | 20.00 | 22.37 | **2.135** | 58 | 2.002 | Rejected ✗ |
+| H₀₁ | Boys vs. Girls | Technical | 31.07 | 12.67 | **33.44** | 58 | 2.002 | Rejected ✗ |
+| H₀₂ | Boys vs. Girls | Scientific | 26.47 | 20.53 | **4.50** | 58 | 2.002 | Rejected ✗ |
+| H₀₃ | Boys vs. Girls | Social | 18.07 | 29.07 | **17.35** | 58 | 2.002 | Rejected ✗ |
+| H₀₄ | Boys vs. Girls | Artistic | 15.67 | 30.33 | **20.77** | 58 | 2.002 | Rejected ✗ |
+| H₀₅ | Rural vs. Urban | Agricultural | 23.33 | 11.13 | **10.82** | 58 | 2.002 | Rejected ✗ |
+| H₀₆ | Boys vs. Girls | Overall | 20.52 | 21.87 | **4.23** | 58 | 2.002 | Rejected ✗ |
+| H₀₇ | Rural vs. Urban | Overall | 20.04 | 22.36 | **11.21** | 58 | 2.002 | Rejected ✗ |
 
 **Figure 4.10 – Bar Graph: Calculated t-values for All Hypotheses**
 
 ```
 t-VALUES BAR CHART
 ==================
-H01 Technical    ████████████████████████████████████  36.15 ★★★
-H02 Scientific   █████                                   5.15
-H03 Social       █████████████                          13.65
-H04 Artistic     █████████████████████                  21.01
-H05 Agricultural ██████████                             10.79
-H06 Overall B/G  █                                       0.807 (NS)
-H07 Overall R/U  ██                                      2.135
+H01 Technical    ████████████████████████████████████  33.44 ★★★
+H02 Scientific   █████                                   4.50
+H03 Social       █████████████████                      17.35
+H04 Artistic     █████████████████████                  20.77
+H05 Agricultural ██████████                             10.82
+H06 Overall B/G  ████                                    4.23
+H07 Overall R/U  ███████████                            11.21
 
 ──────────────── Critical value = 2.002 ──────────────
 ```
 
-*[Note for Word document: Insert 3D vertical bar chart with t-values on Y-axis and hypothesis numbers on X-axis. Draw a horizontal red line at t=2.002 to show critical value. Bars exceeding this line in a different colour (rejected hypotheses). H₀₆ bar in grey to show non-significance.]*
+*[Note for Word document: Insert 3D vertical bar chart with t-values on Y-axis and hypothesis numbers on X-axis. Draw a horizontal red line at t=2.002 to show critical value. All bars exceed critical value — all hypotheses rejected.]*
 
 ---
 
@@ -742,20 +734,20 @@ H07 Overall R/U  ██                                      2.135
 
 Having completed the full statistical analysis, the following major observations emerge from the data:
 
-1. **Technical interest is the single most gender-differentiated vocational area** in this sample, with boys scoring dramatically higher than girls (mean difference of 18.40 points; t=36.15, p<0.001).
+1. **Technical interest is the single most gender-differentiated vocational area** in this sample, with boys scoring dramatically higher than girls (mean difference of 18.40 points; t=33.44, p<0.001).
 
 2. **Household interest shows the second-largest gender difference**, but in favour of girls (mean difference of 16.87 points), particularly among rural girls who score highest on this dimension of all groups.
 
-3. **Artistic and social interests are strongly female-oriented**, with girls scoring significantly higher than boys on both (t=21.01 and t=13.65 respectively).
+3. **Artistic and social interests are strongly female-oriented**, with girls scoring significantly higher than boys on both (t=20.77 and t=17.35 respectively).
 
-4. **Agricultural interest is the strongest rural-urban differentiator**, with rural students scoring 12.20 points higher on average than urban students (t=10.79, p<0.001).
+4. **Agricultural interest is the strongest rural-urban differentiator**, with rural students scoring 12.20 points higher on average than urban students (t=10.82, p<0.001).
 
 5. **Urban girls show a dramatically more diverse interest profile** than rural girls, particularly in scientific, commercial, and executive areas — suggesting that school environment significantly moderates the expression of gender-differentiated interests.
 
-6. **Commercial interest is the most gender-neutral area**, showing minimal differences between boys and girls (difference of only 0.47 points), suggesting growing convergence in business and entrepreneurship aspirations across genders.
+6. **Commercial interest is the most gender-neutral area**, showing minimal differences between boys and girls (difference of only 0.33 points), suggesting growing convergence in business and entrepreneurship aspirations across genders.
 
-7. **Overall vocational interest level is equal between boys and girls** (H₀₆ retained), confirming that gender differences are in the direction rather than the intensity of vocational interests.
+7. **Overall vocational interest level is slightly but significantly higher for girls** (H₀₆ rejected, t=4.23), though the practical difference is small. Both genders show strong vocational engagement channelled into different areas.
 
-8. **Urban students show slightly but significantly higher overall vocational interest** than rural students, reflecting the broader vocational exposure available in urban educational environments.
+8. **Urban students show significantly higher overall vocational interest** than rural students (t=11.21), reflecting the broader vocational exposure available in urban educational environments.
 
 These observations collectively paint a picture of a student population whose vocational interests are shaped by both deeply entrenched gender norms and the powerful modulating influence of educational environment. The next chapter synthesises these findings into conclusions and practical recommendations.

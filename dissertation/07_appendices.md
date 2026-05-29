@@ -184,13 +184,13 @@ Area Score = Sum of scores on the 20 items belonging to that area.
 | RB04 | Rural Boy | 16 | 20 | 34 | 10 | 20 | 16 | 32 | 8 | 12 | Technical |
 | RB05 | Rural Boy | 22 | 18 | 26 | 18 | 12 | 24 | 24 | 10 | 20 | Technical |
 | RB06 | Rural Boy | 12 | 28 | 32 | 10 | 16 | 20 | 30 | 6 | 14 | Technical |
-| RB07 | Rural Boy | 18 | 22 | 28 | 14 | 18 | 22 | 28 | 10 | 18 | Technical |
+| RB07 | Rural Boy | 18 | 22 | 28 | 14 | 18 | 22 | 28 | 10 | 18 | Tech/Agri |
 | RB08 | Rural Boy | 16 | 24 | 30 | 12 | 14 | 18 | 26 | 8 | 16 | Technical |
 | RB09 | Rural Boy | 20 | 20 | 32 | 16 | 16 | 20 | 32 | 10 | 14 | Tech/Agri |
-| RB10 | Rural Boy | 14 | 26 | 28 | 14 | 20 | 24 | 28 | 8 | 16 | Technical |
+| RB10 | Rural Boy | 14 | 26 | 28 | 14 | 20 | 24 | 28 | 8 | 16 | Tech/Agri |
 | RB11 | Rural Boy | 18 | 22 | 30 | 12 | 16 | 18 | 30 | 10 | 18 | Tech/Agri |
 | RB12 | Rural Boy | 16 | 24 | 32 | 10 | 14 | 20 | 28 | 6 | 14 | Technical |
-| RB13 | Rural Boy | 20 | 20 | 26 | 16 | 18 | 22 | 26 | 12 | 20 | Agricultural |
+| RB13 | Rural Boy | 20 | 20 | 26 | 16 | 18 | 22 | 26 | 12 | 20 | Tech/Agri |
 | RB14 | Rural Boy | 14 | 26 | 34 | 12 | 16 | 18 | 32 | 8 | 16 | Technical |
 | RB15 | Rural Boy | 18 | 22 | 30 | 14 | 18 | 20 | 30 | 10 | 14 | Tech/Agri |
 | RG01 | Rural Girl | 26 | 14 | 12 | 28 | 16 | 14 | 18 | 30 | 28 | Household |
@@ -199,27 +199,27 @@ Area Score = Sum of scores on the 20 items belonging to that area.
 | RG04 | Rural Girl | 22 | 18 | 10 | 32 | 14 | 14 | 18 | 34 | 26 | Household |
 | RG05 | Rural Girl | 26 | 14 | 12 | 28 | 16 | 16 | 16 | 30 | 28 | Household |
 | RG06 | Rural Girl | 24 | 16 | 10 | 30 | 12 | 14 | 20 | 32 | 30 | Household |
-| RG07 | Rural Girl | 28 | 12 | 14 | 26 | 16 | 16 | 18 | 28 | 28 | Literary |
+| RG07 | Rural Girl | 28 | 12 | 14 | 26 | 16 | 16 | 18 | 28 | 28 | Lit/HH/Soc |
 | RG08 | Rural Girl | 22 | 18 | 10 | 30 | 14 | 12 | 16 | 32 | 26 | Household |
 | RG09 | Rural Girl | 26 | 14 | 12 | 28 | 16 | 14 | 20 | 30 | 28 | Household |
 | RG10 | Rural Girl | 24 | 16 | 10 | 32 | 18 | 16 | 18 | 32 | 30 | Art/HH |
-| RG11 | Rural Girl | 28 | 12 | 14 | 28 | 14 | 14 | 16 | 30 | 28 | Literary |
+| RG11 | Rural Girl | 28 | 12 | 14 | 28 | 14 | 14 | 16 | 30 | 28 | Household |
 | RG12 | Rural Girl | 22 | 18 | 10 | 26 | 16 | 12 | 20 | 34 | 26 | Household |
-| RG13 | Rural Girl | 26 | 14 | 12 | 30 | 14 | 16 | 18 | 30 | 28 | Artistic |
+| RG13 | Rural Girl | 26 | 14 | 12 | 30 | 14 | 16 | 18 | 30 | 28 | Art/HH |
 | RG14 | Rural Girl | 24 | 16 | 10 | 28 | 16 | 14 | 16 | 28 | 30 | Social |
 | RG15 | Rural Girl | 28 | 14 | 12 | 30 | 18 | 14 | 20 | 32 | 28 | Household |
 | UB01 | Urban Boy | 20 | 30 | 32 | 18 | 24 | 28 | 14 | 10 | 20 | Technical |
 | UB02 | Urban Boy | 22 | 32 | 34 | 16 | 26 | 26 | 12 | 8 | 18 | Technical |
-| UB03 | Urban Boy | 18 | 28 | 30 | 20 | 22 | 30 | 16 | 10 | 22 | Executive |
+| UB03 | Urban Boy | 18 | 28 | 30 | 20 | 22 | 30 | 16 | 10 | 22 | Tech/Exec |
 | UB04 | Urban Boy | 24 | 30 | 32 | 18 | 28 | 28 | 12 | 8 | 20 | Technical |
 | UB05 | Urban Boy | 20 | 32 | 34 | 16 | 24 | 26 | 14 | 10 | 18 | Technical |
 | UB06 | Urban Boy | 22 | 28 | 30 | 20 | 22 | 30 | 12 | 8 | 24 | Tech/Exec |
 | UB07 | Urban Boy | 18 | 30 | 32 | 18 | 26 | 28 | 14 | 10 | 20 | Technical |
 | UB08 | Urban Boy | 24 | 32 | 34 | 16 | 24 | 26 | 12 | 8 | 18 | Technical |
-| UB09 | Urban Boy | 20 | 28 | 30 | 20 | 22 | 30 | 14 | 10 | 22 | Executive |
+| UB09 | Urban Boy | 20 | 28 | 30 | 20 | 22 | 30 | 14 | 10 | 22 | Tech/Exec |
 | UB10 | Urban Boy | 22 | 30 | 32 | 18 | 28 | 28 | 12 | 8 | 20 | Technical |
 | UB11 | Urban Boy | 18 | 32 | 34 | 16 | 24 | 26 | 14 | 10 | 18 | Technical |
-| UB12 | Urban Boy | 24 | 28 | 30 | 20 | 22 | 30 | 12 | 8 | 22 | Executive |
+| UB12 | Urban Boy | 24 | 28 | 30 | 20 | 22 | 30 | 12 | 8 | 22 | Tech/Exec |
 | UB13 | Urban Boy | 20 | 30 | 32 | 18 | 26 | 28 | 14 | 10 | 20 | Technical |
 | UB14 | Urban Boy | 22 | 32 | 34 | 16 | 24 | 26 | 12 | 8 | 18 | Technical |
 | UB15 | Urban Boy | 20 | 28 | 30 | 20 | 24 | 28 | 14 | 10 | 22 | Tech/Exec |
@@ -263,32 +263,34 @@ SD = √[(ΣX²/N) - M²]
 = √6.31
 = **2.51**
 
+*Note: The slight discrepancy between this manually computed value (2.51) and the precise computed value (2.47) is due to rounding in the mean (30.13 is rounded from 30.1333...). The precisely calculated SD using the exact mean is 2.47.*
+
 ---
 
 ### F.2 Sample t-test Calculation — Social Interest: Boys vs. Girls
 
 **Given:**
 - M₁ (Boys) = 18.07; M₂ (Girls) = 29.07
-- SD₁ = 3.68; SD₂ = 2.44
+- SD₁ = 2.94; SD₂ = 1.84
 - N₁ = N₂ = 30; df = 58
 
 **Step 1: SE of Difference**
 SE = √[(SD₁²/N₁) + (SD₂²/N₂)]
-= √[(3.68²/30) + (2.44²/30)]
-= √[(13.5424/30) + (5.9536/30)]
-= √[0.45141 + 0.19845]
-= √0.64986
-= **0.8062**
+= √[(2.94²/30) + (1.84²/30)]
+= √[(8.6436/30) + (3.3856/30)]
+= √[0.28812 + 0.11285]
+= √0.40097
+= **0.6332**
 
 **Step 2: t-value**
 t = (M₁ - M₂) / SE
-= (18.07 - 29.07) / 0.8062
-= -11.00 / 0.8062
-= **-13.65** (|t| = 13.65)
+= (18.07 - 29.07) / 0.6332
+= -11.00 / 0.6332
+= **-17.37** (|t| = 17.37)
 
 **Step 3: Decision**
 Critical t at df=58, α=0.05 (two-tailed) = 2.002
-Since |t| = 13.65 > 2.002, the null hypothesis is **REJECTED**.
+Since |t| = 17.37 > 2.002, the null hypothesis is **REJECTED**.
 
 ---
 
@@ -314,10 +316,10 @@ Since |t| = 13.65 > 2.002, the null hypothesis is **REJECTED**.
 
 **Chart 1 — Pie Chart Set:**
 Four individual pie charts showing dominant vocational interest distribution for:
-- Rural Boys (Technical 46.67%, Agricultural 33.33%, Scientific 13.33%, Executive 6.67%)
-- Rural Girls (Household 40%, Social 33.33%, Artistic 20%, Literary 6.67%)
-- Urban Boys (Technical 40%, Scientific 33.33%, Executive 20%, Commercial 6.67%)
-- Urban Girls (Artistic 33.33%, Social 26.67%, Scientific 20%, Literary 13.33%, Commercial 6.67%)
+- Rural Boys (Technical sole dominant 60%, Technical/Agricultural tied 40%)
+- Rural Girls (Household sole dominant 53.33%, Household tied 33.33%, Social 13.33%)
+- Urban Boys (Technical sole dominant 73.33%, Technical/Executive tied 26.67%)
+- Urban Girls (Artistic 66.67%, Social 33.33%)
 
 *Colour scheme: Use a different, vivid colour for each vocational area consistently across all four charts.*
 

@@ -24,7 +24,7 @@ The present study was undertaken with the principal objective of examining and c
 
 **Statistical Techniques:** Percentage Analysis, Mean, Standard Deviation, and t-test for Independent Samples; all hypotheses tested at the 0.05 level of significance.
 
-**Hypotheses:** Seven null hypotheses were formulated and tested. Six were rejected, and one was retained.
+**Hypotheses:** Seven null hypotheses were formulated and tested. All seven were rejected.
 
 The data collection was completed during September 2025 at both schools, following formal permissions from the respective principals and informed assent from all participating students. The complete data was scored, tabulated, and analysed using the statistical techniques described above.
 
@@ -37,16 +37,16 @@ The following major findings emerged from the analysis of data:
 ### Gender-Wise Findings
 
 **Finding 1:**
-Boys scored significantly higher than girls in **Technical vocational interest** (Boys M=31.07, Girls M=12.67; t=36.15, p<0.05). Technical interest is the most gender-differentiated vocational area in this study, with boys showing an overwhelming dominance. This finding is consistent with virtually all previous research in this area (Su et al., 2009; Thakur and Saini, 1980).
+Boys scored significantly higher than girls in **Technical vocational interest** (Boys M=31.07, Girls M=12.67; t=33.44, p<0.05). Technical interest is the most gender-differentiated vocational area in this study, with boys showing an overwhelming dominance. This finding is consistent with virtually all previous research in this area (Su et al., 2009; Thakur and Saini, 1980).
 
 **Finding 2:**
-Boys scored significantly higher than girls in **Scientific vocational interest** (Boys M=26.53, Girls M=20.53; t=5.15, p<0.05). However, the gender gap in scientific interest is considerably smaller than that for technical interest, and was notably narrower among urban students.
+Boys scored significantly higher than girls in **Scientific vocational interest** (Boys M=26.47, Girls M=20.53; t=4.50, p<0.05). However, the gender gap in scientific interest is considerably smaller than that for technical interest, and was notably narrower among urban students.
 
 **Finding 3:**
-Girls scored significantly higher than boys in **Social vocational interest** (Girls M=29.07, Boys M=18.07; t=13.65, p<0.05). Social interest — encompassing helping professions, community service, and interpersonal careers — is strongly oriented towards girls in this sample.
+Girls scored significantly higher than boys in **Social vocational interest** (Girls M=29.07, Boys M=18.07; t=17.35, p<0.05). Social interest — encompassing helping professions, community service, and interpersonal careers — is strongly oriented towards girls in this sample.
 
 **Finding 4:**
-Girls scored significantly higher than boys in **Artistic vocational interest** (Girls M=30.27, Boys M=15.33; t=21.01, p<0.05). Artistic interest is the second most gender-differentiated area, with girls showing a pronounced inclination towards creative and expressive vocations.
+Girls scored significantly higher than boys in **Artistic vocational interest** (Girls M=30.33, Boys M=15.67; t=20.77, p<0.05). Artistic interest is the second most gender-differentiated area, with girls showing a pronounced inclination towards creative and expressive vocations.
 
 **Finding 5:**
 Girls scored significantly higher than boys in **Household vocational interest** (Girls M=25.93, Boys M=9.07; difference=16.87). Household interest is particularly dominant among rural girls.
@@ -55,21 +55,21 @@ Girls scored significantly higher than boys in **Household vocational interest**
 Boys scored higher than girls in **Executive and Agricultural vocational interests**, though the gender differences in these areas were not the primary focus of formal t-tests.
 
 **Finding 7:**
-**Commercial vocational interest** showed the smallest gender difference in the entire study (Boys M=20.53, Girls M=20.07; difference=0.47). This near-equality suggests that commercial and business interests are increasingly gender-neutral among today's secondary school students.
+**Commercial vocational interest** showed the smallest gender difference in the entire study (Boys M=20.40, Girls M=20.07; difference=0.33). This near-equality suggests that commercial and business interests are increasingly gender-neutral among today's secondary school students.
 
 **Finding 8:**
-**Overall vocational interest scores** did not differ significantly between boys and girls (t=0.807, p>0.05 — H₀₆ retained). Both genders show equal overall intensity of vocational engagement; they differ in direction, not in magnitude.
+**Overall vocational interest scores** differed significantly but modestly between boys and girls (t=4.23, p<0.05 — H₀₆ rejected). Girls showed slightly higher overall interest engagement (M=21.87 vs. M=20.52), though the practical difference is small. The key gender distinction lies in the *direction* of interests rather than their overall intensity.
 
 ### Location-Wise Findings
 
 **Finding 9:**
-Rural students scored significantly higher than urban students in **Agricultural vocational interest** (Rural M=23.33, Urban M=11.13; t=10.79, p<0.05). This is the largest rural-urban difference in the study and directly reflects the occupational culture of rural families.
+Rural students scored significantly higher than urban students in **Agricultural vocational interest** (Rural M=23.33, Urban M=11.13; t=10.82, p<0.05). This is the largest rural-urban difference in the study and directly reflects the occupational culture of rural families.
 
 **Finding 10:**
 Urban students scored substantially higher than rural students in **Scientific, Commercial, and Executive vocational interests**. The urban advantage in these areas reflects the greater career awareness, better educational resources, and wider vocational exposure available in urban CBSE-affiliated private schools.
 
 **Finding 11:**
-**Urban boys** showed considerably higher scientific (M=30.13 vs. M=22.93), commercial (M=24.67 vs. M=16.40), and executive (M=27.87 vs. M=20.13) interests compared to rural boys.
+**Urban boys** showed considerably higher scientific (M=30.00 vs. M=22.93), commercial (M=24.40 vs. M=16.40), and executive (M=27.87 vs. M=20.13) interests compared to rural boys.
 
 **Finding 12:**
 **Urban girls** showed dramatically higher scientific interest (M=26.13 vs. M=14.93) and higher commercial (M=24.67 vs. M=15.47) and executive (M=22.13 vs. M=14.27) interests compared to rural girls. This finding indicates that the urban school environment has a particularly powerful broadening effect on girls' vocational horizons.
@@ -78,21 +78,21 @@ Urban students scored substantially higher than rural students in **Scientific, 
 **Rural girls** showed the highest household interest of all four groups (M=30.80), while **rural boys** showed the highest agricultural interest (M=28.67). This confirms the strong influence of traditional gender roles in rural communities.
 
 **Finding 14:**
-Urban students showed slightly but significantly higher overall vocational interest scores compared to rural students (Urban M=22.37, Rural M=20.00; t=2.135, p<0.05 — H₀₇ rejected).
+Urban students showed significantly higher overall vocational interest scores compared to rural students (Urban M=22.36, Rural M=20.04; t=11.21, p<0.05 — H₀₇ rejected).
 
 ### Dominant Interest Area Findings
 
 **Finding 15:**
-The dominant vocational interest among **rural boys** was Technical (46.67%), followed by Agricultural (33.33%).
+The dominant vocational interest among **rural boys** was Technical (100% — all 15 students), with Agricultural as a co-dominant tied area for 6 students (40%).
 
 **Finding 16:**
-The dominant vocational interest among **rural girls** was Household (40.00%), followed by Social (33.33%).
+The dominant vocational interest among **rural girls** was Household (86.67% — 13 out of 15 students showed it as dominant or co-dominant), followed by Social (13.33% as sole dominant).
 
 **Finding 17:**
-The dominant vocational interest among **urban boys** was Technical (40.00%), followed by Scientific (33.33%).
+The dominant vocational interest among **urban boys** was Technical (100% — all 15 students), with Executive as a co-dominant tied area for 4 students (26.67%).
 
 **Finding 18:**
-The dominant vocational interest among **urban girls** was Artistic (33.33%), followed by Social (26.67%) and Scientific (20.00%).
+The dominant vocational interest among **urban girls** was Artistic (66.67%), followed by Social (33.33%).
 
 ---
 
@@ -120,7 +120,7 @@ Based on the analysis of data and the findings presented above, the following co
 
 **Conclusion 1:** Significant gender differences exist in specific vocational interest areas among secondary school students. Boys show significantly higher technical and scientific interests; girls show significantly higher social, artistic, and household interests. These differences are robust and consistent with the national and international literature.
 
-**Conclusion 2:** The overall intensity of vocational interest is equal between boys and girls. Gender differences are in the direction (preference for specific areas) rather than the overall level of vocational motivation.
+**Conclusion 2:** While girls show slightly higher overall vocational interest scores than boys (a statistically significant but practically small difference), the primary gender difference lies in the *direction* of interest — boys and girls channel their vocational energy into very different areas rather than one gender being substantially more interested in work generally.
 
 **Conclusion 3:** Rural and urban secondary school students differ significantly in their vocational interest profiles. Rural students show stronger agricultural interests; urban students show stronger scientific, commercial, and executive interests. These differences reflect the distinct occupational cultures and educational environments of rural and urban settings.
 
